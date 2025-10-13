@@ -11,14 +11,10 @@
             "id": "4a17759f005912cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Lesson.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lesson"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -148,13 +144,23 @@
               "icon": "lucide-list",
               "title": "Struttura di crea un collegamento"
             }
+          },
+          {
+            "id": "b95e757559c8201b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,12 +172,17 @@
       "command-palette:Apri riquadro comandi": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4a17759f005912cb",
   "lastOpenFiles": [
     "File sistem.md",
+    "13-10-2025-8.md",
+    "README.md",
+    "Templates/Lesson.md",
+    "LICENSE",
     "Bookshelf/Indice Archivio.md",
     "Bookshelf/worckflow.canvas",
     "Bookshelf/Indice note.md",
@@ -180,14 +191,12 @@
     "Untitled 7.md",
     "Templates/Sposta note in Lesson.md",
     "Templates/Sposta note in processed.md",
-    "13-10-2025-8.md",
     "Untitled 5.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Templates/Lesson.md",
     "Archive/13-10-2025-7.md",
     "Bookshelf/tag_descriptions.md",
     "Bookshelf/Tag Dashboard.md.md",
@@ -207,7 +216,6 @@
     "Note/Completate",
     "Note/In lavorazione",
     "Note/Grezze",
-    "Work/Flusso di lavoro.canvas",
-    "IMG"
+    "Work/Flusso di lavoro.canvas"
   ]
 }
