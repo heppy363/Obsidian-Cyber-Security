@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ec22daa450e138c",
+        "id": "90a6bf3da03bc2fa",
         "type": "tabs",
         "children": [
           {
-            "id": "4a17759f005912cb",
+            "id": "07a0745807836b99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Processed/Certificati ottenuti.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Certificati ottenuti"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,6 +158,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "28e2353a9013dbd7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
@@ -176,46 +190,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a17759f005912cb",
+  "active": "07a0745807836b99",
   "lastOpenFiles": [
-    "File sistem.md",
-    "13-10-2025-8.md",
     "README.md",
-    "Templates/Lesson.md",
-    "LICENSE",
-    "Bookshelf/Indice Archivio.md",
-    "Bookshelf/worckflow.canvas",
-    "Bookshelf/Indice note.md",
+    "Processed/Certificati ottenuti.md",
+    "Processed/Percorso di certificazione.md",
+    "Possibile inizio di cariera 1.md",
     "Templates/Sposta note in archivio.md",
-    "Untitled 6.md",
-    "Untitled 7.md",
     "Templates/Sposta note in Lesson.md",
-    "Templates/Sposta note in processed.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Archive/13-10-2025-7.md",
-    "Bookshelf/tag_descriptions.md",
-    "Bookshelf/Tag Dashboard.md.md",
-    "Templates/Indice tag.md",
-    "Archive/12-10-2025-2.md",
-    "Archive/12-10-2025-6.md",
-    "Templates/counter.md",
-    "Lesson/12-10-2025-3.md",
-    "Lesson/12-10-2025-4.md",
+    "Bookshelf/Indice note.md",
+    "Bookshelf/Indice Archivio.md",
+    "Bookshelf/Indice note docker.md",
+    "Processed/Buone pratiche nella gestione delle immagini docker.md",
+    "Processed/Untitled.md",
+    "Bookshelf/worckflow.canvas",
+    "Archive/18-10-2025-13.md",
+    "Processed/Ricerca delle immagini docker.md",
+    "Processed/Download (pull) di un’immagine docker.md",
+    "Processed/Visualizzare le immagini docker presenti nel sistema.md",
+    "Processed/Ispezionare la storia e i layer di un’immagine docker.md",
+    "Processed/Eliminazione delle immagini docker.md",
+    "Processed/Comandi docker.md",
+    "Processed/Pulizia delle immagini docker inutilizzate.md",
+    "Processed/Comandi avanzati per la gestione delle immagini docker.md",
+    "Processed/Installazione di docker.md",
+    "Processed/Output dell’installazione docker linux.md",
+    "Processed/Disabilitare il Docker “root”.md",
+    "Processed/Verifica del servizio Rootless docker.md",
+    "Archive/16-10-2025-12.md",
+    "Processed/Installazione del Docker Rootless Daemon.md",
+    "Resources/PDF/background-slides.pdf",
+    "Resources/PDF/docker-cheatsheet-2.pdf",
+    "Resources/PDF",
+    "Resources/IMG",
+    "Resources",
+    "LICENSE",
     "Archive",
     "Processed",
     "Lesson",
     "Bookshelf",
-    "IMG",
-    "Templates",
     "IMG/Pasted image 20251004122946.png",
-    "Note/Completate",
-    "Note/In lavorazione",
-    "Note/Grezze",
     "Work/Flusso di lavoro.canvas"
   ]
 }

@@ -9,7 +9,7 @@ Sposta tutte le note contenenti 'Archivio' o '#Archivio' in 'Archive/'
 
 const active = app.workspace.getActiveFile();
 const allFiles = app.vault.getMarkdownFiles();
-const tagRegex = /#?\bArchivio\b/i;                 // tag da cercare (case-insensitive)
+const tagRegex = /#?\bArchiviO\b/i;                 // tag da cercare (case-insensitive)
 const destFolder = "Archive";                       // cartella di destinazione
 const excludeFolders = ["Templates", "Archive", "Bookshelf"];    // cartelle da ignorare
 const dryRun = false;                               // false = sposta davvero
