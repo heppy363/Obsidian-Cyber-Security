@@ -4,21 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "90a6bf3da03bc2fa",
+        "id": "4d31abf3746138c9",
         "type": "tabs",
         "children": [
           {
-            "id": "07a0745807836b99",
+            "id": "979bcc1968fb69ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processed/Certificati ottenuti.md",
+                "file": "Blog personale didattico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Certificati ottenuti"
+              "title": "Blog personale didattico"
+            }
+          }
+        ]
+      },
+      {
+        "id": "916d2c9e65c958a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a523b0326380b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistema di build codice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sistema di build codice"
+            }
+          },
+          {
+            "id": "df1d70b2d93bba10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funzionalita front-end.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funzionalita front-end"
+            }
+          },
+          {
+            "id": "3d15f867846c7c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funzionalita possessore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funzionalita possessore"
             }
           }
         ]
@@ -53,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docke",
+                "query": "yt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "555e91e6c56c459b",
@@ -174,53 +223,64 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crea nuova Base": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07a0745807836b99",
+  "active": "94a523b0326380b5",
   "lastOpenFiles": [
+    "Blog personale didattico.md",
+    "Funzionalita possessore.md",
+    "Funzionalita front-end.md",
+    "Sistema di build codice.md",
+    "Progetto ZimmaBoard.md",
+    "Bookshelf/worckflow.canvas",
+    "Bookshelf/Indice note.md",
+    "Bookshelf/Indice note docker.md",
+    "Bookshelf/Indice Archivio.md",
     "README.md",
+    "Archive/19-10-2025-14.md",
+    "Fattura Ruth Hodkinson.md",
+    "Processed/Utilizzare YouTube senza interagire con l'algoritmo (senza AI).md",
+    "Resources/PDF/docker-cheatsheet-2.pdf",
+    "Resources/PDF/background-slides.pdf",
+    "Processed/Winboat Eseguire qualsiasi app Windows su Linux.md",
+    "Screenshot_20251028_212244.png",
+    "Documento - Evidenza problematiche.md",
+    "Documento modifiche – Redazione per sito 6Stanco.md",
+    "Documento tecnico – Redazione per sito 6stanco.md",
+    "Redazione preventivo.md",
+    "Immagine 2025-10-28 220025.png",
+    "Screenshot_20251028_214946.png",
+    "Screenshot_20251028_214923.png",
+    "Screenshot_20251028_214853.png",
+    "Screenshot_20251028_214802 1.png",
+    "Screenshot_20251028_214802.png",
+    "Screenshot_20251028_212401.png",
+    "Screenshot_20251028_212244 1.png",
+    "Screenshot_20251028_211754.png",
     "Processed/Certificati ottenuti.md",
     "Processed/Percorso di certificazione.md",
     "Possibile inizio di cariera 1.md",
     "Templates/Sposta note in archivio.md",
     "Templates/Sposta note in Lesson.md",
-    "Bookshelf/Indice note.md",
-    "Bookshelf/Indice Archivio.md",
-    "Bookshelf/Indice note docker.md",
     "Processed/Buone pratiche nella gestione delle immagini docker.md",
     "Processed/Untitled.md",
-    "Bookshelf/worckflow.canvas",
     "Archive/18-10-2025-13.md",
     "Processed/Ricerca delle immagini docker.md",
-    "Processed/Download (pull) di un’immagine docker.md",
-    "Processed/Visualizzare le immagini docker presenti nel sistema.md",
-    "Processed/Ispezionare la storia e i layer di un’immagine docker.md",
-    "Processed/Eliminazione delle immagini docker.md",
-    "Processed/Comandi docker.md",
-    "Processed/Pulizia delle immagini docker inutilizzate.md",
-    "Processed/Comandi avanzati per la gestione delle immagini docker.md",
-    "Processed/Installazione di docker.md",
-    "Processed/Output dell’installazione docker linux.md",
-    "Processed/Disabilitare il Docker “root”.md",
-    "Processed/Verifica del servizio Rootless docker.md",
-    "Archive/16-10-2025-12.md",
-    "Processed/Installazione del Docker Rootless Daemon.md",
-    "Resources/PDF/background-slides.pdf",
-    "Resources/PDF/docker-cheatsheet-2.pdf",
     "Resources/PDF",
     "Resources/IMG",
     "Resources",
@@ -229,7 +289,6 @@
     "Processed",
     "Lesson",
     "Bookshelf",
-    "IMG/Pasted image 20251004122946.png",
     "Work/Flusso di lavoro.canvas"
   ]
 }
