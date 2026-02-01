@@ -4,69 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d31abf3746138c9",
+        "id": "4d698a79c393eee4",
         "type": "tabs",
         "children": [
           {
-            "id": "979bcc1968fb69ec",
+            "id": "f71010c60c89caac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog personale didattico.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Blog personale didattico"
-            }
-          }
-        ]
-      },
-      {
-        "id": "916d2c9e65c958a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "94a523b0326380b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema di build codice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistema di build codice"
-            }
-          },
-          {
-            "id": "df1d70b2d93bba10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funzionalita front-end.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Funzionalita front-end"
-            }
-          },
-          {
-            "id": "3d15f867846c7c38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funzionalita possessore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Funzionalita possessore"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -126,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "555e91e6c56c459b",
@@ -240,13 +187,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94a523b0326380b5",
+  "active": "c64121aa6c0fb2fd",
   "lastOpenFiles": [
-    "Blog personale didattico.md",
-    "Funzionalita possessore.md",
-    "Funzionalita front-end.md",
-    "Sistema di build codice.md",
-    "Progetto ZimmaBoard.md",
+    "Untitled.md",
+    "Senza nome.md",
+    "Processed/Ralph plug in per Claud code IA.md",
+    "Processed/Risoluzioni problemi Ralph whindows.md",
+    "Processed/Specifiche file ralph.sh claud code.md",
+    "Resources/IMG/treeClaud.png",
+    "Processed/Che cosa sono le skils di cloud IA.md",
+    "Processed/Installare cloud CLI.md",
+    "Resources/IMG/ralphschemadifunzionamento.png",
+    "Processed/Sistema di build codice.md",
+    "Processed/Test del sistema in LOCALE.md",
+    "Processed/Blog personale didattico.md",
+    "Processed/Configurazione di una macchina virtuale in modalita Bridge.md",
+    "Processed/Configurazione di Gitea su macchina virtuale.md",
+    "Resources/IMG/GiteaRunner.png",
+    "Processed/Risoluzione problemi token Gitea.md",
+    "Processed/Funzionalita possessore.md",
+    "Processed/Funzionalita front-end.md",
+    "Processed/Progetto ZimmaBoard.md",
     "Bookshelf/worckflow.canvas",
     "Bookshelf/Indice note.md",
     "Bookshelf/Indice note docker.md",
@@ -261,26 +222,12 @@
     "Screenshot_20251028_212244.png",
     "Documento - Evidenza problematiche.md",
     "Documento modifiche – Redazione per sito 6Stanco.md",
-    "Documento tecnico – Redazione per sito 6stanco.md",
-    "Redazione preventivo.md",
     "Immagine 2025-10-28 220025.png",
     "Screenshot_20251028_214946.png",
     "Screenshot_20251028_214923.png",
     "Screenshot_20251028_214853.png",
     "Screenshot_20251028_214802 1.png",
     "Screenshot_20251028_214802.png",
-    "Screenshot_20251028_212401.png",
-    "Screenshot_20251028_212244 1.png",
-    "Screenshot_20251028_211754.png",
-    "Processed/Certificati ottenuti.md",
-    "Processed/Percorso di certificazione.md",
-    "Possibile inizio di cariera 1.md",
-    "Templates/Sposta note in archivio.md",
-    "Templates/Sposta note in Lesson.md",
-    "Processed/Buone pratiche nella gestione delle immagini docker.md",
-    "Processed/Untitled.md",
-    "Archive/18-10-2025-13.md",
-    "Processed/Ricerca delle immagini docker.md",
     "Resources/PDF",
     "Resources/IMG",
     "Resources",
