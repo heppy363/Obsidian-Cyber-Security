@@ -74,7 +74,6 @@ networks:
 ![[GiteaRunner.png]]
 - Come si puo notare il "Bollino" idle e verde il ce significa che tutto il sistema e correttamente configurato e prondo ad entrare in azione
 
-
 ## Configurazione PC host 
 1) Assicurarsi che sul sistema sia presente Git [da qui]([git-scm.com/download/win](https://git-scm.com/download/win))
 	1) vedere se tutto va bene `git --version` se da un numero va bene 
@@ -142,7 +141,14 @@ per fixare questa cosa si deve modificare l'url di base di gite quindi del suo c
 10) Poi si modfica nel `docker-compose-runner.yml`
 	1) `extra_hosts: - "gitea:192.168.178.200" # Sostituisci con l'IP della VM
 	2) aggiunger anche `network_mode: host` -> fa si che doker veda la rete esattemante come la tua macchina virtuale 
-	
+
+Il cuore di tutto il sistema risulta essere docker e i relativi file di composizione quindi adesso si analizzano con il seguente documento. 
+- [[Analisi dei fili docker usati]]
+
+### Note aggiuntive per la documentazione:
+- **IP VM:** `192.168.178.200`
+- **Porta Gitea:** `3000`
+- **Porta App Produzione:** `80` (mappata sulla `5000` interna del container).
 
 ## Link 
 1) 
