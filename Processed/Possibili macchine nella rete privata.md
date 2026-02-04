@@ -3,6 +3,7 @@ aliases:
   - Completate
 tags:
   - Completed
+  - H-net
 ---
 --- 
 ## Nozioni
