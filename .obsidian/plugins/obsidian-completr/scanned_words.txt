@@ -444,6 +444,10 @@ assolutamente
 avendo
 avrai
 architecture
+assemblaggio
+alimentazione
+attaccherai
+andranno
 Completate
 Completed
 Controlla
@@ -769,6 +773,8 @@ Corsair
 Carico
 Consumi
 Circa
+Critico
+Cablaggio
 tags
 tp
 tfile
@@ -1105,6 +1111,7 @@ torni
 terza
 telaio
 tieni
+terra
 Modulo
 MM
 Modalit
@@ -3450,6 +3457,9 @@ collegare
 caricher
 consumano
 camera
+comune
+connettori
+convogliatori
 file
 find
 for
@@ -3806,6 +3816,9 @@ funzioner
 forzi
 forzato
 farle
+fumo
+femmina
+fornito
 md
 modify
 muoverli
@@ -4169,6 +4182,8 @@ metti
 marchiamo
 madre
 mining
+meccanicamente
+maschio
 vault
 visibile
 vietate
@@ -4858,6 +4873,8 @@ raggiungono
 raffreddare
 regime
 rumorose
+rischia
+retro
 parseInt
 precedenti
 path
@@ -5319,6 +5336,9 @@ pinout
 passivi
 pieno
 pesante
+provenienti
+passive
+pressione
 date
 dasdas
 da
@@ -6747,6 +6767,8 @@ espulsione
 estratti
 epoca
 estrema
+elettricamente
+esserci
 Vault
 VM
 Village
@@ -7926,6 +7948,7 @@ inganna
 ispettore
 invertita
 inferenza
+incastrano
 Percorso
 Per
 Processed
@@ -9363,6 +9386,10 @@ spenderesti
 scende
 sembrano
 stanza
+sdoppiatore
+sciogliere
+stampare
+shroud
 Imposta
 IT
 Imparare
@@ -11282,6 +11309,7 @@ qualcosa
 queto
 queste
 quanti
+quadratini
 una
 utenti
 ultimi
@@ -11967,6 +11995,7 @@ GTK
 Gmail
 Gold
 Gen
+Guida
 Junior
 Jr
 June

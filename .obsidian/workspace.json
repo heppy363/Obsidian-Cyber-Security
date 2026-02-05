@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d6ec3c46c076d4d4",
+        "id": "5b468bb783259add",
         "type": "tabs",
         "children": [
           {
-            "id": "50967a3b0d8144d8",
+            "id": "ed861a9bbf92219c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookshelf/Indice H-net.md",
+                "file": "Bookshelf/Indice di N8N.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indice H-net"
-            }
-          },
-          {
-            "id": "0c3b51e3a84f85dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Server per AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Server per AI"
-            }
-          },
-          {
-            "id": "3023050f78ecde02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Componenti HW server IA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Componenti HW server IA"
-            }
-          },
-          {
-            "id": "68172c020ca31029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softwer per server IA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Softwer per server IA"
-            }
-          },
-          {
-            "id": "d5c2cf59193457ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consumo energetico server IA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Consumo energetico server IA"
-            }
-          },
-          {
-            "id": "9da437689e8b5777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Punto critico server IA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Punto critico server IA"
+              "title": "Indice di N8N"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
     "id": "555e91e6c56c459b",
@@ -262,35 +191,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68172c020ca31029",
+  "active": "ed861a9bbf92219c",
   "lastOpenFiles": [
-    "Consumo energetico server IA.md",
-    "Punto critico server IA.md",
-    "Componenti HW server IA.md",
-    "Softwer per server IA.md",
-    "Server per AI.md",
+    "Bookshelf/Indice Bot cerca lavoro.md",
+    "Bookshelf/Indice di N8N.md",
+    "Processed/Introduzione a N8N.md",
     "Bookshelf/Indice H-net.md",
-    "Bookshelf/Indice cerca lavoro.md",
-    "Processed/Possibili macchine nella rete privata.md",
-    "Trasferimento File da Win a linux.md",
-    "Processed/Gestione degli script trova lavoro.md",
-    "Processed/Gestione delle email trova lavoro.md",
+    "README.md",
+    "Processed/Percorso di certificazione.md",
+    "Processed/Certificati ottenuti.md",
+    "Bookshelf/Indice note.md",
+    "Bookshelf/worckflow.canvas",
+    "Processed/Server per AI.md",
     "Processed/Gestione dei container Docker torva lavoro.md",
     "Processed/Gestione degli errori bloccanti di cercatore lavori.md",
     "Bookshelf/Indice note Blog.md",
+    "Bookshelf/Indice note progetti personali.md",
+    "Processed/Componenti HW server IA.md",
+    "Processed/Consumo energetico server IA.md",
+    "Processed/Punto critico server IA.md",
+    "Processed/Softwer per server IA.md",
+    "Processed/Possibili macchine nella rete privata.md",
+    "Processed/Trasferimento File da Win a linux.md",
+    "Processed/Gestione degli script trova lavoro.md",
+    "Processed/Gestione delle email trova lavoro.md",
     "Processed/Test del sistema in LOCALE.md",
     "Processed/Stack tecnologico di cercatore lavori.md",
-    "Processed/Percorso di certificazione.md",
-    "README.md",
     "Processed/Gestione delle task.md",
     "Processed/Integrazione API costo zero.md",
     "Processed/Cercatore di lavori.md",
-    "Processed/Sistema di build codice.md",
-    "Processed/Analisi dei fili docker usati.md",
-    "Processed/Domande sul installazione in locale per test Gitea.md",
-    "Processed/Blog personale didattico.md",
-    "Bookshelf/Indice note IA.md",
-    "Bookshelf/worckflow.canvas",
     "Resources/IMG/treeClaud.png",
     "Resources/IMG/ralphschemadifunzionamento.png",
     "Resources/IMG/GiteaRunner.png",
