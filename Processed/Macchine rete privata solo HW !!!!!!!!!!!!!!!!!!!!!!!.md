@@ -11,6 +11,7 @@ tags:
 ### Componenti generali 
 1) 2 mini PC
 	- [[Specifiche hardware mini-PC]]
+	- [[Specifiche softwaremini PC]]
 2) 3 BC-250
 3) Server NAS
 4) Router

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a862b9e397102b75",
+            "id": "a11e52cb5e5a65c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,35 +22,7 @@
             }
           },
           {
-            "id": "a11e52cb5e5a65c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processed/Macchine rete privata solo HW.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Macchine rete privata solo HW"
-            }
-          },
-          {
-            "id": "e987a91010e23bfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processed/Specifiche hardware mini-PC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Specifiche hardware mini-PC"
-            }
-          },
-          {
-            "id": "8a21f1639aca608f",
+            "id": "1dd06d1ac467a6aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,35 +36,21 @@
             }
           },
           {
-            "id": "26f4733f8250956d",
+            "id": "f04affe7ef5c5440",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processed/Specifiche software router.md",
+                "file": "Processed/Specifiche hardware mini-PC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Specifiche software router"
+              "title": "Specifiche hardware mini-PC"
             }
           },
           {
-            "id": "9dce6dd78f99499e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processed/Consumo macchine rete personale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Consumo macchine rete personale"
-            }
-          },
-          {
-            "id": "a166bca00219d104",
+            "id": "86119632f6d08e5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -105,8 +63,7 @@
               "title": "Specifiche Netgear GS116E"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,14 +233,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c64121aa6c0fb2fd",
+  "active": "a11e52cb5e5a65c8",
   "lastOpenFiles": [
-    "Processed/Specifiche hardware mini-PC.md",
-    "Processed/Macchine rete privata solo HW.md",
-    "Processed/Specifiche hardware  router.md",
-    "Processed/Specifiche software router.md",
-    "Processed/Consumo macchine rete personale.md",
+    "Processed/Macchine rete privata solo HW !!!!!!!!!!!!!!!!!!!!!!!.md",
     "Processed/Specifiche Netgear GS116E.md",
+    "Processed/Specifiche hardware mini-PC.md",
+    "Processed/Specifiche hardware  router.md",
+    "Processed/Configurazione dei rete proxmox mini PC.md",
+    "Processed/Specifiche softwaremini PC.md",
+    "Processed/Specifiche software router.md",
+    "Processed/Gestione porte VLAN 1.0.md",
+    "Processed/Configurazione VLAN V1.0.md",
+    "Processed/Macchine pubbliche e private rete V1.0.md",
+    "Processed/Che cosa e una VLAN.md",
+    "Processed/Consumo macchine rete personale.md",
+    "Bookshelf/Indice note progetti personali.md",
     "Bookshelf/Indice H-net.md",
     "Bookshelf/Indice Archivio.md",
     "Bookshelf/Indice di N8N.md",
@@ -298,13 +262,6 @@
     "Processed/Gestione dei container Docker torva lavoro.md",
     "Processed/Gestione degli errori bloccanti di cercatore lavori.md",
     "Bookshelf/Indice note Blog.md",
-    "Bookshelf/Indice note progetti personali.md",
-    "Processed/Componenti HW server IA.md",
-    "Processed/Consumo energetico server IA.md",
-    "Processed/Punto critico server IA.md",
-    "Processed/Softwer per server IA.md",
-    "Processed/Trasferimento File da Win a linux.md",
-    "Processed/Gestione degli script trova lavoro.md",
     "Resources/IMG/treeClaud.png",
     "Resources/IMG/ralphschemadifunzionamento.png",
     "Resources/IMG/GiteaRunner.png",

@@ -4,6 +4,7 @@ aliases:
 tags:
   - Completed
   - H-net
+  - VLAN
 ---
 --- 
 ## Nozioni
@@ -31,6 +32,8 @@ Ecco cosa useremo concretamente nel tuo progetto:
 Il GS116E si gestisce in due modi:
 1. **Interfaccia Web:** Digiti l'IP dello switch nel browser e hai una dashboard completa (molto comoda).
 2. **ProSAFE Plus Utility:** Un software Windows dedicato per trovarlo in rete anche se non conosci l'IP o se hai fatto errori di configurazione.
+3. Che cosa e una VLAN [[Che cosa e una VLAN]]
+4. Gestione delle VLAN si tratta di tutto quello che riguarda la categorizzazione delle rete e la loro struttura, 
 
 
 

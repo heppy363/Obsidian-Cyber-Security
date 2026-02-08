@@ -23,6 +23,7 @@ BUDGET massimo per i miei mini PC 250 euro l'uno:
 - **EliteDesk 800 G4 mini**
 	- RAM ed SSD espandibili 
 - Alimentatore mini PC HP [qui](https://www.ebay.it/itm/224439999260?_skw=Alimentatore+HP+90W+con+connettore+7.4mm+x+5.0mm&itmmeta=01KGWJKE41BW76DHAB2J9KWVVX&hash=item3441aa9b1c:g:VkwAAOSwwpRght5z&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDLFvKVJCLmz%2BTvLez1QgfO0Ei2sMcR3KdS1f5InEvbb%2Fsavp1XeJuvqytTq6IUCXxQAsxv0Qqvw4eaXVHgDkEDXdbdo0ZFS3hmhZA8ALnOybwacvjD3Reqpnsqax0iq1OiNykk5YeAl4NtTHgmzhqNIH81lyVNSEU%2FNDhiNNz2K%2FnAdKThWA3AU1WcJscXN%2BvnugFn5F%2B%2BdXtGY0J4hVT%2BoDkIdeDV7YWbbDzN9Q7S1D6N%2FXyIkZt2Zecap%2BdQn8PdHXBSvS15jWXnNUTIkH0IY50sHFLrmnyTQbKFFzg81Y6PKW1CKSfohzeeI2vS2wfJjFKB5zBPQecOg%2BjCYQnS%7Ctkp%3ABk9SR4zizZKHZw) cerare alimentatore per EliteDesk 800 G4 mini da minimo 90W 
+- Cambiare pasta termina appena ritirati 
 
 - **HP ProDesk 600 G4 Mini**
 	- RAM ed SSD espandibili 
