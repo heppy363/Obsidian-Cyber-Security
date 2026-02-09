@@ -21,6 +21,6 @@ Ciò consente di avviare e arrestare container in pochi istanti, di ridimensiona
 ### In sintesi
 In conclusione, l’**immagine Docker** può essere vista come la “fotografia” di un ambiente di esecuzione, mentre il **container** rappresenta l’“esecuzione viva” di quella fotografia.  
 Grazie all’architettura a **layer** e al meccanismo di build basato sul **Dockerfile**, Docker riesce a garantire efficienza, modularità e portabilità, diventando lo standard de facto per la distribuzione e l’esecuzione di applicazioni moderne in ambienti cloud-native.
-
+- [[Container]]
 ## Link 
 1) 

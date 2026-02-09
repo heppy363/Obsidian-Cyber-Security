@@ -28,7 +28,6 @@ BUDGET massimo per i miei mini PC 250 euro l'uno:
 - **HP ProDesk 600 G4 Mini**
 	- RAM ed SSD espandibili 
 - Alimentatore mini PC HP da 90W con spinotto da 7.4 esterno e 0.5 interno cercare alimentatore per serie HP ProDesk 600 G4 Mini
-	- 
 
 
 ## Link 
