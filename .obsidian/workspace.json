@@ -8,13 +8,97 @@
         "type": "tabs",
         "children": [
           {
-            "id": "155402b773777d49",
+            "id": "9f0835b4dd243a06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Piano di studio CompTIA Network+.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Piano di studio CompTIA Network+"
+            }
+          },
+          {
+            "id": "22bd54c9e9f59a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduzione CompTIA Network+.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduzione CompTIA Network+"
+            }
+          },
+          {
+            "id": "4902f1ecfda30b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modello ISO-OSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modello ISO-OSI"
+            }
+          },
+          {
+            "id": "f2cc6fb8fe353c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Incapsulamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Incapsulamento"
+            }
+          },
+          {
+            "id": "c8a53e45b69560f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Panoramica CompTIA Network+.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Panoramica CompTIA Network+"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fbeaa41a161ee8aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2612558bb60994f6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Modello ISO OSI mappa.canvas",
+                "viewState": {
+                  "x": -616.4378628347611,
+                  "y": 442.256744859376,
+                  "zoom": -0.4444444274902344
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Modello ISO OSI mappa"
             }
           }
         ]
@@ -74,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 287.5
   },
   "right": {
     "id": "555e91e6c56c459b",
@@ -187,15 +271,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "155402b773777d49",
+  "active": "22bd54c9e9f59a4b",
   "lastOpenFiles": [
+    "Piano di studio CompTIA Network+.md",
+    "Introduzione CompTIA Network+.md",
+    "Panoramica CompTIA Network+.md",
+    "Modello ISO-OSI.md",
+    "Incapsulamento.md",
+    "Modello ISO OSI mappa.canvas",
+    "Resources/IMG/tcp.png",
+    "Resources/IMG/datUnit.webp",
+    "Resources/IMG/OSI Model.jpg",
+    "introduzione CompTIA Security+ versione SY0-701.md",
     "Bookshelf/Indice H-net.md",
     "Processed/Macchine rete privata solo HW !!!!!!!!!!!!!!!!!!!!!!!.md",
     "Processed/Specifiche hardware  router.md",
     "Processed/Specifiche hardware mini-PC.md",
     "Bookshelf/Indice di proxmox.md",
     "Processed/hyper-V.md",
-    "Untitled.md",
     "Processed/Installare proxmox su una macchina.md",
     "Bookshelf/Indice risorse personali.md",
     "Processed/Container.md",
@@ -212,11 +305,6 @@
     "Processed/Specifiche softwaremini PC.md",
     "Processed/Specifiche software router.md",
     "Processed/Gestione porte VLAN 1.0.md",
-    "Processed/Configurazione VLAN V1.0.md",
-    "Processed/Macchine pubbliche e private rete V1.0.md",
-    "Processed/Che cosa e una VLAN.md",
-    "Processed/Consumo macchine rete personale.md",
-    "Bookshelf/Indice note progetti personali.md",
     "Bookshelf/worckflow.canvas",
     "Resources/IMG/treeClaud.png",
     "Resources/IMG/ralphschemadifunzionamento.png",
@@ -227,9 +315,6 @@
     "Immagine 2025-10-28 220025.png",
     "Screenshot_20251028_214946.png",
     "Screenshot_20251028_214923.png",
-    "Screenshot_20251028_214853.png",
-    "Screenshot_20251028_214802 1.png",
-    "Screenshot_20251028_214802.png",
     "Resources/PDF",
     "Resources/IMG",
     "Resources",
