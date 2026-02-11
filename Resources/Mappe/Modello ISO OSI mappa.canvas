@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"4c6236d31d572118","type":"file","file":"Resources/IMG/OSI Model.jpg","x":-1120,"y":-218,"width":740,"height":417},
+		{"id":"fb817ba34ed1f202","type":"file","file":"Resources/IMG/datUnit.webp","x":20,"y":-209,"width":608,"height":399},
+		{"id":"a3ad3d2bb710a517","type":"text","text":"Raffigurazione di come si chiamano i dati nei vari livelli","x":-300,"y":-100,"width":250,"height":70},
+		{"id":"6b4d269e552ef4bf","type":"text","text":"## Livello teorico ","x":-1120,"y":-312,"width":718,"height":94},
+		{"id":"f37ac25652116e4a","type":"file","file":"Resources/IMG/tcp.png","x":-863,"y":400,"width":227,"height":483},
+		{"id":"0d4f75bc365ced45","type":"text","text":"## Modello reale ","x":-925,"y":883,"width":350,"height":98}
+	],
+	"edges":[
+		{"id":"6de6f6418b659bc9","fromNode":"4c6236d31d572118","fromSide":"right","toNode":"fb817ba34ed1f202","toSide":"left"},
+		{"id":"de1089e85ad1c0c6","fromNode":"4c6236d31d572118","fromSide":"bottom","toNode":"f37ac25652116e4a","toSide":"top"}
+	]
+}

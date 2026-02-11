@@ -512,6 +512,13 @@ aXr
 aqEyU
 afze
 acces
+assisted
+aspetto
+allocare
+aggregare
+aquisisco
+assemblagio
+automatizzato
 Completate
 Completed
 Controlla
@@ -880,6 +887,10 @@ Chi
 Crm
 CMR
 CmY
+Converged
+Calcolo
+Cuore
+Ceph
 tags
 tp
 tfile
@@ -1519,6 +1530,8 @@ Mhb
 MlL
 MEU
 MKk
+Metal
+Meccanismo
 Nozioni
 NaN
 Note
@@ -2268,6 +2281,7 @@ TLX
 THQ
 Transport
 Tutta
+Thin
 DO
 Docente
 DD
@@ -2583,6 +2597,8 @@ DhH
 DaBs
 DxX
 DET
+Defined
+Distribuito
 Riferimenti
 RegExp
 Red
@@ -2922,6 +2938,8 @@ RET
 RnskHfsa
 RIFF
 RDT
+RBAC
+Role
 link
 let
 la
@@ -3209,6 +3227,7 @@ lke
 lcO
 lgYS
 logico
+logici
 const
 counterPath
 counter
@@ -3863,6 +3882,12 @@ collegarli
 cfI
 considera
 compresi
+contro
+centralizzati
+costosi
+crittografati
+componeti
+campire
 file
 find
 for
@@ -4254,6 +4279,8 @@ fbu
 fDhK
 fKj
 fjX
+fiore
+fisici
 md
 modify
 muoverli
@@ -4657,6 +4684,7 @@ mente
 mntrRGB
 mgR
 metodologia
+malfunzionante
 vault
 visibile
 vietate
@@ -4974,6 +5002,8 @@ vcA
 vSH
 vcBM
 vWz
+vSwitch
+vederla
 read
 rename
 renameFile
@@ -5444,6 +5474,7 @@ rIabzm
 rLA
 rF
 rappresentazione
+replica
 parseInt
 precedenti
 path
@@ -5977,6 +6008,11 @@ principio
 partiamo
 pmlN
 pPY
+profondo
+pmxcfs
+prevenire
+pienamente
+pio
 date
 dasdas
 da
@@ -6408,6 +6444,11 @@ dividendo
 dcy
 dRq
 dNoW
+definita
+duale
+dedisegnati
+deduplicazione
+diretta
 now
 newName
 name
@@ -6689,6 +6730,7 @@ nul
 nURT
 nxc
 nWWU
+netfilter
 YYYY
 YAML
 Yk
@@ -7185,6 +7227,8 @@ Avendo
 Alu
 Applicazione
 Applciation
+Architetturale
+Aspetti
 elaborare
 eseguire
 esegui
@@ -7536,6 +7580,7 @@ eterogeni
 entita
 eWu
 eterogenee
+estetico
 Vault
 VM
 Village
@@ -8106,6 +8151,7 @@ gr
 gYqK
 gAMA
 gesisce
+gestirne
 of
 ottimo
 ottimi
@@ -8376,6 +8422,9 @@ originariamente
 occhiata
 ostico
 oFO
+occhiello
+operativa
+obbiettivo
 if
 includes
 imposta
@@ -8821,6 +8870,11 @@ impacchetta
 iSy
 iKId
 ipotizzato
+iperconvergente
+integra
+isola
+indiretta
+inizzia
 Percorso
 Per
 Processed
@@ -9168,6 +9222,7 @@ PROFILE
 PMl
 Presentazione
 Pza
+Provisioning
 Escludi
 Esclude
 Errore
@@ -9835,6 +9890,9 @@ SkillsForAll
 Simulazioni
 Sck
 Sbl
+SDS
+SAN
+Spostamento
 stato
 spostato
 spostamento
@@ -10478,6 +10536,8 @@ sGs
 siamo
 sRGB
 sfQ
+salvataggio
+spinte
 Imposta
 IT
 Imparare
@@ -12065,6 +12125,9 @@ BkU
 BSliX
 BFXkz
 BIN
+Bare
+BSD
+Bonding
 Fase
 Fondamentale
 Flag
@@ -12324,6 +12387,7 @@ Fpz
 Fux
 Fisico
 FCJ
+Fencing
 qui
 quel
 quando
@@ -12530,6 +12594,7 @@ qqV
 qov
 qhh
 qua
+quorum
 una
 utenti
 ultimi
@@ -13254,6 +13319,8 @@ GUMq
 GtM
 GUM
 GFW
+GNU
+Gestionali
 Junior
 Jr
 June
@@ -13690,6 +13757,7 @@ HTTP
 HHw
 Hdr
 HXS
+HCI
 hardening
 honeypot
 ha
@@ -13924,6 +13992,7 @@ hkU
 hEN
 hIh
 hYMe
+hom
 Questi
 Qui
 Questo
@@ -14724,6 +14793,7 @@ KAQQ
 KjK
 Kon
 Kuq
+KVM
 zero
 zO
 zfL
@@ -14907,6 +14977,7 @@ zZm
 zHl
 zmT
 zTg
+zona
 js
 jm
 jCCC

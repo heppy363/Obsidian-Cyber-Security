@@ -25,4 +25,4 @@ Tutta la metodologia e la pianificazione sono compresi in questa nota qua [[Pian
 3) [[Modello ISO-OSI]]
 
 ## Link 
-1) 
+1) [Sito ufficiale compTIA](https://www.comptia.org)

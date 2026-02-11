@@ -1,4 +1,4 @@
-
+`Si tratta di tutte le note delle lezzioni unniversitarie e non che devono essere rielaborate in note atomiche come da`[[worckflow.canvas]]
 
 ## Mostra tutte le note che sono considerate archiviate
 ```dataview
