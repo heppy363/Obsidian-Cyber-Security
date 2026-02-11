@@ -6013,6 +6013,7 @@ pmxcfs
 prevenire
 pienamente
 pio
+percentuale
 date
 dasdas
 da
@@ -13321,6 +13322,7 @@ GUM
 GFW
 GNU
 Gestionali
+Grafico
 Junior
 Jr
 June

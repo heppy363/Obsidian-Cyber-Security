@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21f79ddb810c1d7a",
+        "id": "75d956cf03ae94a8",
         "type": "tabs",
         "children": [
           {
-            "id": "e7283b1de917d834",
+            "id": "f562ccbe94b85d79",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:CompTIAnetwork",
+                "query": "tag:#CI  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,12 +187,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7283b1de917d834",
+  "active": "f562ccbe94b85d79",
   "lastOpenFiles": [
-    "Bookshelf/Indice note CompTIA Network+.md",
-    "Untitled.md",
-    "Resources/Mappe",
+    "Grafici di utilizzo.md",
     "Senza nome.base",
+    "Senza nome 1.base",
+    "Bookshelf/Indice note CompTIA Network+.md",
+    "Prova.md",
+    "Resources/Mappe",
     "Processed/Piano di studio CompTIA Network+.md",
     "Bookshelf/Indice di proxmox.md",
     "Processed/Introduzione CompTIA Network+.md",
@@ -220,8 +222,6 @@
     "Resources/IMG/tcp.png",
     "Resources/IMG/datUnit.webp",
     "Resources/IMG/OSI Model.jpg",
-    "Processed/introduzione CompTIA Security+ versione SY0-701.md",
-    "Senza nome 1.base",
     "Resources/IMG/treeClaud.png",
     "Resources/IMG/ralphschemadifunzionamento.png",
     "Resources/IMG/GiteaRunner.png",
