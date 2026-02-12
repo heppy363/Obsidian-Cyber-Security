@@ -1,4 +1,4 @@
-### Grafico uso dei tag in percentuale 
+### Grafico uso dei tag in percentuale
 ```dataviewjs
 const tags = {};
 dv.pages().file.tags.forEach(t => { tags[t] = (tags[t] || 0) + 1; });

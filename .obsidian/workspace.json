@@ -4,20 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "75d956cf03ae94a8",
+        "id": "dff0f5c26ebe1e39",
         "type": "tabs",
         "children": [
           {
-            "id": "f562ccbe94b85d79",
+            "id": "14d7773cb2dde9a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Livello Fisico ISO OSI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Livello Fisico ISO OSI"
+            }
+          },
+          {
+            "id": "474a06da7d9297a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principali tipi di connettori.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principali tipi di connettori"
+            }
+          },
+          {
+            "id": "806877485f06a100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Codifica di linea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Codifica di linea"
+            }
+          },
+          {
+            "id": "26c3cb4e9f74d6b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definizione della PDU livello 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definizione della PDU livello 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 396.5
   },
   "right": {
     "id": "555e91e6c56c459b",
@@ -187,38 +234,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f562ccbe94b85d79",
+  "active": "474a06da7d9297a8",
   "lastOpenFiles": [
-    "Grafici di utilizzo.md",
+    "Livello Fisico ISO OSI.md",
+    "Bookshelf/Indici",
+    "Definizione della PDU livello 1.md",
     "Senza nome.base",
+    "Apparecchi HW del livello 1.md",
+    "Differenze tra Fibra ottica e Rame.md",
+    "Multiplazione quando dati passano in una singola linea.md",
+    "Definizione di uno standard.md",
+    "Codifica di linea.md",
+    "Principali tipi di connettori.md",
+    "Modalitá di trasmissione di una rete.md",
+    "Sincronizzazione dei bit in una rete.md",
+    "Grafici di utilizzo.md",
+    "Bookshelf/Indici/Indice di proxmox.md",
+    "Bookshelf/Indici/Sommario progetti personali.md",
+    "Bookshelf/Indici/Indice note CompTIA Network+.md",
+    "Processed/Indice H-net.md",
+    "Processed/Introduzione CompTIA Network+.md",
+    "Processed/Modello ISO-OSI.md",
+    "Resources/Mappe/Modello ISO OSI mappa.canvas",
+    "Resources/IMG/composizioneFibraOttica.png",
+    "Processed/Incapsulamento.md",
     "Senza nome 1.base",
-    "Bookshelf/Indice note CompTIA Network+.md",
     "Prova.md",
     "Resources/Mappe",
     "Processed/Piano di studio CompTIA Network+.md",
-    "Bookshelf/Indice di proxmox.md",
-    "Processed/Introduzione CompTIA Network+.md",
-    "Processed/Indice H-net.md",
     "Processed/Indice Bot cerca lavoro.md",
-    "Bookshelf/Indice Archivio.md",
-    "Bookshelf/Indice note IA.md",
+    "Bookshelf/Indici/Indice Archivio.md",
+    "Bookshelf/Indici/Indice note IA.md",
     "Bookshelf/Indice note.md",
-    "Bookshelf/worckflow.canvas",
-    "Bookshelf/Indice note docker.md",
-    "Bookshelf/Sommario progetti personali.md",
-    "Bookshelf/Indice note Blog.md",
-    "Processed/Indice blog personale sicurezza.md",
-    "Bookshelf/Indice Bot cerca lavoro.md",
-    "Processed/Introduzione a N8N.md",
-    "Bookshelf/Indice H-net.md",
-    "Processed/Algoritmo XSF B+ Trees.md",
-    "Processed/Introduzione proxmox.md",
-    "Processed/Panoramica CompTIA Network+.md",
-    "Processed/Introduzione risorse personali.md",
-    "Bookshelf/Indice risorse personali.md",
-    "Resources/Mappe/Modello ISO OSI mappa.canvas",
-    "Processed/Incapsulamento.md",
-    "Processed/Modello ISO-OSI.md",
+    "Resources/Mappe/worckflow.canvas",
+    "Bookshelf/Indici/Indice note docker.md",
     "Resources/IMG/tcp.png",
     "Resources/IMG/datUnit.webp",
     "Resources/IMG/OSI Model.jpg",
@@ -230,12 +279,10 @@
     "Screenshot_20251028_212244.png",
     "Immagine 2025-10-28 220025.png",
     "Screenshot_20251028_214946.png",
-    "Screenshot_20251028_214923.png",
     "Resources/PDF",
     "Resources/IMG",
     "Resources",
     "LICENSE",
-    "Archive",
     "Work/Flusso di lavoro.canvas"
   ]
 }
