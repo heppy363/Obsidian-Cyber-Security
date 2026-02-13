@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principali tipi di connettori.md",
+                "file": "Processed/Principali tipi di connettori.md",
                 "mode": "source",
                 "source": false
               },
@@ -234,21 +234,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "474a06da7d9297a8",
+  "active": "c64121aa6c0fb2fd",
   "lastOpenFiles": [
-    "Livello Fisico ISO OSI.md",
+    "Untitled.md",
+    "Processed/Principali tipi di connettori.md",
+    "Processed/Livello Fisico ISO OSI.md",
     "Bookshelf/Indici",
-    "Definizione della PDU livello 1.md",
+    "Processed/Definizione della PDU livello 1.md",
     "Senza nome.base",
-    "Apparecchi HW del livello 1.md",
-    "Differenze tra Fibra ottica e Rame.md",
-    "Multiplazione quando dati passano in una singola linea.md",
-    "Definizione di uno standard.md",
-    "Codifica di linea.md",
-    "Principali tipi di connettori.md",
-    "Modalitá di trasmissione di una rete.md",
-    "Sincronizzazione dei bit in una rete.md",
-    "Grafici di utilizzo.md",
+    "Processed/Apparecchi HW del livello 1.md",
+    "Processed/Differenze tra Fibra ottica e Rame.md",
+    "Processed/Multiplazione quando dati passano in una singola linea.md",
+    "Processed/Definizione di uno standard.md",
+    "Processed/Codifica di linea.md",
+    "Processed/Modalitá di trasmissione di una rete.md",
+    "Processed/Sincronizzazione dei bit in una rete.md",
+    "Processed/Grafici di utilizzo.md",
     "Bookshelf/Indici/Indice di proxmox.md",
     "Bookshelf/Indici/Sommario progetti personali.md",
     "Bookshelf/Indici/Indice note CompTIA Network+.md",
