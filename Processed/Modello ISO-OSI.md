@@ -32,6 +32,9 @@ Si considera il modello ISO OSI la parte "teorica" di fatto questo e come e stat
 
 
 - [[Modello ISO OSI mappa.canvas]]
+- [[Livello 1 Fisico ISO OSI]]
+- [[Livello 2 ISO OSI Data link]]
+- 
 
 
 

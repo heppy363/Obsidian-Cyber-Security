@@ -6,13 +6,17 @@
 		{"id":"6b4d269e552ef4bf","type":"text","text":"## Livello teorico ","x":-1120,"y":-312,"width":718,"height":94},
 		{"id":"f37ac25652116e4a","type":"file","file":"Resources/IMG/tcp.png","x":-863,"y":400,"width":227,"height":483},
 		{"id":"0d4f75bc365ced45","type":"text","text":"## Modello reale ","x":-925,"y":883,"width":350,"height":98},
-		{"id":"b85d8bf7a1d30b37","x":199,"y":370,"width":250,"height":60,"type":"text","text":"PDU"},
-		{"id":"58f85022cd1054ca","x":-175,"y":612,"width":250,"height":348,"type":"text","text":"PD1 primo livello: \n- Non vi e una vera e propria PDU \n- Si suddivide la trasmissione in preambolo e termine \n- Si hanno una serie di BIT che delimitano l'inizio e la fine delle \"Conversazione\" \n- [[Definizione della PDU livello 1]]"}
+		{"id":"b85d8bf7a1d30b37","type":"text","text":"PDU","x":199,"y":370,"width":250,"height":60},
+		{"id":"58f85022cd1054ca","type":"text","text":"PD1 primo livello: \n- Non vi e una vera e propria PDU \n- Si suddivide la trasmissione in preambolo e termine \n- Si hanno una serie di BIT che delimitano l'inizio e la fine delle \"Conversazione\" \n- [[Definizione della PDU livello 1]]","x":-175,"y":612,"width":250,"height":348},
+		{"id":"a7c604a8727ad7bf","x":199,"y":612,"width":250,"height":448,"type":"text","text":"PDU secondo livello _fraim_\n1) Preambolo = sinconozza i clock \n2) Dest MAC addres = indica il destinatario del messaggio 48Bit \n3) Source MAC addres = indica il mittente del messaggio 48Bit \n4) EtherType  = indica quale protocollo di livello 3 e contenuto \n5) FCS /CRC = consente il controllo del errore"},
+		{"id":"7eda5402d0e89ea1","x":199,"y":1160,"width":250,"height":180,"type":"text","text":"Il liello 2 si puo dividere in due sotto livelli:\n- MAC [[MAC livello 2 ISO OSI]]\n- LLC [[LLC livello 2 ISO OSI]]"}
 	],
 	"edges":[
 		{"id":"6de6f6418b659bc9","fromNode":"4c6236d31d572118","fromSide":"right","toNode":"fb817ba34ed1f202","toSide":"left"},
 		{"id":"de1089e85ad1c0c6","fromNode":"4c6236d31d572118","fromSide":"bottom","toNode":"f37ac25652116e4a","toSide":"top"},
 		{"id":"f92e252e0de88957","fromNode":"fb817ba34ed1f202","fromSide":"bottom","toNode":"b85d8bf7a1d30b37","toSide":"top"},
-		{"id":"551ee7243e8f21f7","fromNode":"b85d8bf7a1d30b37","fromSide":"bottom","toNode":"58f85022cd1054ca","toSide":"top"}
+		{"id":"551ee7243e8f21f7","fromNode":"b85d8bf7a1d30b37","fromSide":"bottom","toNode":"58f85022cd1054ca","toSide":"top"},
+		{"id":"4dafa4f32e483983","fromNode":"b85d8bf7a1d30b37","fromSide":"bottom","toNode":"a7c604a8727ad7bf","toSide":"top"},
+		{"id":"634f50f81592ad2b","fromNode":"a7c604a8727ad7bf","fromSide":"bottom","toNode":"7eda5402d0e89ea1","toSide":"top"}
 	]
 }
