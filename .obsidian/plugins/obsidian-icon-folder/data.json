@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBadgeDollarSign",
       "LiIndentIncrease",
       "LiAlertOctagon",
       "LiBadge",
-      "LiArchive",
-      "LiStopCircle"
+      "LiArchive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,8 +49,9 @@
     "iconName": "LiBadge",
     "iconColor": "#25d4a0"
   },
-  "Templates/Lesson.md": "LiAlertOctagon",
   "Templates/counter.md": "LiAlertOctagon",
   "Templates/Completed.md": "LiAlertOctagon",
-  "Bookshelf/Indici": "LiIndentIncrease"
+  "Bookshelf/Indici NON universita": "LiIndentIncrease",
+  "Templates/Template UNI/Lesson.md": "LiAlertOctagon",
+  "Grafici di utilizzo.md": "LiBadgeDollarSign"
 }
