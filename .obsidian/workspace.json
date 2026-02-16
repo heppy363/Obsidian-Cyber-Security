@@ -4,24 +4,116 @@
     "type": "split",
     "children": [
       {
-        "id": "551b832982bd70da",
+        "id": "fabe184df412e2a5",
         "type": "tabs",
         "children": [
           {
-            "id": "9996fcb5b8cf6aa5",
+            "id": "3eabfa4adcb8e6d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Script/Sposta note in archivio.md",
+                "file": "Processed/Modello ISO-OSI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sposta note in archivio"
+              "title": "Modello ISO-OSI"
+            }
+          },
+          {
+            "id": "e262c765b4b4b6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processed/Livello 2 ISO OSI Data link.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Livello 2 ISO OSI Data link"
+            }
+          },
+          {
+            "id": "bc967874ebe8d8fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello 3 ISO OSI network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Livello 3 ISO OSI network"
+            }
+          },
+          {
+            "id": "570bb3fa6047098c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDU livello 3 ISO OSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PDU livello 3 ISO OSI"
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a5055b4d48a74782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ccefbb63957b509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forwarding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forwarding"
+            }
+          },
+          {
+            "id": "933cb92c21cd9b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Direzione dei dati nel forwording.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Direzione dei dati nel forwording"
+            }
+          },
+          {
+            "id": "cf367bd991806390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processed/Protocollo ARP livello 2 ISO OSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protocollo ARP livello 2 ISO OSI"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,90 +284,67 @@
     }
   },
   "floating": {
-    "id": "7683d6d26027710e",
+    "id": "83cf474f9f7cc913",
     "type": "floating",
     "children": [
       {
-        "id": "b4f304009fed8019",
+        "id": "63c7aaa2d291dade",
         "type": "window",
         "children": [
           {
-            "id": "b0c9cccaa12a649b",
+            "id": "df96576b2755e45c",
             "type": "tabs",
             "children": [
               {
-                "id": "1c28825b94ebd750",
+                "id": "4a0bbf2d3b04cfc5",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "Bookshelf/Indice Archivio.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Resources/Mappe/Modello ISO OSI mappa.canvas",
+                    "viewState": {
+                      "x": 877.3266487133243,
+                      "y": 959.0884564035496,
+                      "zoom": 0.02572822760350668
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Indice Archivio"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Modello ISO OSI mappa"
                 }
               }
             ]
-          },
-          {
-            "id": "9fe7352f4ff0d16c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "494b317eb5609956",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/Script/Sposta note in Lesson.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Sposta note in Lesson"
-                }
-              },
-              {
-                "id": "a0c2b3fcf4ac1f86",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/Script/Sposta note in processed.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Sposta note in processed"
-                }
-              }
-            ],
-            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 2338,
-        "y": 53,
-        "width": 1479,
+        "x": 569,
+        "y": 22,
+        "width": 737,
         "height": 1038,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "9996fcb5b8cf6aa5",
+  "active": "cf367bd991806390",
   "lastOpenFiles": [
+    "Direzione dei dati nel forwording.md",
+    "Forwarding.md",
+    "Livello 3 ISO OSI network.md",
+    "PDU livello 3 ISO OSI.md",
+    "Resources/Mappe/Modello ISO OSI mappa.canvas",
+    "Processed/Modello ISO-OSI.md",
+    "Processed/Livello 2 ISO OSI Data link.md",
+    "Bookshelf/Dashboard progetti personali/Indice note CompTIA Network+.md",
+    "Bookshelf/Indice Archivio.md",
+    "Grafici di utilizzo.md",
+    "Templates/Script/Sposta note in archivio.md",
     "Processed/Untitled1.md",
-    "Untitled.md",
     "Templates/Script/Sposta note in processed.md",
     "Processed/Provaoaoaoaodasd.md",
     "Processed/Prova.md",
     "Templates/Script/Sposta note in Lesson.md",
     "Untitled 1.md",
     "Lesson/Untitled.md",
-    "Grafici di utilizzo.md",
     "Templates/Completed.md",
     "Untitled 2.md",
     "Templates/counter.md",
@@ -285,21 +354,12 @@
     "Templates/Template UNI/Lesson.md",
     "prog.md",
     "proiva3.md",
-    "Bookshelf/Indice Archivio.md",
     "Archive/18-10-2025-13.md",
-    "Archive/16-10-2025-12.md",
-    "Archive/16-10-2025-11.md",
-    "Archive/15-10-2025-10.md",
-    "Archive/19-10-2025-14.md",
-    "Templates/Template UNI/Appunti uni.md",
-    "Bookshelf/Indici NON universita/Indice di proxmox.md",
-    "Bookshelf/Indici NON universita/Indice note CompTIA Network+.md",
     "Resources/PDF/background-slides.pdf",
     "Bookshelf/Dashboard corsi",
     "Templates/Template UNI",
-    "Resources/Mappe/Modello ISO OSI mappa.canvas",
     "Resources/IMG/Composizionelivello2.jpg",
-    "Bookshelf/Indici NON universita",
+    "Bookshelf/Dashboard progetti personali",
     "Senza nome.base",
     "Resources/IMG/composizioneFibraOttica.png",
     "Senza nome 1.base",

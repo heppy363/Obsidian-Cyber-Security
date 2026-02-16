@@ -51,7 +51,7 @@
   },
   "Templates/counter.md": "LiAlertOctagon",
   "Templates/Completed.md": "LiAlertOctagon",
-  "Bookshelf/Indici NON universita": "LiIndentIncrease",
   "Templates/Template UNI/Lesson.md": "LiAlertOctagon",
-  "Grafici di utilizzo.md": "LiBadgeDollarSign"
+  "Grafici di utilizzo.md": "LiBadgeDollarSign",
+  "Bookshelf/Dashboard progetti personali": "LiIndentIncrease"
 }
