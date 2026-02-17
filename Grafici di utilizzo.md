@@ -30,6 +30,7 @@ const chartConfig = {
 window.renderChart(chartConfig, this.container);
 ```
 
+
 ### Grafico Radar
 ```dataviewjs
 // 1. Definiamo quali tag vogliamo ESCLUDERE (perché sono stati, non argomenti)
@@ -90,3 +91,4 @@ const chartConfig = {
 
 window.renderChart(chartConfig, this.container);
 ```
+

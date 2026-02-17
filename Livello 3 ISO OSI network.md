@@ -12,7 +12,7 @@ tags:
 ## 1. Lo Scopo del Livello 3: L'Instradamento
 Mentre il [[Livello 2 ISO OSI Data link]] si occupa di spostare i dati tra due macchine vicine (nello stesso segmento fisico), il Livello 3 si occupa dell'**interconnessione globale**. Il suo compito è il **Routing**.
 ### Le due funzioni chiave:
-1. **Inoltro (Forwarding):** È l'azione locale. Quando un pacchetto arriva su un'interfaccia di un router, il router deve decidere su quale interfaccia d'uscita mandarlo. Pensa a un incrocio stradale.
+1. **Inoltro ([[Forwarding]]):** È l'azione locale. Quando un pacchetto arriva su un'interfaccia di un router, il router deve decidere su quale interfaccia d'uscita mandarlo. Pensa a un incrocio stradale.
 2. **Instradamento (Routing):** È il processo globale. Tramite algoritmi complessi, la rete determina il percorso migliore (il più breve, il più veloce o il meno costoso) che un pacchetto deve seguire dall'origine alla destinazione. Pensa al GPS che pianifica l'intero viaggio.
 ## 2. L'Unità di Misura: Il Pacchetto (Datagramma)
 A questo livello non parliamo più di bit o di frame, ma di **Pacchetti** (o più precisamente, nel mondo IP, di **Datagrammi**).
@@ -35,6 +35,7 @@ Il router è il re del Livello 3. È un computer specializzato che possiede una 
 - **Frammentazione:** Se un pacchetto è troppo grande per la rete che deve attraversare (supera la _MTU - Maximum Transmission Unit_), il Livello 3 ha il compito di spezzettarlo e riassemblarlo.
 
 - [[PDU livello 3 ISO OSI]]
+- [[Subnetting]]
 
 ## Link 
 1) 

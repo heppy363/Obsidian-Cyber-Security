@@ -603,6 +603,9 @@ adsadsa
 arrivare
 attraversare
 adatto
+attaccate
+arrivarci
+attrezzi
 Completate
 Completed
 Controlla
@@ -1041,6 +1044,13 @@ Controllano
 Cruciale
 Ciclo
 Commutazione
+Cavo
+Cipolla
+Connesse
+Connessa
+Convergenza
+CIDR
+Classless
 tags
 tp
 tfile
@@ -1473,6 +1483,7 @@ tagsCorso
 tele
 tagCorso
 trash
+tabelle
 Modulo
 MM
 Modalit
@@ -1786,6 +1797,9 @@ MTU
 Maximum
 More
 Match
+Maschera
+Metrica
+Mask
 Nozioni
 NaN
 Note
@@ -2022,6 +2036,7 @@ Nessuna
 Negoziazione
 NOME
 NOTA
+Next
 Link
 Lesson
 Linux
@@ -2285,6 +2300,7 @@ Logico
 Lookup
 Longest
 LPM
+Legenda
 TO
 TFile
 Trovati
@@ -2606,6 +2622,7 @@ Torna
 TEMPLATE
 Transmission
 ToS
+TIM
 DO
 Docente
 DD
@@ -2973,6 +2990,14 @@ Datagramma
 Datagrammi
 Dimensione
 Don
+Decapsulamento
+Discesa
+Dall
+Direttamente
+Default
+Decisione
+Dividendo
+Domain
 Riferimenti
 RegExp
 Red
@@ -3359,6 +3384,9 @@ RIP
 Riga
 Righe
 Rotta
+Riscende
+Rotte
+Risparmio
 link
 let
 la
@@ -3673,6 +3701,7 @@ lalal
 lso
 ldasldlsaldasndasiodh
 linguaggi
+limitati
 const
 counterPath
 counter
@@ -4443,6 +4472,13 @@ contatore
 consulta
 corrispondenza
 corrispondono
+chiarire
+confusione
+consegnarlo
+controllate
+calcolano
+confinato
+civico
 file
 find
 for
@@ -5321,6 +5357,10 @@ messe
 miliardi
 matrioska
 mandalo
+mandato
+metrica
+mestiere
+maschera
 vault
 visibile
 vietate
@@ -6221,6 +6261,10 @@ ricalcolarlo
 ricorda
 richiude
 rotta
+raggruppati
+remota
+risolve
+rubiamo
 parseInt
 precedenti
 path
@@ -6832,6 +6876,9 @@ preoccuparsi
 payload
 passaggi
 prefisso
+panoramica
+popolata
+prime
 date
 dasdas
 da
@@ -7328,6 +7375,13 @@ diagnostica
 diminuisce
 decresce
 dovendo
+descrivi
+decrementa
+dirsi
+divisa
+dicono
+dedicati
+dividerla
 now
 newName
 name
@@ -7621,6 +7675,7 @@ nomiCorsi
 nomeCorso
 noterai
 nozione
+notazione
 YYYY
 YAML
 Yk
@@ -8160,6 +8215,12 @@ AMBIENTE
 Autodistruzione
 Archiviate
 Anatomia
+Arrivato
+Arrivo
+Avanzati
+Autonomi
+AND
+Abbiamo
 elaborare
 eseguire
 esegui
@@ -9436,6 +9497,7 @@ otterrai
 opzionale
 ospite
 ososo
+operatore
 if
 includes
 imposta
@@ -9961,6 +10023,10 @@ incapsulato
 intatto
 intasando
 inoltro
+impacchettato
+inserisce
+impiegano
+inoltrato
 Percorso
 Per
 Processed
@@ -10359,6 +10425,8 @@ PREDEFINITI
 Propapapap
 PULIZIA
 Prefix
+Passaggio
+Provider
 Escludi
 Esclude
 Errore
@@ -10657,6 +10725,8 @@ Elimina
 Eliminiamo
 Evitiamo
 Effort
+Encapsulation
+EGP
 Sposta
 Spostato
 Spostati
@@ -11109,6 +11179,12 @@ Selezione
 SCELTA
 SPOSTAMENTO
 Svuota
+Salita
+Scarta
+Salto
+Supponiamo
+Subnet
+Sottorete
 stato
 spostato
 spostamento
@@ -11869,6 +11945,14 @@ salti
 snello
 spedisce
 sceglie
+sale
+sparato
+seduto
+sceglierebbe
+subnetting
+saturerebbe
+sottorete
+slash
 Imposta
 IT
 Imparare
@@ -12207,6 +12291,8 @@ Identificazione
 Istruzioni
 Identification
 Indipendenza
+IGP
+Inter
 workspace
 while
 workshop
@@ -12680,6 +12766,7 @@ Oggi
 OSPF
 Offset
 Options
+Orizzontale
 Untitled
 Udemy
 Ubuntu
@@ -12970,6 +13057,8 @@ Uniformit
 Updating
 Usiamo
 Uniamo
+Universitaria
+Universitari
 bArchivio
 base
 bene
@@ -14601,6 +14690,7 @@ Wavelength
 Walkie
 Way
 WHERE
+WhatsApp
 Google
 GitHub
 Grazie
@@ -14840,6 +14930,7 @@ GESTIONE
 Grafici
 GPS
 GigabitEthernet
+Guarda
 Junior
 Jr
 June
@@ -15284,6 +15375,8 @@ Header
 HAB
 HyperText
 Hanno
+Host
+Hop
 hardening
 honeypot
 ha
@@ -15736,6 +15829,7 @@ Qfe
 Quasi
 QSFP
 Quelli
+Quello
 yaml
 yF
 ysss
