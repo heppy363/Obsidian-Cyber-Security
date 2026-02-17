@@ -1484,6 +1484,7 @@ tele
 tagCorso
 trash
 tabelle
+tatuarti
 Modulo
 MM
 Modalit
@@ -1800,6 +1801,7 @@ Match
 Maschera
 Metrica
 Mask
+Magic
 Nozioni
 NaN
 Note
@@ -2037,6 +2039,8 @@ Negoziazione
 NOME
 NOTA
 Next
+Nuova
+Number
 Link
 Lesson
 Linux
@@ -2623,6 +2627,7 @@ TEMPLATE
 Transmission
 ToS
 TIM
+Trucco
 DO
 Docente
 DD
@@ -2998,6 +3003,7 @@ Default
 Decisione
 Dividendo
 Domain
+Dividere
 Riferimenti
 RegExp
 Red
@@ -3387,6 +3393,8 @@ Rotta
 Riscende
 Rotte
 Risparmio
+Range
+Reparto
 link
 let
 la
@@ -4479,6 +4487,7 @@ controllate
 calcolano
 confinato
 civico
+creabili
 file
 find
 for
@@ -4908,6 +4917,7 @@ folderExists
 frammento
 fantasma
 fissi
+formule
 md
 modify
 muoverli
@@ -6265,6 +6275,7 @@ raggruppati
 remota
 risolve
 rubiamo
+risparmiare
 parseInt
 precedenti
 path
@@ -6879,6 +6890,9 @@ prefisso
 panoramica
 popolata
 prime
+potenze
+presi
+prestito
 date
 dasdas
 da
@@ -7382,6 +7396,7 @@ divisa
 dicono
 dedicati
 dividerla
+decimale
 now
 newName
 name
@@ -8221,6 +8236,7 @@ Avanzati
 Autonomi
 AND
 Abbiamo
+Applichiamo
 elaborare
 eseguire
 esegui
@@ -8876,6 +8892,8 @@ Viaggio
 Version
 Variabile
 Vita
+VLSM
+Variable
 getMarkdownFiles
 gi
 getActiveFile
@@ -9498,6 +9516,9 @@ opzionale
 ospite
 ososo
 operatore
+ottetto
+otteniamo
+ottetti
 if
 includes
 imposta
@@ -10027,6 +10048,7 @@ impacchettato
 inserisce
 impiegano
 inoltrato
+incremento
 Percorso
 Per
 Processed
@@ -10427,6 +10449,7 @@ PULIZIA
 Prefix
 Passaggio
 Provider
+Prospetto
 Escludi
 Esclude
 Errore
@@ -10727,6 +10750,7 @@ Evitiamo
 Effort
 Encapsulation
 EGP
+Esercizio
 Sposta
 Spostato
 Spostati
@@ -11185,6 +11209,9 @@ Salto
 Supponiamo
 Subnet
 Sottorete
+Sottraiamo
+Sottrai
+Sottoreti
 stato
 spostato
 spostamento
@@ -11953,6 +11980,8 @@ subnetting
 saturerebbe
 sottorete
 slash
+significativo
+sprechi
 Imposta
 IT
 Imparare
@@ -13059,6 +13088,7 @@ Usiamo
 Uniamo
 Universitaria
 Universitari
+Utili
 bArchivio
 base
 bene
@@ -14446,6 +14476,7 @@ uguale
 usava
 userebbero
 usavano
+utilizzabili
 Windows
 Wazuh
 Wedding

@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 263.5
   },
   "right": {
     "id": "555e91e6c56c459b",
@@ -337,12 +337,13 @@
                   "title": "Protocolli di Routing"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 2190,
-        "y": 132,
+        "x": 2468,
+        "y": 137,
         "width": 737,
         "height": 1038,
         "maximize": false,
@@ -350,14 +351,14 @@
       }
     ]
   },
-  "active": "b1fa1c6c96c91242",
+  "active": "e129c2120b101053",
   "lastOpenFiles": [
     "Matematica del subnetting.md",
+    "Livello 3 ISO OSI network.md",
+    "Protocolli di Routing.md",
+    "Grafici di utilizzo.md",
     "Subnetting.md",
     "Routing.md",
-    "Grafici di utilizzo.md",
-    "Protocolli di Routing.md",
-    "Livello 3 ISO OSI network.md",
     "Forwarding.md",
     "Direzione dei dati nel forwording.md",
     "Processed/Protocollo ARP livello 2 ISO OSI.md",

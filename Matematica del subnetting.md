@@ -40,7 +40,6 @@ Sottrai l'ultimo ottetto significativo della maschera da 256: 256−192=64. Ques
 |**#2**|`192.168.10.64`|`.65` - `.126`|`192.168.10.127`|
 |**#3**|`192.168.10.128`|`.129` - `.190`|`192.168.10.191`|
 |**#4**|`192.168.10.192`|`.193` - `.254`|`192.168.10.255`|
-
 ## 4. La tabella di conversione rapida (Trucco per l'esame)
 Impara a memoria i valori dell'ultimo ottetto per risparmiare tempo:
 - `/25` = `10000000` = `.128`

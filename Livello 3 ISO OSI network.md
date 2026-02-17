@@ -17,7 +17,6 @@ Mentre il [[Livello 2 ISO OSI Data link]] si occupa di spostare i dati tra due m
 ## 2. L'Unità di Misura: Il Pacchetto (Datagramma)
 A questo livello non parliamo più di bit o di frame, ma di **Pacchetti** (o più precisamente, nel mondo IP, di **Datagrammi**).
 - Il pacchetto è composto da un **Header** (intestazione) che contiene informazioni cruciali (come gli indirizzi IP) e dal **Payload** (i dati che arrivano dal Livello 4 - Trasporto).
-
 ## 3. L'Indirizzamento Logico (IP)
 Questa è la caratteristica distintiva. Mentre il Livello 2 usa indirizzi fisici (MAC) che sono "scritti" nell'hardware, il Livello 3 usa **Indirizzi Logici (IP)**.
 - Gli indirizzi IP sono gerarchici (come un indirizzo postale: Città -> Via -> Numero) e permettono di raggruppare i dispositivi in sottoreti.
@@ -36,6 +35,8 @@ Il router è il re del Livello 3. È un computer specializzato che possiede una 
 
 - [[PDU livello 3 ISO OSI]]
 - [[Subnetting]]
+
+
 
 ## Link 
 1) 
