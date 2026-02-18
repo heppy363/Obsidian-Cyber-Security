@@ -24,6 +24,7 @@ Si usano per collegare tra loro diversi AS.
 - **Limite:** Il numero massimo di salti è **15**. A 16 la rete è considerata irraggiungibile.
 - **Funzionamento:** Invia la sua intera tabella di routing ai vicini ogni 30 secondi (molto inefficiente per reti grandi).
 - **Uso:** Piccole reti, ormai quasi abbandonato.
+- [[Protocollo RIP]]
 #### OSPF (Open Shortest Path First) - _Link-State_
 È lo standard "de facto" per le reti aziendali moderne.
 - **Algoritmo:** Usa **Dijkstra** per calcolare il percorso più breve (Shortest Path).

@@ -22,6 +22,9 @@ stato: in_corso
 - [ ] **Fase 2**: Concetti Base
 - [ ] **Fase 3**: Pratica
 
+## Argomenti 
+> Mettere tutti gli argomenti del corso 
+
 ---
 
 ## 📝 Note del Corso (dalla cartella Processed)
