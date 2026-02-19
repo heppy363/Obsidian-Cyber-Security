@@ -1,14 +1,16 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:30
 ---
---- 
-## Nozioni
-Ottima scelta. Se il Livello Fisico è il "corpo" della comunicazione, la **codifica di linea (Line Coding)** è il suo "linguaggio". A livello universitario, non basta dire che "0 è 0V e 1 è 5V"; bisogna capire perché alcune codifiche sono migliori di altre in base a efficienza, sincronizzazione e spettro di frequenza.
+
+# 📝 Lezione: Codifica di linea
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
+Se il Livello Fisico è il "corpo" della comunicazione, la **codifica di linea (Line Coding)** è il suo "linguaggio". A livello universitario, non basta dire che "0 è 0V e 1 è 5V"; bisogna capire perché alcune codifiche sono migliori di altre in base a efficienza, sincronizzazione e spettro di frequenza.
 
 La codifica di linea è il processo di conversione dei bit digitali in un segnale che può viaggiare sul mezzo fisico.
 
@@ -56,5 +58,7 @@ Nelle reti moderne (Gigabit Ethernet e oltre), non si codifica un bit alla volta
 
 In sede d'esame, potrebbero chiederti perché non usiamo la Manchester per il Gigabit Ethernet. La risposta è che la Manchester ha una **frequenza di segnale troppo alta** (il segnale cambia troppo spesso). Sul rame, frequenze così alte subirebbero un'attenuazione enorme. Per questo si usano codifiche più complesse come **PAM-5** o **PAM-16** (Pulse Amplitude Modulation), che codificano più bit in un unico impulso variando l'ampiezza su più livelli.
 
-## Link 
-1) 
+
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

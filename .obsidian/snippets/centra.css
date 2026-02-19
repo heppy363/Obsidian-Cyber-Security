@@ -1,0 +1,7 @@
+/* Centra le immagini sia in modalità Editing che Reading */
+.markdown-source-view.mod-cm6 .cm-content img, 
+.markdown-rendered img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}

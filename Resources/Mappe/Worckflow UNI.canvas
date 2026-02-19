@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"399424d95efa1c44","type":"text","text":"- Tutto il sistema si basa sul metodo _Zettelkasten_ video riassuntivo [qui](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DoQ3ztVdErb8)\n- Ogni nota deve avere almeno un _collegamento_ con un _altra nota_\n- Ogni nota deve aver il tag del corso e solo quello ci si deve solo basare solo sui collegamenti","x":-800,"y":-460,"width":250,"height":320,"color":"#00db54"},
+		{"id":"f72576fc2f1043bb","type":"text","text":"Contiene una sezione indici ","x":-480,"y":260,"width":250,"height":60},
+		{"id":"e54858aa1c67d360","type":"text","text":"Ogni macro categoria del corso viene espansa in indici che ne racchiudono il sapere","x":-480,"y":420,"width":250,"height":100},
+		{"id":"27971f75784d7836","type":"text","text":"- Generazione della dashboard Corso \n","x":-170,"y":0,"width":250,"height":100},
+		{"id":"df91d9c95e454728","type":"text","text":"Dalla dasboard generata, si crea una nota di piano di studi","x":-170,"y":240,"width":250,"height":100},
+		{"id":"2bd4c578e06eeeee","type":"text","text":"- Seguo le lezioni ","x":260,"y":0,"width":250,"height":100},
+		{"id":"7cdd2d768759b7bd","type":"text","text":"Ogni lezione proposta, viene estesa nella nota lezione corrispondente","x":260,"y":260,"width":250,"height":100},
+		{"id":"36a2065f7de439e0","type":"text","text":"Rielaboro le lezioni in note atomiche i concetti","x":800,"y":0,"width":250,"height":100},
+		{"id":"1fa0c44c8cc20c42","type":"text","text":"Ogni lezione presa viene rielaborata in sotto note atomiche","x":800,"y":260,"width":250,"height":100},
+		{"id":"07b07511690db48f","type":"text","text":"Dopo che tutte le informazioni di una singola lezione sono state espanse si mette la lezione in archivio","x":1400,"y":-10,"width":250,"height":120}
+	],
+	"edges":[
+		{"id":"0a5d30afa8ac3827","fromNode":"27971f75784d7836","fromSide":"right","toNode":"2bd4c578e06eeeee","toSide":"left"},
+		{"id":"0b634a82e76e35b2","fromNode":"2bd4c578e06eeeee","fromSide":"right","toNode":"36a2065f7de439e0","toSide":"left"},
+		{"id":"ee902464df1def37","fromNode":"27971f75784d7836","fromSide":"bottom","toNode":"f72576fc2f1043bb","toSide":"top"},
+		{"id":"791e0415412e83ae","fromNode":"27971f75784d7836","fromSide":"bottom","toNode":"df91d9c95e454728","toSide":"top"},
+		{"id":"93f17f0434d78cb6","fromNode":"36a2065f7de439e0","fromSide":"bottom","toNode":"1fa0c44c8cc20c42","toSide":"top"},
+		{"id":"5eddf3f8fe7ea2ee","fromNode":"2bd4c578e06eeeee","fromSide":"bottom","toNode":"7cdd2d768759b7bd","toSide":"top"},
+		{"id":"c99c274231f9f71f","fromNode":"2bd4c578e06eeeee","fromSide":"top","toNode":"07b07511690db48f","toSide":"top"},
+		{"id":"d17167a91c62cebf","fromNode":"f72576fc2f1043bb","fromSide":"bottom","toNode":"e54858aa1c67d360","toSide":"top"}
+	]
+}

@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:37
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Livello 2 ISO OSI Data link
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 `Lo scopo di questo livello e tarsferire i dati in maniera affidabile al livello 3 oppure prenderli dal livello 3 per passarli al livello 1 in maniera coerente`
 
 ### Funzioni principali 
@@ -37,5 +39,7 @@ Nel ambito delle rete cablate il protocollo piu usate ancora ad oggi 2026 e quel
 - [[Switching livello 2 ISO OSI]]
 - [[Protocollo ARP livello 2 ISO OSI]]
 
-## Link 
-1) 
+
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

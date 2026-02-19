@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"cbd044ab3dc4b191","type":"file","file":"Resources/IMG/OSI Model.jpg","x":-1100,"y":-732,"width":740,"height":417},
+		{"id":"34317745c2e58e3e","type":"file","file":"Resources/IMG/datUnit.webp","x":40,"y":-723,"width":608,"height":399},
+		{"id":"adc759b5a31bf716","type":"text","text":"Raffigurazione di come si chiamano i dati nei vari livelli","x":-280,"y":-614,"width":250,"height":70},
+		{"id":"387225a04644fda7","type":"text","text":"## Livello teorico ","x":-1100,"y":-826,"width":718,"height":94},
+		{"id":"a45e6119d70c2ead","type":"file","file":"Resources/IMG/tcp.png","x":-843,"y":-114,"width":227,"height":483},
+		{"id":"acd94941d0a3fa2f","type":"text","text":"## Modello reale ","x":-905,"y":369,"width":350,"height":98},
+		{"id":"cdc11b876d24ee27","type":"text","text":"PDU","x":219,"y":-144,"width":250,"height":60},
+		{"id":"618c9747d4f46150","type":"text","text":"PD1 primo livello: \n- Non vi e una vera e propria PDU \n- Si suddivide la trasmissione in preambolo e termine \n- Si hanno una serie di BIT che delimitano l'inizio e la fine delle \"Conversazione\" \n- [[Definizione della PDU livello 1]]","x":-155,"y":98,"width":250,"height":348},
+		{"id":"183544ab1b3071b7","type":"text","text":"PDU secondo livello _fraim_\n1) Preambolo = sinconozza i clock \n2) Dest MAC addres = indica il destinatario del messaggio 48Bit \n3) Source MAC addres = indica il mittente del messaggio 48Bit \n4) EtherType  = indica quale protocollo di livello 3 e contenuto \n5) FCS /CRC = consente il controllo del errore","x":219,"y":98,"width":250,"height":448},
+		{"id":"547cb9b885ae235b","type":"text","text":"Il liello 2 si puo dividere in due sotto livelli:\n- MAC [[MAC livello 2 ISO OSI]]\n- LLC [[LLC livello 2 ISO OSI]]","x":219,"y":646,"width":250,"height":180},
+		{"id":"66438ee8c2aea60f","type":"text","text":"- **Controllo Versione e Formato (Riga 1):**\n    \n    - **Versione:** (4 bit) Indica se è IPv4.\n        \n    - **IHL:** (4 bit) Lunghezza dell'header.\n        \n    - **ToS (Type of Service):** (8 bit) Priorità del traffico (es. VoIP vs Email).\n        \n    - **Lunghezza Totale:** (16 bit) Dimensione totale di tutto il pacchetto.\n        \n- **Gestione Frammentazione (Riga 2):**\n    \n    - **Identificazione:** (16 bit) ID univoco per ricomporre pezzi dello stesso pacchetto.\n        \n    - **Flags:** (3 bit) Istruzioni (es: \"non spezzettare\" o \"ci sono altri pezzi\").\n        \n    - **Fragment Offset:** (13 bit) La posizione del frammento nell'originale.\n        \n- **Controllo del Viaggio (Riga 3):**\n    \n    - **TTL (Time to Live):** (8 bit) Il \"timer\" di sopravvivenza (diminuisce a ogni router).\n        \n    - **Protocollo:** (8 bit) Indica cosa c'è dentro (TCP = 6, UDP = 17).\n        \n    - **Checksum:** (16 bit) Controllo errori solo per l'header.\n        \n- **Indirizzamento (Righe 4 e 5):**\n    \n    - **IP Sorgente:** (32 bit) Chi invia.\n        \n    - **IP Destinazione:** (32 bit) Chi riceve.\n- [[PDU livello 3 ISO OSI]]","x":580,"y":98,"width":520,"height":668}
+	],
+	"edges":[
+		{"id":"e0fa8f46efba36e6","fromNode":"cbd044ab3dc4b191","fromSide":"right","toNode":"34317745c2e58e3e","toSide":"left"},
+		{"id":"aba7f09eb74189d3","fromNode":"cbd044ab3dc4b191","fromSide":"bottom","toNode":"a45e6119d70c2ead","toSide":"top"},
+		{"id":"1bc22485d5597105","fromNode":"34317745c2e58e3e","fromSide":"bottom","toNode":"cdc11b876d24ee27","toSide":"top"},
+		{"id":"d4317f5e97446d87","fromNode":"cdc11b876d24ee27","fromSide":"bottom","toNode":"618c9747d4f46150","toSide":"top"},
+		{"id":"db8fed831adc8128","fromNode":"cdc11b876d24ee27","fromSide":"bottom","toNode":"183544ab1b3071b7","toSide":"top"},
+		{"id":"1a55d2a3b40d0df2","fromNode":"cdc11b876d24ee27","fromSide":"bottom","toNode":"66438ee8c2aea60f","toSide":"top"},
+		{"id":"8dde31828ab8d578","fromNode":"183544ab1b3071b7","fromSide":"bottom","toNode":"547cb9b885ae235b","toSide":"top"}
+	]
+}

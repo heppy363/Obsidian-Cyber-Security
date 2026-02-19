@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:42
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: LLC livello 2 ISO OSI
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 `Se il MAC è il "braccio" (l'hardware, i bit sul cavo, il controllo degli errori fisico), l'LLC (Logical Link Control) è la "mente" Si tratta anche del punto di congiuzione tra il livello 2 ed il livello 3.
 
 È il sottolivello superiore del Data Link Layer, definito dallo standard **IEEE 802.2**. La sua esistenza serve a rendere il software (Livello 3 - Network) indipendente dall'hardware sottostante.
@@ -39,6 +41,6 @@ Quando un pacchetto IP scende al livello LLC, gli viene messa una piccola "testa
 3. **MAC:** "Ok, ora ci metto il mio indirizzo fisico, quello del destinatario e calcolo il CRC per la sicurezza".
 4. **Livello 1:** "Trasformo tutto in impulsi elettrici e vado!".
 
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

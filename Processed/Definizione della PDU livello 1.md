@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:34
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Definizione della PDU livello 1
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 al **Livello 1** non esiste un vero e proprio "pacchetto" o "contenitore" logico. Quelli appartengono ai livelli superiori.
 Tuttavia, i bit non vengono sparati nel cavo in modo totalmente casuale. Vediamo come vengono definiti e "modellati" a questo livello.
 
@@ -36,7 +38,6 @@ A differenza dei livelli superiori che lavorano "a blocchi" (invio un pacchetto,
 1. **Bit di Riempimento (Padding/Idle bits):** Quando non ci sono dati da trasmettere, il Livello 1 non sempre sta "zitto". In molti standard moderni (come la fibra o il Gigabit Ethernet), vengono inviati segnali di **Idle** per mantenere il laser o il circuito sincronizzato.
 2. **Delimitazione:** Il Livello 1 non sa quanto è lungo un file. Sa solo quando il segnale elettrico inizia e quando finisce (grazie a variazioni di tensione o frequenza specifiche).
 
-
 ## 4. Riepilogo per lo studente universitario
 
 |Proprietà|Definizione al Livello 1|
@@ -47,9 +48,9 @@ A differenza dei livelli superiori che lavorano "a blocchi" (invio un pacchetto,
 |**Lunghezza**|Definita dal tempo di bit (1/frequenza).|
 |**Controlli**|Nessun controllo d'errore sui dati (quelli si fanno al Livello 2 con il CRC).|
 
-Esporta in Fogli
 
 > **In sintesi:** Se chiedi a un dispositivo di Livello 1 (come un Hub) "Cosa stai trasportando?", lui non ti risponderà "Un'email" o "Un pacchetto IP", ma ti risponderà: **"Sto trasportando una sequenza di impulsi elettrici a 5 Volt con una frequenza di 100 MHz"**.
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:43
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Switching livello 2 ISO OSI
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 `Si tratta di un componente fisico che possiamo definire il RE del livello due la sua caratteristica fondamentale e che riesce a leggere i Fraim e ne indivisdua i MAC destinatario e mittente`
 #### Differenze tra hab e Switch
 1) l'HAB opera al livello 1 questo non e intelligente e genera un unico dominio di rete quindi non si a un controllo della collisione e le macchine parlano in contemporanea si ha una collisione e "basta"
@@ -46,6 +48,6 @@ Lo switch gestisce i frame in tre modi diversi:
 - [[PoE (Power over Ethernet) - Standard IEEE 802.3af at bt]]
 
 
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:42
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: MAC livello 2 ISO OSI
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 `Si tratta della parte piu bassa del livello 2 che comunica a stretto contatto con il livello 1`
 
 ### Scopo
@@ -17,5 +19,6 @@ Inserisce nel Fraim (PDU livello 2) l'indirizzo MAC del destinatario, ogni NIC h
 	2) CSMA/CA = questa viene usate nelle comunicazione senza cavi, non vi e la possibilita di rilevare le collisioni e quindi si attende il permesso di parlare, si usa il _3-Way-And-Shake_ 
 2) Delimitazione delle trama: aggiunge una serire di bit al inizio e alla fine della trama cosi da far capire al ricevente quando questa termina e quando ne inizia una nuova 
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

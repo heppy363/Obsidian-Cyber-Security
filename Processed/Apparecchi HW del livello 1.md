@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:33
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Apparecchi HW del livello 1
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 A livello universitario, è fondamentale distinguere i dispositivi che operano puramente al **Livello 1** (Physical Layer) da quelli che iniziano a guardare i dati (Livello 2 o 3).
 I dispositivi del Livello 1 non comprendono indirizzi MAC, non leggono pacchetti e non prendono decisioni logiche: il loro compito è solo **gestire, rigenerare o instradare segnali elettrici, ottici o radio**.
  apparati del Livello Fisico:
@@ -38,5 +40,6 @@ Nelle reti moderne, lo "standard" fisico è modulare. Gli switch hanno degli slo
 - Un **amplificatore** (analogico) aumenta tutto, incluso il rumore di fondo.
 - Un **ripetitore** (digitale) interpreta i bit, ricostruisce il segnale "pulito" e lo emette come nuovo. Il Livello 1 moderno usa quasi esclusivamente la rigenerazione digitale.
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

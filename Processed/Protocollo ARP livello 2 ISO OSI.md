@@ -1,14 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
-  - protocollo
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:46
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Protocollo ARP livello 2 ISO OSI
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 `Il protocollo **ARP (Address Resolution Protocol)** è il "collante" fondamentale dell'intera suite di protocolli Internet. Senza di esso, la comunicazione nelle reti locali si fermerebbe istantaneamente.`
 
 ### 1. Perché l'ARP è necessario?
@@ -69,5 +70,6 @@ Interfaccia: 192.168.178.166 --- 0x5
 ```
 
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

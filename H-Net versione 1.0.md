@@ -1,0 +1,29 @@
+---
+tipo: nota_lezione
+corso: "Dashboard H-NET"
+tags: [progetto, hNet, Completed]
+creato: 2026-02-19 22:26
+---
+
+# 📝 Lezione: H-Net versione 1.0
+**Corso:** [[Dashboard H-NET]]
+
+---
+## Contenuto
+Si tratta di tutto l'HW necessario per completare la prima versione del mio hom lab e rete privata quindi al termine di tutte le operazioni la versione 1.0 la si potra considerare completata.
+
+1) 2 mini PC
+	- [[Specifiche hardware mini-PC]]
+	- [[Specifiche softwaremini PC]]
+	- [[Installare proxmox su una macchina]]
+2) Router
+	- [[Specifiche hardware  router]]
+	- [[Specifiche software router]]
+3) Netgear GS116E
+	- [[Specifiche Netgear GS116E]]
+4) Server NAS
+
+
+---
+## Collegamenti
+- Torna al corso: [[Dashboard H-NET]]

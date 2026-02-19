@@ -1,4 +1,4 @@
-`Mostra tutte le lezioni che sono da elaborare quindi da ridurre a note atomiche`[[worckflow.canvas]]
+`Mostra tutte le lezioni che sono da elaborare quindi da ridurre a note atomiche` [[Worckflow UNI.canvas]]
 
 ## Mostra tutte le note che devono essere elaborate 
 ```dataview

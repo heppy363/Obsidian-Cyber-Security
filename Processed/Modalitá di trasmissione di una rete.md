@@ -1,14 +1,16 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:29
 ---
---- 
-## Nozioni
-`A livello universitario, questo argomento si divide solitamente in due grandi categorie: la **direzionalità del flusso** (chi parla e quando) e la **natura del segnale** (analogico vs digitale).`
+
+# 📝 Lezione: Modalitá di trasmissione di una rete
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
+`A livello universitario, questo argomento si divide solitamente in due grandi categorie: la **direzionalità del flusso** (chi parla e quando) e la **natura del segnale** (analogico vs digitale).` e qui entra in atto la [[Codifica di linea]]
 
 #### 1. Direzionalità del Flusso
 Questa classificazione definisce come i dati si muovono fisicamente tra due nodi (A e B).
@@ -45,6 +47,6 @@ Questa è un'altra distinzione tecnica fondamentale a livello fisico.
 2) È Full-Duplex o Half-Duplex? (Fondamentale per capire se ci saranno collisioni).
 3) Usa modulazione (Broadband) o segnali digitali diretti (Baseband)?
 
-- [[Codifica di linea]]
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

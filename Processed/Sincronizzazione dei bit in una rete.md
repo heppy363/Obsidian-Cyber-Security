@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:26
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Sincronizzazione dei bit in una rete
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 La **sincronizzazione dei bit** e una delle parti piu critiche di una rete la problematica la si puo ridurre al coordinamento dei clock (gli orologi interni) del trasmettitore e del ricevente, senza questo passaggio il ricevente non potrebbe sapere quando termina un "1" oppure inizia uno "0" e si potrebbe incombere in _errori di duplicazione_ o di _campionamento_ (es: interpretare due "1" come uno solo). 
 Tutti questi problemi si affrontano e risolvono, con differenti modelli di trasmissione sulla rete stessa i principali sono i seguenti. 
 
@@ -31,26 +33,8 @@ Si tratta della soluzione piu usata nelle reti moderne, questa tecnica consiste 
 - **Codifica Manchester:** non si guarda il livello di tensione ma la direzioni delle passaggio di informazioni:
 	- Esempio: Una transizione da Basso ad Alto = "1", da Alto a Basso = "0".
 	- Poiché c'è una transizione in ogni bit, il ricevitore può usarla per ricalibrare il proprio clock continuamente.
-	- **Uso:** [[Definizione di uno standard]] **Ethernet 10BASE-T**. 
-- **Scrambling (Mescolamento):** Nelle reti ad alta velocità (come Gigabit Ethernet), si usano algoritmi matematici per evitare lunghe sequenze di "0" o "1" identici, forzando cambiamenti di stato che permettono al ricevitore di rimanere sincronizzato.
+	- **Uso:** [[Definizione di uno standard]] **Ethernet 10BASE-T**.
 
-#### Problemi Critici: Il "Jitter" e il "Clock Drift"
-Nello studio universitario ti verrà chiesto cosa può andare storto:
-1. **Clock Drift (Deriva del Clock):** Gli oscillatori al quarzo non sono mai identici al 100%. Se il clock del mittente è leggermente più veloce di quello del ricevitore, dopo migliaia di bit il ricevitore inizierà a leggere il bit sbagliato.
-2. **Jitter:** È la variazione temporale della posizione dei fronti del segnale rispetto alla loro posizione ideale. Può essere causato da interferenze elettromagnetiche o surriscaldamento dei componenti.
-
-#### Caratteristiche delle due metodologie 
-
-| **Caratteristica**            | **Asincrona**              | **Sincrona (Self-clocking)**  |
-| ----------------------------- | -------------------------- | ----------------------------- |
-| **Unità di sincronizzazione** | Singolo carattere (byte)   | Blocco di bit (frame)         |
-| **Efficienza**                | Bassa (bit start/stop)     | Alta                          |
-| **Complessità Hardware**      | Bassa                      | Alta                          |
-| **Esempio tipico**            | Tastiere, Sensori semplici | Ethernet, Fibra Ottica, Wi-Fi |
-
-#### Quanti dati posso passare 
-La **Multiplazione (Multiplexing)**, definisce **"quanti"** segnali indipendenti possono condividere lo stesso mezzo fisico contemporaneamente. In pratica, è la tecnica che permette di ottimizzare la larghezza di banda (bandwidth) per non stendere un cavo per ogni singola comunicazione.
-- [[Multiplazione quando dati passano in una singola linea]]
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

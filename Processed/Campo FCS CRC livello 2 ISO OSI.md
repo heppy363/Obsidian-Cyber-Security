@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:39
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Campo FCS CRC livello 2 ISO OSI
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 `Si tratta di una divisione polinomiale`
 **Importante** il CRC e il prodotto della divisione polinomiale mentre il FCS si tratta del campo nella quale viene inserito questo valore. 
 
@@ -29,9 +31,6 @@ Tutto il processo di funzionamento lo si deve vedere in ambito del ricevente e d
 Tutto il funzionamento e basato su una divisione polinomiale, della somma dei bit della PDU che assume valore $M_(x)$ diviso $G_(x)$ ovvero un numero a 32 bit definita da uno standard che tutte e due le macchine devono conosce e parlare, il resto di questa divisione polinomiale sara il nostro 'CRC' quindi il valore di controllo del errore, questo valore verra inserito dentro il campo FRS. questo procedimento si basa sullo _XOR_ esclusivo e deve essere ripetuto per _ogni_ fraim del messaggio da inviare: 
 - [[Funzionamento matematica calcolo CRC]]
 
-
-
-
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

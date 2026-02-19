@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"096e07ae95026194","type":"text","text":"- Tutto il sistema si basa sul metodo _Zettelkasten_ video riassuntivo [qui](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DoQ3ztVdErb8)\n- Ogni nota deve avere almeno un _collegamento_ con un _altra nota_\n- I TAG devono essere minimali, progetto, macro categoria, sotto categoria, ci si deve bassare solo sui collegamenti","x":-720,"y":-360,"width":250,"height":340,"color":"#00db54"},
+		{"id":"3ec7c18c4ecc5edd","x":-380,"y":40,"width":250,"height":80,"type":"text","text":"- Si genera la dasboard del argomento"},
+		{"id":"cdf62bdbb343d391","x":230,"y":40,"width":250,"height":80,"type":"text","text":"- Si espande l'argomento in note atomiche"},
+		{"id":"dae00aa8c4aa77af","x":-380,"y":240,"width":250,"height":80,"type":"text","text":"Contiene l'indice di tutti gli argomenti"},
+		{"id":"9ab36ac14fccec05","x":-380,"y":420,"width":250,"height":100,"type":"text","text":"- Si crea una nota di indice che rappresenta la macro categoria "},
+		{"id":"24bf2118283a991a","x":230,"y":415,"width":250,"height":110,"type":"text","text":"- Ogni macro argomento viene evaso in note atomiche"}
+	],
+	"edges":[
+		{"id":"c7aa2132a460e421","fromNode":"3ec7c18c4ecc5edd","fromSide":"bottom","toNode":"dae00aa8c4aa77af","toSide":"top"},
+		{"id":"fa20db332174e0ac","fromNode":"dae00aa8c4aa77af","fromSide":"bottom","toNode":"9ab36ac14fccec05","toSide":"top"},
+		{"id":"cea23a0eb59c15c0","fromNode":"3ec7c18c4ecc5edd","fromSide":"right","toNode":"cdf62bdbb343d391","toSide":"left"},
+		{"id":"7bfde9753c1874cc","fromNode":"cdf62bdbb343d391","fromSide":"bottom","toNode":"24bf2118283a991a","toSide":"top"},
+		{"id":"497b506fb31f049b","fromNode":"9ab36ac14fccec05","fromSide":"right","toNode":"24bf2118283a991a","toSide":"left"}
+	]
+}

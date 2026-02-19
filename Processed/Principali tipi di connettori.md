@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:31
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Principali tipi di connettori
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 Nel 2026, il panorama dei connettori si è consolidato attorno ad alcuni standard dominanti per l'uso quotidiano (ufficio/casa) e altri estremamente avanzati per i Data Center e l'Intelligenza Artificiale, dove si toccano velocità di **800 Gbps** e **1.6 Tbps**.
 
 Tabella comparativa aggiornata dei connettori principali:
@@ -30,5 +32,6 @@ Una particolarità del 2026 è l'uso massiccio di:
 - **AOC (Active Optical Cable):** Esteticamente uguali ai DAC, ma all'interno dei connettori c'è un chip che converte il segnale in luce e lo spara in una fibra. Usati per distanze fino a 100 metri.
 
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

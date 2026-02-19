@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:43
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Differenza tra protocollo e standard
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 ### 1. Lo Standard (Il "Cosa")
 Lo standard è un **modello di riferimento** approvato da un'autorità (come l'ISO, l'IEEE o l'ANSI). Stabilisce i requisiti tecnici, le dimensioni, le frequenze o i formati che un prodotto deve avere per essere considerato "a norma".
 - **Scopo:** Garantire l'interoperabilità (far sì che pezzi di marche diverse funzionino insieme).
@@ -29,5 +31,7 @@ Il protocollo è un **insieme di regole** che governano lo scambio di dati tra d
 |**Stato**|Statico (si aggiorna raramente).|Dinamico (gestisce flussi in tempo reale).|
 |**Esempio**|**USB-C** (la forma fisica del cavo).|**TCP** (come i pacchetti arrivano a destinazione).|
 
-## Link 
-1) 
+
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

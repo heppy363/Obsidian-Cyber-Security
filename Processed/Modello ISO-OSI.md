@@ -1,15 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:20
 ---
---- 
-## Nozioni
 
-#### Che cosa e 
+# 📝 Lezione: Modello ISO-OSI
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 Si tratta di uno _standard_ adottato nel 1984 che divide le funzioni di rete per permettere a sistemi _eterogeni_ di comunicare tra di loro, questo viene fatto dividendo la struttura di rete in 7 livelli principali. 
 1) Fisico
 2) Collegamento Dati
@@ -31,15 +31,13 @@ Si considera il modello ISO OSI la parte "teorica" di fatto questo e come e stat
 - Applciation layer -> gesisce la rappresentazione dei dati ad alto livello 
 
 
-- [[Modello ISO OSI mappa.canvas]]
-- [[Livello 1 Fisico ISO OSI]]
-- [[Livello 2 ISO OSI Data link]]
-- [[Livello 3 ISO OSI network]]
+### Espansioni dei livelli 
+1) [[Modello ISO OSI.canvas]]
+2) [[Livello 1 Fisico ISO OSI]]
+3) [[Livello 2 ISO OSI Data link]]
+4) [[Livello 3 ISO OSI network]]
 
 
-
-#### Approfondimento dei livelli 
-1) 
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

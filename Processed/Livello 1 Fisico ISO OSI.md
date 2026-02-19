@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:26
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Livello 1 Fisico ISO OSI
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 `Si tratta del primo livello dello stack (o ultimo dipende da come lo si tratta) il suo compito e quello di fare passare i bit tra una macchina e l'altra della rete o di diverse reti`
 
 ### Cos'è il Livello Fisico?
@@ -18,7 +20,7 @@ Il compito principale di questo livello e quello di definire le specifiche mecca
 3) _Sincronizzazione dei bit_: e fondamentale che mittente e ricevente siano sincronizzati e questo lo si fa considerando il _clock_ delle singole macchine interessate alla trasmissione, questo consente di capire quando iniziare e finire la trasmissione basandosi proprio sul clock delle macchine.
 	- [[Sincronizzazione dei bit in una rete]]
 4) _Topologia fisica_: definisce come sono collegati i dispositivi e da questo sene definisce la topologia, (es: stessa, a bus, ad anello, mesh) 
-5) _Modalita di trasmissione_: si intende come i bit i muovono sulla rete (in che direzione) 
+5) _Modalita di trasmissione_: si intende come i bit i muovono sulla rete (in che direzione)
 	- [[Modalitá di trasmissione di una rete]]
 
 ### Aspetti tecnici e specifiche 
@@ -53,5 +55,6 @@ Senza il Livello Fisico, i livelli superiori (Data Link, Network, ecc.) non avre
 > **Nota per l'esame:** Ricorda che il Livello Fisico non vede "frame" o "pacchetti". Esso vede solo **bit** (0 e 1). Se un bit viene corrotto, il Livello Fisico non lo sa; sarà il Livello 2 (Data Link) a occuparsi dell'eventuale rilevamento dell'errore.
 
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

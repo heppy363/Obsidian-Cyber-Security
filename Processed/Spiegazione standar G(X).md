@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:40
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Spiegazione standar G(X)
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 ## Spiegazione e Analisi Tecnica
 Il testo descrive come un pezzo di **hardware reale** (il motore CRC all'interno di un chip) gestisce ciò che abbiamo studiato teoricamente. Ecco i punti chiave spiegati:
 ### L'Efficacia Matematica
@@ -27,8 +29,6 @@ Il testo menziona che per il CRC-32 il risultato è **bit reversed and complemen
 ### I Valori Esadecimali
 I valori `0x1021` e `0x04C11DB7` sono le "scorciatoie" per scrivere i polinomi. Se converti `0x1021` in binario, otterrai esattamente la sequenza di bit che rappresenta i coefficienti del polinomio x16+x12+x5+1.
 
-
-
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

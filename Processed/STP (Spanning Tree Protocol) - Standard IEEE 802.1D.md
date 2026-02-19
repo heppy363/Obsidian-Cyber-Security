@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:44
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: STP (Spanning Tree Protocol) - Standard IEEE 802.1D
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 ## 1. Il problema: Il "Loop" di Livello 2
 A differenza dei pacchetti IP (Livello 3) che hanno un campo chiamato **TTL (Time to Live)** che li distrugge dopo un po', i Frame di Livello 2 **non hanno una scadenza**. Se un frame entra in un anello fisico (loop), girerà all'infinito.
 ### Le conseguenze di un Loop:
@@ -40,6 +42,6 @@ L'STP originale (802.1D) è molto lento: può impiegare fino a **30-50 secondi**
 ## 5. Curiosità: Il "PortFast"
 Se colleghi un PC a uno switch con STP, il PC potrebbe non ricevere un indirizzo IP perché il server DHCP scade prima che la porta passi da "Blocking" a "Forwarding". Gli amministratori usano il comando **PortFast** sulle porte collegate ai PC (non ad altri switch!) per farle saltare direttamente allo stato di **Forwarding** istantaneo.
 
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

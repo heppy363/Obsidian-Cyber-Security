@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:17
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Panoramica CompTIA Network+
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 ### 2. Risorse per lo studio
 #### Risorse Gratuite
 - **Professor Messer (YouTube):** Anche qui, è il riferimento assoluto. Ha playlist dedicate sia alla versione N10-008 che alla nuova N10-009.
@@ -43,8 +45,6 @@ Attualmente CompTIA sta passando dalla **N10-008** alla **N10-009**.
 - Se vuoi dare l'esame **subito**, vai sulla **008** (ci sono più materiali pronti).
 - Se pensi di studiare con calma per i prossimi 3-4 mesi, punta sulla **009** che include più concetti di Cloud e automazione (che a te come Dev piaceranno molto).
 
-
-
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

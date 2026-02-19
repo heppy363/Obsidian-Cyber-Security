@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:40
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Funzionamento matematica calcolo CRC
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 `Esposizione di come si calcolo il CRC ovvero il valore che va inserito nel FRS del livello 2`
 > per i calcoli si tiene in considerazione lo standard IEEE 802.03 a 32 bit
 
@@ -65,6 +67,6 @@ Una somma (checksum) potrebbe non rilevare errori se due bit si invertono contem
 
 > **Curiosità:** Se durante il volo un bit cambia (es. il frame diventa `1101111`), la divisione al destinatario non darà più zero. Il sistema "capisce" che c'è stato un errore e scarta il frame.
 
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

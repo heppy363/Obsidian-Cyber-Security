@@ -1,14 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:16
 ---
---- 
-## Nozioni
 
+# 📝 Lezione: Introduzione CompTIA Network+
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 #### Cosa studierai (Domini d'esame)
 La Network+ copre tutto ciò che riguarda le infrastrutture di rete, non solo i cavi, ma anche la logica software e la sicurezza.
 - **Fondamenti di rete:** Modello OSI (fondamentale!), tipi di cavi, porte e protocolli (HTTP, SSH, DNS, ecc.).
@@ -17,12 +18,8 @@ La Network+ copre tutto ciò che riguarda le infrastrutture di rete, non solo i 
 - **Sicurezza di rete:** Attacchi comuni alle reti, firewalls, VPN e sicurezza wireless.
 - **Risoluzione dei problemi (Troubleshooting):** È la parte più importante. Sapere perché un server nel tuo home lab non risponde al "ping" o perché c'è una collisione di IP.
 
-Tutta la metodologia e la pianificazione sono compresi in questa nota qua [[Piano di studio CompTIA Network+]]
+- [[Panoramica CompTIA Network+]]
 
-#### Indice
-1) [[Panoramica CompTIA Network+]]
-2) [[Piano di studio CompTIA Network+]]
-3) [[Modello ISO-OSI]]
-
-## Link 
-1) [Sito ufficiale compTIA](https://www.comptia.org)
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]

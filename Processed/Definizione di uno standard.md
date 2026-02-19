@@ -1,13 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - CompTIAnetwork
-  - Certificati
+tipo: nota_lezione
+corso: "Dashboard CompTIA Network+"
+tags: [progetto, CompTIANetwork, certificazioni, Completed]
+creato: 2026-02-19 15:27
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Definizione di uno standard
+**Corso:** [[Dashboard CompTIA Network+]]
+
+---
+## Contenuto
 ### 1. Che cos'è uno Standard?
 Uno **standard** è un insieme di regole, linee guida o caratteristiche concordate a livello internazionale. È il "modello di riferimento" o il "quadro generale" che stabilisce **cosa** deve essere fatto affinché sistemi diversi possano comunicare tra loro.
 - **L'obiettivo:** Garantire l'interoperabilità (far sì che un computer Apple possa "parlare" con un server Dell).
@@ -37,5 +39,6 @@ Pensa alla lingua italiana:
 - Lo **Standard** è la grammatica ufficiale definita dall'Accademia della Crusca (le regole generali).
 - Il **Protocollo** è la conversazione specifica che stiamo avendo io e te: se io parlo e tu ascolti, stiamo seguendo un protocollo di comunicazione basato su quello standard.
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Dashboard CompTIA Network+]]
