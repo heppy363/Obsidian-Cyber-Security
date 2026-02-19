@@ -1,14 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - cercatoreLavoro
-  - progettiPersonali
+tipo: nota_lezione
+corso: "Bot cerca lavoro"
+tags: [progetto, progettiPersonale, Completed]
+creato: 2026-02-19 10:47
 ---
---- 
-`tecnologie usate nel progetto`
-## Nozioni
+
+# 📝 Lezione: Stack tecnologico Bot cerca lavoro
+**Corso:** [[Bot cerca lavoro]]
+
+---
+## Contenuto
 ### 1. Core Language & Orchestration
 - **Linguaggio:** **Python 3.10+**. È lo standard per automazione e dati.
 - **Orchestratore di Task:** **Prefect** o **Dagster**. Perché? Gestiscono i tentativi falliti (retry), la schedulazione (ogni 2/3 giorni) e ti danno una dashboard per vedere se i bot si sono bloccati.
@@ -41,9 +42,8 @@ Estrarre dati da Google Maps o dai siti non è banale per via dei bot-detection.
 
 - [[Gestione delle task]]
 - [[Integrazione API costo zero]]
-- [[Gestione degli script trova lavoro]]
 - [[Gestione delle email trova lavoro]]
 
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Bot cerca lavoro]]

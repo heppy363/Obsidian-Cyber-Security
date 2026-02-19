@@ -4,63 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "9adb2c9ce52dff81",
+        "id": "91d1c724c6bc20a2",
         "type": "tabs",
         "children": [
           {
-            "id": "d71870800641e225",
+            "id": "25c23595bfc08504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli di Routing.md",
+                "file": "Bookshelf/Dashboard progetti personali/Risorse personali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocolli di Routing"
+              "title": "Risorse personali"
             }
           },
           {
-            "id": "1b5241c5fb1f34d1",
+            "id": "c8e642c56dfe749e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocollo RIP.md",
+                "file": "Processed/Introduzione Bot cerca lavoro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocollo RIP"
+              "title": "Introduzione Bot cerca lavoro"
             }
           },
           {
-            "id": "3b3624b4cfa2f723",
+            "id": "2979eee7229dd002",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmo Bellman-Ford.md",
+                "file": "Bookshelf/Dashboard progetti personali/Indice note Blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algoritmo Bellman-Ford"
+              "title": "Indice note Blog"
             }
           },
           {
-            "id": "1436bd0586e60996",
+            "id": "e107fc395e6bacc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmo di Prim.md",
+                "file": "Processed/Stack tecnologico Bot cerca lavoro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algoritmo di Prim"
+              "title": "Stack tecnologico Bot cerca lavoro"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CI  ",
+                "query": "tag:#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 324.5
   },
   "right": {
     "id": "555e91e6c56c459b",
@@ -234,34 +234,76 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b3624b4cfa2f723",
+  "floating": {
+    "id": "a940c7a2ac6b1be6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3d1de89c5c26cbb1",
+        "type": "window",
+        "children": [
+          {
+            "id": "6ed6f9a076e24ec3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "32fde70f081b6f3d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bookshelf/Dashboard progetti personali/Indice note CompTIA Network+.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Indice note CompTIA Network+"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 866,
+        "y": 23,
+        "width": 1551,
+        "height": 1038,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2979eee7229dd002",
   "lastOpenFiles": [
-    "Algoritmo di Prim.md",
-    "Protocollo RIP.md",
-    "Algoritmo Bellman-Ford.md",
-    "Resources/IMG/algoritmodi1.jpg",
-    "Protocolli di Routing.md",
-    "Matematica del subnetting.md",
-    "Bookshelf/Indice Archivio.md",
+    "Bookshelf/Dashboard progetti personali/Indice H-net.md",
+    "Bookshelf/Dashboard progetti personali/Indice note Blog.md",
+    "Bookshelf/Dashboard progetti personali/Indice note CompTIA Network+.md",
+    "Bookshelf/Dashboard progetti personali/CompTIA Network+.md",
     "Bookshelf/Dashboard progetti personali/Indice note docker.md",
     "Bookshelf/Dashboard progetti personali/Sommario progetti personali.md",
     "Bookshelf/Dashboard progetti personali/Indice note IA.md",
-    "Bookshelf/Dashboard progetti personali/Indice note Blog.md",
+    "Bookshelf/Dashboard progetti personali/ProgettiPersonale.md",
+    "Bookshelf/Indice Archivio.md",
+    "Bookshelf/Dashboard progetti personali/Risorse personali.md",
+    "Bookshelf/Dashboard progetti personali/Bot cerca lavoro.md",
+    "Senza nome.base",
     "Bookshelf/Dashboard progetti personali/Indice Bot cerca lavoro.md",
-    "Bookshelf/Dashboard progetti personali/Indice H-net.md",
-    "Bookshelf/Dashboard progetti personali/Indice di N8N.md",
-    "Bookshelf/Dashboard progetti personali/Indice risorse personali.md",
-    "Bookshelf/Dashboard progetti personali/Indice di proxmox.md",
-    "Bookshelf/Dashboard progetti personali/Indice note CompTIA Network+.md",
-    "Grafici di utilizzo.md",
-    "Templates/Template UNI/Genera dashboard corso.md",
-    "17-02-2026-18.md",
-    "Processed/if and else.md",
-    "Bookshelf/Dashboard corsi/programmazione.md",
-    "PDU livello 3 ISO OSI.md",
-    "Livello 3 ISO OSI network.md",
-    "Processed/Livello 2 ISO OSI Data link.md",
-    "Processed/Modello ISO-OSI.md",
+    "Processed/Stack tecnologico di cercatore lavori.md",
+    "Processed/Gestione degli errori bloccanti di cercatore lavori.md",
+    "Processed/Indice Bot cerca lavoro.md",
+    "Processed/Algoritmo di Prim.md",
+    "Gestione delle task.md",
+    "Gestione dei container Docker Bot Torva Lavoro.md",
+    "Integrazione API costo zero.md",
+    "Gestione degli script trova lavoro.md",
+    "Gestione delle email trova lavoro.md",
+    "Processed/Stack tecnologico Bot cerca lavoro.md",
+    "Processed/Gestione delle email trova lavoro.md",
+    "Processed/Gestione delle task.md",
+    "Processed/Gestione degli script trova lavoro.md",
+    "Processed/Integrazione API costo zero.md",
+    "Templates/Progetti",
+    "Resources/IMG/algoritmodi1.jpg",
     "Resources/Mappe/Modello ISO OSI mappa.canvas",
     "Templates/Script",
     "Resources/PDF/background-slides.pdf",
@@ -269,7 +311,6 @@
     "Templates/Template UNI",
     "Resources/IMG/Composizionelivello2.jpg",
     "Bookshelf/Dashboard progetti personali",
-    "Senza nome.base",
     "Resources/IMG/composizioneFibraOttica.png",
     "Senza nome 1.base",
     "Resources/Mappe",
@@ -282,7 +323,6 @@
     "Resources/IMG/GiteaRunner.png",
     "Resources/PDF/docker-cheatsheet-2.pdf",
     "Screenshot_20251028_212244.png",
-    "Resources/PDF",
     "Work/Flusso di lavoro.canvas"
   ]
 }

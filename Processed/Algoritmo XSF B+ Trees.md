@@ -1,14 +1,19 @@
 ---
-aliases:
-  - Completate
+tipo: nota_lezione
+corso: Proxmox
 tags:
-  - Completed
+  - progetto
   - proxmox
-  - Linux
+  - Completed
   - Algoritmi
+creato: 2026-02-19 09:54
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Algoritmo XSF B+ Trees
+**Corso:** [[Proxmox]]
+
+---
+## Contenuto
 `Il segreto di XFS risiede nell'abbandono delle strutture lineari a favore di strutture ad albero altamente ottimizzate.
 
 ## 1. Algoritmo di Allocazione: B+ Trees
@@ -45,5 +50,6 @@ Il journaling di XFS è "asincrono" e limitato ai **metadati**.
 - Un processo in background (il _log manager_) si occupa poi di applicare queste modifiche alla struttura principale del file system con calma.
 - In caso di crash, l'algoritmo di **Recovery** legge il log dall'ultima posizione nota e applica solo le operazioni mancanti, garantendo la coerenza in pochi secondi.
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Proxmox]]

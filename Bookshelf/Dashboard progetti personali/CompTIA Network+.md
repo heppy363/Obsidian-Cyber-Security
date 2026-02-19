@@ -1,18 +1,11 @@
-<%*
-// 1. Chiede il nome del corso
-let nomeCorso = await tp.system.prompt("Nome del Corso");
-// 2. Chiede i tag
-let tagsCorso = await tp.system.prompt("Inserisci tag extra (separati da virgola)");
-// 3. Rinomina il file col nome del corso
-await tp.file.rename(nomeCorso);
-%>---
-tipo: corso
-corso: <% nomeCorso %>
-tags: [corso, <% tagsCorso %>]
+---
+tipo: progetto
+corso: CompTIA Network+
+tags: [progetto, certificati, CompTIANetwork]
 stato: in_corso
 ---
 
-# 📚 Corso: <% nomeCorso %>
+# 📚 Corso: CompTIA Network+
 
 ## 🗺️ Roadmap di Avanzamento
 > [!info] Progresso
@@ -23,7 +16,16 @@ stato: in_corso
 - [ ] **Fase 3**: 
 
 ## Argomenti 
-> Mettere tutti gli argomenti del corso 
+1) [[Piano di studio CompTIA Network+]]
+2) [[Introduzione CompTIA Network+]]
+3) [[Modello ISO-OSI]]
+	1) [[Livello 1 Fisico ISO OSI]]
+	2) [[Livello 2 ISO OSI Data link]]
+	3) [[Livello 3 ISO OSI network]]
+4) 
+
+
+
 
 ---
 
@@ -31,6 +33,6 @@ stato: in_corso
 ```dataview
 LIST
 FROM "Processed"
-WHERE corso = "<% nomeCorso %>" AND tipo != "corso"
+WHERE corso = "CompTIA Network+" AND tipo != "progetto"
 SORT file.ctime DESC
 ```

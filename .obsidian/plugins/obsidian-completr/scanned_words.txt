@@ -1066,6 +1066,7 @@ Combina
 Classful
 Conosci
 Cicli
+Complessita
 tags
 tp
 tfile
@@ -1502,6 +1503,7 @@ tabelle
 tatuarti
 tvK
 toa
+tagsProgetto
 Modulo
 MM
 Modalit
@@ -2327,6 +2329,7 @@ LPM
 Legenda
 Lenta
 Lentezza
+Lavoro
 TO
 TFile
 Trovati
@@ -2652,6 +2655,8 @@ TIM
 Trucco
 Timers
 Timer
+Trasferimento
+Torva
 DO
 Docente
 DD
@@ -4550,6 +4555,7 @@ conosciute
 continuare
 cwHo
 caq
+computazione
 file
 find
 for
@@ -5807,6 +5813,7 @@ vUW
 vnl
 vDf
 vsr
+vertici
 read
 rename
 renameFile
@@ -6371,6 +6378,7 @@ rUo
 rvy
 rOB
 rON
+risorsePersonale
 parseInt
 precedenti
 path
@@ -6995,6 +7003,7 @@ periodo
 pubblicitari
 positivi
 peggioramenti
+progettiPersonale
 date
 dasdas
 da
@@ -7799,6 +7808,7 @@ nozione
 notazione
 negativo
 ntls
+nomeProgetto
 YYYY
 YAML
 Yk
@@ -10599,6 +10609,7 @@ PQv
 PmM
 PJO
 Pjk
+ProgettiPersonale
 Escludi
 Esclude
 Errore
@@ -12145,6 +12156,7 @@ sprechi
 sceglier
 scaduta
 silenzio
+spaziale
 Imposta
 IT
 Imparare
@@ -12725,6 +12737,7 @@ wcFb
 wOU
 where
 wup
+worst
 Output
 Object
 Obiettivi
@@ -14912,6 +14925,7 @@ Walkie
 Way
 WHERE
 WhatsApp
+Win
 Google
 GitHub
 Grazie

@@ -28,7 +28,7 @@ Hyper-V non è un software isolato, ma sfrutta specifiche istruzioni del process
 
 ## 4. Integrazione ed Ecosistema
 Hyper-V non serve solo a far girare "Windows dentro Windows". La sua integrazione è profonda:
-- **Windows Containers:** Ricordi i [[Container]] di cui parlavamo prima? Su Windows, puoi far girare i container in **Hyper-V Isolation mode**. Ogni container riceve il proprio kernel dedicato (molto più sicuro ma leggermente più pesante).
+- **Windows Containers:** Ricordi i [[Processed/Container]] di cui parlavamo prima? Su Windows, puoi far girare i container in **Hyper-V Isolation mode**. Ogni container riceve il proprio kernel dedicato (molto più sicuro ma leggermente più pesante).
 - **WSL2 (Windows Subsystem for Linux):** Se usi Linux su Windows 10/11, sappi che dietro le quinte c'è un'istanza "lightweight" di Hyper-V che fa girare il kernel Linux originale.
 - **Azure:** L'intero cloud di Microsoft (Azure) è basato su una versione custom e iper-scalabile di Hyper-V. Imparare Hyper-V significa capire come funziona il cloud di Microsoft.
 	- 

@@ -1,12 +1,15 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - risorsePersonali
+tipo: nota_lezione
+corso: "Risorse personali"
+tags: [progetto, risorsePersonale, Completed]
+creato: 2026-02-19 09:58
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Trasferimento File da Win a linux
+**Corso:** [[Risorse personali]]
+
+---
+## Contenuto
 `Si tratta di un sistema per il trasferimento di file da un PC al altra con diverso sistema operativo sulla stessa rete basato su SyncTrayzor`
 
 > Scenario: mi interessa spostare o avere delle cartelle sempre sincronizzate tra due o piu PC sulla stessa rete in maniera indipendente dal sistema operativo 
@@ -67,5 +70,6 @@ systemctl --user start syncthing.service
 - Quando la barra diventa verde con scritto **"Sincronizzato"**, i file sono identici su entrambi i PC.
 **Nota per EndeavourOS:** Se hai il firewall attivo (ufw), ricordati di aprire le porte necessarie con `sudo ufw allow 22000/tcp` e `sudo ufw allow 21027/udp`, ma solitamente in una configurazione standard casalinga non serve.
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Risorse personali]]

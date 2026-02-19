@@ -1,13 +1,19 @@
 ---
-aliases:
-  - Completate
+tipo: nota_lezione
+corso: Proxmox
 tags:
-  - Completed
+  - progetto
   - proxmox
+  - Completed
   - Linux
+creato: 2026-02-19 09:52
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: EXT4
+**Corso:** [[Proxmox]]
+
+---
+## Contenuto
 ``Se XFS è il "gigante dei dati" nato per il calcolo pesante, **EXT4 (Fourth Extended File System)** è il cavallo di battaglia del mondo Linux. È il file system di default per la stragrande maggioranza delle distribuzioni (Ubuntu, Debian, Fedora).``
 
 Mentre XFS punta tutto sul parallelismo estremo, EXT4 è progettato per un equilibrio perfetto tra **retrocompatibilità, affidabilità e velocità** su scala medio-grande.
@@ -43,5 +49,6 @@ A differenza di XFS, EXT4 conserva alcune strutture classiche che lo rendono pi�
 - **Online Deframmentation:** EXT4 supporta lo strumento `e4defrag`, che permette di deframmentare singoli file o l'intero file system mentre è montato e in uso.
 - **Ridimensionamento:** Puoi espandere o **restringere** un volume EXT4 (XFS non può essere ristretto).
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Proxmox]]

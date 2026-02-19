@@ -1,5 +1,5 @@
 `Tutte le note della mia rete domestica privata mini data center e Hom lab`
-  
+
 ```dataview
 TABLE file.name AS "Note", file.ctime AS "Created", 
   (filter(file.tags, (t) => t != "TO-DO")) AS "Tags"

@@ -1,20 +1,19 @@
 ---
-aliases:
-  - Completate
-tags:
-  - Completed
-  - progettiPersonali
-  - cercatoreLavoro
+tipo: nota_lezione
+corso: "Bot cerca lavoro"
+tags: [progetto, progettiPersonale, Completed]
+creato: 2026-02-19 10:45
 ---
---- 
-## Nozioni
-`Si tratta di un sistema automatico per la ricerca di potenziali clienti in ambito di creazione di siti web o e-commers` 
 
+# 📝 Lezione: Introduzione Bot cerca lavoro
+**Corso:** [[Bot cerca lavoro]]
+
+---
+## Contenuto
+`Si tratta di un sistema automatico per la ricerca di potenziali clienti in ambito di creazione di siti web o e-commers` 
 
 ### L'Idea 
 Si tratta di un agente autonomo che scandaglia il web alla ricerca di potenziali clienti per il contatto e successivo preventivo di siti web o e-commers, il punto fondamentale e quello di inserire un area geografica e al interno di essa mi cerca tutte le attivita commerciali alle quali puo servire un sito web il tutto sotto un range di KM ad esempio Milano 10 KM e da si procede. 
-
-
 ### Funzioni 
 1) Impostazione di range area geografica 
 2) Trovare se esiste un sito web o meno 
@@ -36,8 +35,6 @@ Per far funzionare questo agente autonomo, avresti bisogno di integrare diverse 
     - **Tecnologia:** Usare strumenti come _Wappalyzer_ (via API) per capire se usano un vecchio WordPress o tecnologie obsolete.
 4. **Categorizzazione:** Sfruttare un LLM (come GPT-4o o Claude) per analizzare la descrizione dell'attività e decidere se è un target "Premium" (es. un ristorante stellato senza sito) o "Low priority".
 
-- [[Stack tecnologico di cercatore lavori]]
-- [[Gestione degli errori bloccanti di cercatore lavori]] 
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Bot cerca lavoro]]

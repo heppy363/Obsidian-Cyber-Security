@@ -1,18 +1,18 @@
 <%*
 // 1. Chiede il nome del corso
-let nomeCorso = await tp.system.prompt("Nome del Corso");
+let nomeProgetto = await tp.system.prompt("Nome del progetto");
 // 2. Chiede i tag
-let tagsCorso = await tp.system.prompt("Inserisci tag extra (separati da virgola)");
+let tagsProgetto = await tp.system.prompt("Inserisci tag extra (separati da virgola)");
 // 3. Rinomina il file col nome del corso
-await tp.file.rename(nomeCorso);
+await tp.file.rename(nomeProgetto);
 %>---
-tipo: corso
-corso: <% nomeCorso %>
-tags: [corso, <% tagsCorso %>]
+tipo: progetto
+corso: <% nomeProgetto %>
+tags: [progetto, <% tagsProgetto %>]
 stato: in_corso
 ---
 
-# 📚 Corso: <% nomeCorso %>
+# 📚 Corso: <% nomeProgetto %>
 
 ## 🗺️ Roadmap di Avanzamento
 > [!info] Progresso
@@ -23,7 +23,7 @@ stato: in_corso
 - [ ] **Fase 3**: 
 
 ## Argomenti 
-> Mettere tutti gli argomenti del corso 
+> Mettere tutti gli argomenti del progetto  
 
 ---
 
@@ -31,6 +31,6 @@ stato: in_corso
 ```dataview
 LIST
 FROM "Processed"
-WHERE corso = "<% nomeCorso %>" AND tipo != "corso"
+WHERE corso = "<% nomeProgetto %>" AND tipo != "progetto"
 SORT file.ctime DESC
 ```

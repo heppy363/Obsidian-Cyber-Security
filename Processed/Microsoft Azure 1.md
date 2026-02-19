@@ -1,12 +1,19 @@
 ---
-aliases:
-  - Completate
+tipo: nota_lezione
+corso: Risorse personali
 tags:
+  - progetto
+  - risorsePersonale
   - Completed
   - claud
-  - risorsePersonali
+creato: 2026-02-19 09:58
 ---
---- 
+
+# 📝 Lezione: Microsoft Azure
+**Corso:** [[Risorse personali]]
+
+---
+## Contenuto
 `Per capire il cloud di Microsoft, non devi immaginarlo solo come un insieme di server, ma come una **piattaforma globale distribuita** che trasforma l'hardware fisico in risorse virtuali astratte, disponibili su richiesta.`
 ## Nozioni
 
@@ -44,5 +51,6 @@ Nel cloud di Microsoft vige una regola d'oro:
 ### In sintesi: Perchè è così potente?
 Azure vince perché permette a un'azienda che usa già Windows Server, SQL Server e .NET di spostarsi online con una compatibilità quasi del 100%, sfruttando **Hyper-V** come linguaggio comune tra il server locale e il cloud globale.
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Risorse personali]]

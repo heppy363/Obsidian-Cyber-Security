@@ -12,7 +12,7 @@ tags:
 1) 2 mini PC
 	- [[Specifiche hardware mini-PC]]
 	- [[Specifiche softwaremini PC]]
-	- [[Installare proxmox su una macchina]]
+	- [[Processed/Installare proxmox su una macchina]]
 2) 3 BC-250
 3) Server NAS
 4) Router

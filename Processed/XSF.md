@@ -1,13 +1,19 @@
 ---
-aliases:
-  - Completate
+tipo: nota_lezione
+corso: Proxmox
 tags:
-  - Completed
+  - progetto
   - proxmox
+  - Completed
   - Linux
+creato: 2026-02-19 09:52
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: XSF
+**Corso:** [[Proxmox]]
+
+---
+## Contenuto
 In ambito informatico e di ingegneria del software, la sigla **XSF** può riferirsi a diverse tecnologie, ma nel contesto del Cloud, della virtualizzazione e della standardizzazione (seguendo il filo del nostro discorso), il riferimento principale è alla **XMPP Standards Foundation** (legata ai protocolli di comunicazione) o, più specificamente in contesti di archiviazione e dati, a formati di **eXtensible Storage**.
 Tuttavia, se stiamo parlando di infrastrutture moderne e sicurezza (spesso associata ad Azure e Hyper-V), è molto probabile che tu ti riferisca a **XFS** (il file system) o a concetti legati alla **Cross-Site Federation**.
 Considerando il taglio "universitario" e la progressione della nostra chat, analizziamo il **File System XFS**, che è un pilastro nello storage enterprise e nelle infrastrutture Cloud/Linux.
@@ -43,6 +49,6 @@ Se dovessi descrivere XFS in un esame di Sistemi Operativi, i punti chiave sono:
 3. **Journaling dei metadati:** Integrità del dato.
 4. **Allocazione basata su Extent e ritardata:** Ottimizzazione delle performance di scrittura.
 
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Proxmox]]

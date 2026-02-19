@@ -1,12 +1,19 @@
 ---
-aliases:
-  - Completate
+tipo: nota_lezione
+corso: Proxmox
 tags:
-  - Completed
+  - progetto
   - proxmox
+  - Completed
   - H-net
+creato: 2026-02-19 09:49
 ---
---- 
+
+# 📝 Lezione: Container
+**Corso:** [[Proxmox]]
+
+---
+## Contenuto
 `Parlare di container oggi significa descrivere il pilastro fondamentale del cloud computing moderno. Per definirli in modo completo a livello informatico, non possiamo limitarci a dire che sono "macchine virtuali più leggere"; dobbiamo analizzare la loro architettura e come interagiscono con il sistema operativo.`
 ## Nozioni
 ## 1. Definizione Tecnica: L'Unità di Standardizzazione
@@ -39,5 +46,6 @@ Quando i container diventano centinaia o migliaia, gestirli a mano è impossibil
 3. **Load Balancing:** Distribuisce il traffico equamente tra i container.
 > **Nota di approfondimento:** Ricorda che i container sono per natura **effimeri**. Se un container viene cancellato, i dati al suo interno vanno persi a meno di non collegare dei volumi esterni (Persistence).
 
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Proxmox]]

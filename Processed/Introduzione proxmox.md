@@ -1,13 +1,19 @@
 ---
-aliases:
-  - Completate
+tipo: nota_lezione
+corso: Proxmox
 tags:
-  - Completed
+  - progetto
   - proxmox
+  - Completed
   - Linux
+creato: 2026-02-19 09:53
 ---
---- 
-## Nozioni
+
+# 📝 Lezione: Introduzione proxmox
+**Corso:** [[Proxmox]]
+
+---
+## Contenuto
 ### 1. Definizione Architetturale
 Proxmox VE è una soluzione di virtualizzazione di classe enterprise **"Bare Metal"** basata su **Debian GNU/Linux**. È definita come piattaforma _iperconvergente_ (HCI - Hyper-Converged Infrastructure) perché integra in un unico stack software tre elementi che solitamente sono separati: **Calcolo (Virtualizzazione)**, **Storage (Software-Defined Storage)** e **Rete**.
 
@@ -40,15 +46,6 @@ In una configurazione a più nodi (minimo 3 per il quorum ideale), Proxmox gesti
 - **Interfaccia Web (API-First):** Tutto ciò che vedi nell'interfaccia grafica è gestito tramite API REST. Questo permette automazioni spinte tramite script o strumenti come **Terraform** e **Ansible**.
 - **RBAC (Role-Based Access Control):** Gestione granulare degli utenti. Puoi decidere chi può accendere una VM, chi può vederla e chi può gestirne il backup.
 
-
-#### Indice
-1) [[Installare proxmox su una macchina]]
-2) [[Container]]
-3) [[XSF]]
-4) [[EXT4]]
-5) [[Algoritmo XSF B+ Trees]]
-
-
-
-## Link 
-1) 
+---
+## Collegamenti
+- Torna al corso: [[Proxmox]]
