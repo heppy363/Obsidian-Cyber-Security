@@ -15,13 +15,15 @@ Si tratta di tutto l'HW necessario per completare la prima versione del mio hom 
 1) 2 mini PC
 	- [[Specifiche hardware mini-PC]]
 	- [[Specifiche softwaremini PC]]
-	- [[Installare proxmox su una macchina]]
+	- [[Installare proxmox su HW reale]]
 2) Router
 	- [[Specifiche hardware  router]]
 	- [[Specifiche software router]]
 3) Netgear GS116E
 	- [[Specifiche Netgear GS116E]]
-4) Server NAS
+4) Server di calcolo 1
+	- [[Specifiche HW server di calcolo 1]]
+5) Server NAS
 
 
 ---

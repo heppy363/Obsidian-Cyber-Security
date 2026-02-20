@@ -3078,6 +3078,7 @@ Drl
 DTl
 Digita
 Dalla
+Dashboaard
 Riferimenti
 RegExp
 Red
@@ -3482,6 +3483,7 @@ Rast
 Rielaboro
 RLu
 RnD
+Rust
 link
 let
 la
@@ -12310,6 +12312,7 @@ spacing
 settori
 standar
 softwaremini
+sistemiOperativi
 Imposta
 IT
 Imparare

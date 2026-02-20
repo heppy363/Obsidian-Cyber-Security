@@ -1,11 +1,15 @@
 ---
 tipo: progetto
-corso: Dashboard progetti personali
-tags: [progetto, progettiPersonali]
+corso: Dashboaard Rust
+tags:
+  - progetto
+  - rust
+  - linguaggiProg
+  - progettiPersonali
 stato: in_corso
 ---
 
-# 📚 Corso: Dashboard progetti personali
+# 📚 Corso: Dashboaard Rust
 
 ## 🗺️ Roadmap di Avanzamento
 > [!info] Progresso
@@ -16,9 +20,7 @@ stato: in_corso
 - [ ] **Fase 3**: 
 
 ## Argomenti 
-1) [[Dashboard H-NET]]
-2) [[Dashboard sistemi operativi]]
-3) [[Dashboard progetti personali]]
+> Mettere tutti gli argomenti del progetto  
 
 ---
 
@@ -26,6 +28,6 @@ stato: in_corso
 ```dataview
 LIST
 FROM "Processed"
-WHERE corso = "Dashboard progetti personali" AND tipo != "progetto"
+WHERE corso = "Dashboaard Rust" AND tipo != "progetto"
 SORT file.ctime DESC
 ```

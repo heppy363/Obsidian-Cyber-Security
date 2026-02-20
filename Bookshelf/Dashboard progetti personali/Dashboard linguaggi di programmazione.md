@@ -1,11 +1,14 @@
 ---
 tipo: progetto
-corso: Dashboard progetti personali
-tags: [progetto, progettiPersonali]
+corso: Dashboard linguaggi di programmazione
+tags:
+  - progetto
+  - linguaggiProg
+  - progettiPersonali
 stato: in_corso
 ---
 
-# 📚 Corso: Dashboard progetti personali
+# 📚 Corso: Dashboard linguaggi di programmazione
 
 ## 🗺️ Roadmap di Avanzamento
 > [!info] Progresso
@@ -16,9 +19,7 @@ stato: in_corso
 - [ ] **Fase 3**: 
 
 ## Argomenti 
-1) [[Dashboard H-NET]]
-2) [[Dashboard sistemi operativi]]
-3) [[Dashboard progetti personali]]
+1) [[Dashboaard Rust]]
 
 ---
 
@@ -26,6 +27,6 @@ stato: in_corso
 ```dataview
 LIST
 FROM "Processed"
-WHERE corso = "Dashboard progetti personali" AND tipo != "progetto"
+WHERE corso = "Dashboard linguaggi di programmazione" AND tipo != "progetto"
 SORT file.ctime DESC
 ```
