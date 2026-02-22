@@ -1095,6 +1095,8 @@ CMOS
 Contatti
 Corretto
 Configurato
+Chiavetta
+Configuration
 tags
 tp
 tfile
@@ -2713,6 +2715,7 @@ TrL
 TyH
 TDP
 Tuning
+Technology
 DO
 Docente
 DD
@@ -3110,6 +3113,9 @@ DIMMA
 Disabilitato
 DOWN
 Driver
+DEL
+Disk
+Dai
 Riferimenti
 RegExp
 Red
@@ -3853,6 +3859,7 @@ linguaggiProg
 lezioni
 linear
 lampeggiante
+licenza
 const
 counterPath
 counter
@@ -5107,6 +5114,7 @@ fungere
 fabbrica
 flessioni
 firmware
+finita
 md
 modify
 muoverli
@@ -5572,6 +5580,7 @@ mancata
 massiccia
 multithreading
 monitoraggio
+mostrer
 vault
 visibile
 vietate
@@ -7155,6 +7164,7 @@ presentato
 primario
 partizioni
 predisposto
+premi
 date
 dasdas
 da
@@ -8946,6 +8956,8 @@ espansa
 escludendo
 eccessiva
 energetico
+ext
+entri
 Vault
 VM
 Village
@@ -9223,6 +9235,7 @@ Vdfq
 Verifiche
 Verificata
 Verificati
+Virtualization
 getMarkdownFiles
 gi
 getActiveFile
@@ -10839,6 +10852,9 @@ Precision
 Processore
 Procedura
 POST
+Partizione
+PCI
+Primo
 Escludi
 Esclude
 Errore
@@ -11152,6 +11168,7 @@ Espando
 Espansioni
 EKL
 EFI
+Enabled
 Sposta
 Spostato
 Spostati
@@ -11637,6 +11654,9 @@ Select
 SanDisk
 Stress
 Suite
+Segnatelo
+Subscription
+Shell
 stato
 spostato
 spostamento
@@ -12429,6 +12449,9 @@ stoccaggio
 schermo
 scarico
 stabili
+selezionarla
+scollega
+scrivi
 Imposta
 IT
 Imparare
@@ -12787,6 +12810,8 @@ Identificato
 Impostato
 Impostata
 Identificata
+Instllare
+IOV
 workspace
 while
 workshop
@@ -15939,6 +15964,8 @@ Hop
 Horizon
 Hold
 Heartbeat
+Hard
+Hostname
 hardening
 honeypot
 ha
@@ -16396,6 +16423,7 @@ Quelli
 Quello
 QJA
 Quad
+Quella
 yaml
 yF
 ysss
