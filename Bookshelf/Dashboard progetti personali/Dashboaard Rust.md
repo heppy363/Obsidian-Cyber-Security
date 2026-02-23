@@ -20,7 +20,7 @@ stato: in_corso
 - [ ] **Fase 3**: 
 
 ## Argomenti 
-> Mettere tutti gli argomenti del progetto  
+1) [[Introduzione]] 
 
 ---
 
