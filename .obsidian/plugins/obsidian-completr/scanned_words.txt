@@ -627,6 +627,8 @@ aea
 assicurandoci
 aggressivo
 attenti
+assegnato
+avesse
 Completate
 Completed
 Controlla
@@ -1099,6 +1101,8 @@ Configurato
 Chiavetta
 Configuration
 Ctrl
+Completata
+Componentistica
 tags
 tp
 tfile
@@ -2110,6 +2114,7 @@ Negativi
 NNc
 Necessario
 Net
+Nero
 Link
 Lesson
 Linux
@@ -2718,6 +2723,7 @@ TyH
 TDP
 Tuning
 Technology
+Tentativo
 DO
 Docente
 DD
@@ -4674,6 +4680,8 @@ calibrato
 controller
 collection
 collector
+cambiasse
+creava
 file
 find
 for
@@ -5586,6 +5594,7 @@ multithreading
 monitoraggio
 mostrer
 memory
+modificata
 vault
 visibile
 vietate
@@ -5954,6 +5963,8 @@ vertici
 viz
 validare
 vga
+verificando
+verificato
 read
 rename
 renameFile
@@ -6533,6 +6544,9 @@ residui
 riscontrato
 riconosceva
 rilasciata
+riavviato
+raggiungibile
+raggiungibilit
 parseInt
 precedenti
 path
@@ -7173,6 +7187,8 @@ partizioni
 predisposto
 premi
 probblmi
+premendo
+parametri
 date
 dasdas
 da
@@ -7690,6 +7706,8 @@ deg
 dorati
 difettoso
 datato
+diventava
+disattivato
 now
 newName
 name
@@ -10442,6 +10460,7 @@ incrociato
 individuato
 inserzione
 integrate
+identificata
 Percorso
 Per
 Processed
@@ -11669,6 +11688,7 @@ Suite
 Segnatelo
 Subscription
 Shell
+Schermo
 stato
 spostato
 spostamento
@@ -12826,6 +12846,8 @@ Identificata
 Instllare
 IOV
 Install
+Intervento
+Impostati
 workspace
 while
 workshop
@@ -13606,6 +13628,7 @@ UTF
 Universit
 UQJ
 UEFI
+UPS
 bArchivio
 base
 bene
@@ -14239,6 +14262,7 @@ Brain
 Beep
 BMC
 Boot
+Box
 Fase
 Fondamentale
 Flag
@@ -14537,6 +14561,9 @@ Fgyp
 Family
 Failure
 Funzionante
+FQDN
+Fritz
+Finalizzazione
 qui
 quel
 quando
@@ -15982,6 +16009,7 @@ Hold
 Heartbeat
 Hard
 Hostname
+Hamachi
 hardening
 honeypot
 ha

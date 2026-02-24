@@ -18,7 +18,6 @@ stato: in_corso
 ## Argomenti 
 1) [[Dashboard H-NET]]
 2) [[Dashboard sistemi operativi]]
-3) [[Dashboard progetti personali]]
 
 ---
 

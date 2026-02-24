@@ -30,20 +30,6 @@ Inserisci la chiavetta e premi **F11** al boot per selezionarla (modalità UEFI)
 3. **Hostname:** Dai un nome al server (es. `server-luc.local`).
 4. **IP Address:** Imposta un IP statico (es. `192.168.1.100`). **Segnatelo**, perché dopo l'installazione il server non avrà interfaccia grafica e potrai usarlo solo via browser da un altro PC.
 5. Da stare attenti con il driver della scheda video puo dare probblmi 
-6. ### 1. La "Soluzione Magica" per Supermicro
-
-Dato che non hai una GPU esterna, dobbiamo forzare l'installer a usare la modalità video più semplice possibile (VGA standard).
-
-1. All'avvio della chiavetta Proxmox, evidenzia **"Install Proxmox VE (Graphical)"**.
-    
-2. Premi il tasto **`e`**.
-    
-3. Trova la riga che inizia con `linux` e alla fine aggiungi: `vga=791 nomodeset`
-    
-    - _vga=791_ forza una risoluzione standard 1024x768 a 16 bit, che il chip integrato accetta sempre.
-        
-4. Premi **Ctrl+X** o **F10** per avviare.
-heppy363
 ### 4. Primo Accesso al Pannello di Controllo
 
 Una volta finita l'installazione, scollega la chiavetta e riavvia. Lo schermo del server mostrerà una riga di comando nera con un indirizzo simile a: `https://192.168.1.100:8006`

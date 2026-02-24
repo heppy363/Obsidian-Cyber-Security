@@ -25,8 +25,12 @@ Si tratta di tutto l'HW necessario per completare la prima versione del mio hom 
 	- [[Specifiche HW server di calcolo 1]]
 	- [[Installare proxmox su HW reale]]
 5) Server NAS
+	1) [[Installare proxmox su HW reale]]
+	2) [[Risoluzione errori in proxmox]]
+
 
 
 ---
 ## Collegamenti
 - Torna al corso: [[Dashboard H-NET]]
+- [[Gestione delle corrente elettrica]]
