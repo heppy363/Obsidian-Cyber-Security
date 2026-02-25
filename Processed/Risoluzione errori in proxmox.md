@@ -28,7 +28,8 @@ creato: 2026-02-23 21:33
 - **Problema:** L'interfaccia era raggiungibile da smartphone ma non dal PC principale.
 - **Causa 1 (Indirizzo):** Tentativo di accesso all'IP `.100` invece del `.171` corretto impostato durante l'installazione.
 - **Causa 2 (Software di rete):** Presenza di **Hamachi** sul PC, che creava conflitti di instradamento impedendo al browser di "vedere" l'IP locale del server.
-- **Risoluzione:** Accesso tramite l'URL completo **`https://192.168.178.171:8006`** dopo aver verificato la raggiungibilità della rete locale.
+- **Risoluzione:** Accesso tramite l'URL completo **`https://192.168.178.100:8006`** dopo aver verificato la raggiungibilità della rete locale.
+
 
 ---
 ## Collegamenti

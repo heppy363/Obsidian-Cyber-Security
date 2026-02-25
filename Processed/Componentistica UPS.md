@@ -45,3 +45,4 @@ L'UPS dedicato della Ugreen da 120W è già predisposto per comunicare direttame
 
 ## Collegamenti
 - Torna al corso: [[Dashboard H-NET]]
+- [[SW per UPS]]

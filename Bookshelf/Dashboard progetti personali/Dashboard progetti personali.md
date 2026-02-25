@@ -14,7 +14,7 @@ stato: in_corso
 - [ ] **Fase 1**: 
 - [ ] **Fase 2**: 
 - [ ] **Fase 3**: 
-
+ 
 ## Argomenti 
 1) [[Dashboard H-NET]]
 2) [[Dashboard sistemi operativi]]

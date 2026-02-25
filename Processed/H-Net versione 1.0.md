@@ -24,10 +24,9 @@ Si tratta di tutto l'HW necessario per completare la prima versione del mio hom 
 4) Server di calcolo 1
 	- [[Specifiche HW server di calcolo 1]]
 	- [[Installare proxmox su HW reale]]
+	- [[Risoluzione errori in proxmox]]
+	-  [[Crezione del primo container CT]]
 5) Server NAS
-	1) [[Installare proxmox su HW reale]]
-	2) [[Risoluzione errori in proxmox]]
-
 
 
 ---
