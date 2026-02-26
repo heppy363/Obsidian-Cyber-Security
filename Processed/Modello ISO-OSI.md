@@ -30,7 +30,6 @@ Si considera il modello ISO OSI la parte "teorica" di fatto questo e come e stat
 - Transport layer -> gestisce la consegna dei dati alla varie macchina e consente il controllo del flusso come grazie al protocollo TCP 
 - Applciation layer -> gesisce la rappresentazione dei dati ad alto livello 
 
-
 ### Espansioni dei livelli 
 1) [[Modello ISO OSI.canvas]]
 2) [[Livello 1 Fisico ISO OSI]]

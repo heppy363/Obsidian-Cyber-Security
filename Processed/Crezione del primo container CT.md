@@ -20,3 +20,4 @@ Nel caso in cui il container non sia collegato alla rete verificare sempre i DNS
 ---
 ## Collegamenti
 - Torna al corso: [[Dashboard H-NET]]
+- [Video della creazione container](https://www.youtube.com/watch?v=xKhWRMj5Nrc&t=458s)

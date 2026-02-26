@@ -640,6 +640,10 @@ ampliano
 assembler
 andrano
 auentano
+apposito
+averlo
+aquisiamo
+adattatore
 Completate
 Completed
 Controlla
@@ -1119,6 +1123,7 @@ Cell
 Correzione
 Connessioni
 Crezione
+Complemento
 tags
 tp
 tfile
@@ -3572,6 +3577,7 @@ ROM
 Rilevato
 Rilevata
 Rando
+Riser
 link
 let
 la
@@ -4737,6 +4743,13 @@ carateri
 corretamente
 cifre
 codici
+constatare
+codificato
+campioni
+convertono
+consumi
+chipset
+compatto
 file
 find
 for
@@ -5183,6 +5196,7 @@ flessioni
 firmware
 finita
 fondamentele
+fattibilit
 md
 modify
 muoverli
@@ -5659,6 +5673,9 @@ memorizzano
 minima
 maiuscola
 memorizznao
+mediali
+management
+meccanico
 vault
 visibile
 vietate
@@ -6033,6 +6050,8 @@ volatile
 verifcare
 visti
 virus
+vien
+valutato
 read
 rename
 renameFile
@@ -6624,6 +6643,13 @@ ripristinare
 rappreentati
 riferendo
 rappresnetare
+rappresetnare
+rapresentati
+rappresente
+ridotto
+ridotti
+riusciti
+rientrare
 parseInt
 precedenti
 path
@@ -7276,6 +7302,9 @@ prodotti
 possimo
 posiamo
 punteggiatura
+pixel
+perfetti
+permettendoti
 date
 dasdas
 da
@@ -7799,6 +7828,8 @@ danni
 disabilitata
 divione
 denominate
+dipende
+dedicare
 now
 newName
 name
@@ -8101,6 +8132,7 @@ necessiter
 nero
 nemmeno
 nuovamente
+negativi
 YYYY
 YAML
 Yk
@@ -9085,6 +9117,7 @@ estera
 elettorni
 elettica
 eleva
+espansione
 Vault
 VM
 Village
@@ -9710,6 +9743,8 @@ garbag
 generalpurpus
 getisce
 gatantisocno
+garantita
+gold
 of
 ottimo
 ottimi
@@ -10582,6 +10617,9 @@ interpreti
 immagazzinabile
 immagazzinato
 ideate
+informaizone
+integrata
+indispensabile
 Percorso
 Per
 Processed
@@ -11009,6 +11047,7 @@ Primo
 Premi
 Personale
 PURE
+Passiamo
 Escludi
 Esclude
 Errore
@@ -11819,6 +11858,8 @@ Slave
 Shutdown
 Sintomo
 Secondo
+Silicom
+Siamo
 stato
 spostato
 spostamento
@@ -12633,6 +12674,14 @@ significativvo
 sommate
 segni
 simbolo
+segnalato
+sitema
+seguquenza
+suoni
+sonora
+saldato
+supplementari
+sdraiata
 Imposta
 IT
 Imparare
@@ -13761,7 +13810,6 @@ Unacknowledged
 Unique
 Unnumbered
 Unicast
-Unico
 Uniformit
 Updating
 Usiamo
@@ -14133,6 +14181,8 @@ batteria
 banco
 bootloader
 bianria
+bianrio
+budget
 Bookshelf
 Bash
 Blue
@@ -14935,6 +14985,7 @@ qZkes
 qLL
 quore
 quotidiani
+qualita
 una
 utenti
 ultimi
@@ -14949,7 +15000,6 @@ uso
 ubuntu
 utlizzate
 utilizziamo
-unico
 utente
 user
 ulteriore
@@ -15217,6 +15267,7 @@ unita
 utilizzatori
 utilita
 utilizznano
+ulteriormente
 Windows
 Wazuh
 Wedding

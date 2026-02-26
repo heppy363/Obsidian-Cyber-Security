@@ -19,6 +19,7 @@ Si tratta di tutto l'HW necessario per completare la prima versione del mio hom 
 2) Router
 	- [[Specifiche hardware  router]]
 	- [[Specifiche software router]]
+	- [[Configurazione router 2]]
 3) Netgear GS116E
 	- [[Specifiche Netgear GS116E]]
 4) Server di calcolo 1
