@@ -34,3 +34,4 @@ Si tratta di tutto l'HW necessario per completare la prima versione del mio hom 
 ## Collegamenti
 - Torna al corso: [[Dashboard H-NET]]
 - [[Gestione delle corrente elettrica]]
+- [[Configurazione fisica minima]]
