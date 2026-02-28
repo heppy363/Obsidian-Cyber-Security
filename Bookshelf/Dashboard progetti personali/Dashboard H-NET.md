@@ -17,6 +17,7 @@ stato: in_corso
 
 ## Argomenti 
 1) [[H-Net versione 1.0]]
+2) [[BOT contro BOT]]
 
 ---
 
