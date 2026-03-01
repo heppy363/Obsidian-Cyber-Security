@@ -670,6 +670,11 @@ attira
 accaniranno
 attento
 arrendersi
+autenticarti
+amico
+aprir
+archivi
+attaccante
 Completate
 Completed
 Controlla
@@ -1160,6 +1165,9 @@ Comportamento
 Circolari
 Collaterali
 Costi
+Connected
+Cellulare
+Consentire
 tags
 tp
 tfile
@@ -1950,6 +1958,8 @@ Main
 Misanthropia
 Marcio
 Middleware
+Mobili
+Martina
 Nozioni
 NaN
 Note
@@ -2199,6 +2209,7 @@ NUT
 Nativo
 Navigherai
 Nomi
+Not
 Link
 Lesson
 Linux
@@ -2477,6 +2488,8 @@ Linea
 Let
 Limiting
 Limita
+Luc
+Lato
 TO
 TFile
 Trovati
@@ -2818,6 +2831,8 @@ Tua
 Teoria
 Temporanea
 Terra
+Trixie
+Tarpit
 DO
 Docente
 DD
@@ -3231,6 +3246,7 @@ Danni
 DuckDuckGo
 Disaccoppiamento
 Dinamica
+Disattivare
 Riferimenti
 RegExp
 Red
@@ -3655,6 +3671,7 @@ Ricercatore
 Redirezione
 Rendere
 Real
+Ripristino
 link
 let
 la
@@ -3997,6 +4014,7 @@ lucchetto
 lavorativa
 logger
 labirinto
+lentissimo
 const
 counterPath
 counter
@@ -4880,6 +4898,11 @@ catturare
 casuali
 cliccare
 convinto
+condivisione
+compressi
+cercando
+criptograficamente
+credibile
 file
 find
 for
@@ -5827,6 +5850,7 @@ monitora
 movimento
 magica
 minuto
+modifichiamo
 vault
 visibile
 vietate
@@ -6828,6 +6852,10 @@ rabbia
 realizzarlo
 registra
 redirect
+richiedevano
+reinstallazione
+riempirai
+riprovare
 parseInt
 precedenti
 path
@@ -7505,6 +7533,10 @@ puntano
 proverai
 patrimonio
 pilastri
+pulsanti
+puntini
+pagher
+programmati
 date
 dasdas
 da
@@ -8050,6 +8082,10 @@ deviata
 direbbe
 dovessero
 divertimento
+dimentica
+decomprimerli
+devastante
+decomprimerlo
 now
 newName
 name
@@ -8941,6 +8977,10 @@ ALLORA
 Aggiornato
 Aggancio
 Allucinazione
+Attivazione
+Amici
+Amico
+Arsenale
 elaborare
 eseguire
 esegui
@@ -9366,6 +9406,7 @@ esperimento
 efficace
 ehi
 errata
+espandono
 Vault
 VM
 Village
@@ -10319,6 +10360,7 @@ odore
 odori
 odi
 odio
+open
 if
 includes
 imposta
@@ -10916,6 +10958,10 @@ intrappolato
 istruire
 inventa
 intrappolati
+introdotti
+invialo
+invito
+interrotto
 Percorso
 Per
 Processed
@@ -11353,6 +11399,9 @@ Portiere
 Prompt
 Pub
 Publish
+Permessi
+Potenziato
+Processi
 Escludi
 Esclude
 Errore
@@ -11678,6 +11727,8 @@ Edsger
 Economica
 Esca
 Express
+Effettua
+Esasperante
 Sposta
 Spostato
 Spostati
@@ -12188,6 +12239,7 @@ Scaricalo
 Scrapy
 Silenzioso
 Strategica
+Share
 stato
 spostato
 spostamento
@@ -13050,6 +13102,8 @@ scioglie
 sparisca
 spazzatura
 scaricato
+sistemare
+source
 Imposta
 IT
 Imparare
@@ -13430,6 +13484,7 @@ Internal
 Instructions
 Impedisce
 Index
+Invito
 workspace
 while
 workshop
@@ -13911,6 +13966,7 @@ Option
 Ottimizzazioni
 Opzione
 Ottimo
+Overload
 Untitled
 Udemy
 Ubuntu
@@ -14869,6 +14925,7 @@ Bing
 BeautifulSoup
 Blacklist
 Bianco
+Binary
 Fase
 Fondamentale
 Flag
@@ -15172,6 +15229,7 @@ Fritz
 Finalizzazione
 Fetch
 Fabbrica
+Flood
 qui
 quel
 quando
@@ -15927,6 +15985,7 @@ Win
 WebUI
 Welcome
 Whitelist
+WireGuard
 Google
 GitHub
 Grazie
@@ -16419,6 +16478,7 @@ Jitter
 JPEG
 JpN
 Jdb
+JavaScript
 HackTheBox
 HTB
 Hub

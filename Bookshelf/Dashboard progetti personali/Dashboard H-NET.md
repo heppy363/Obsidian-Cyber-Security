@@ -13,12 +13,12 @@ stato: in_corso
 
 - [ ] **Fase 1**: H-Net versione 1.0
 - [ ] **Fase 2**: Instllare proxmox su server 1 
-- [ ] **Fase 3**: 
+- [ ] **Fase 3**: [[installare VPN su proxmox versione 1.0]]
 
 ## Argomenti 
 1) [[H-Net versione 1.0]]
 2) [[BOT contro BOT]]
-
+3) [[Risoluzione errori GUI]]
 ---
 
 ## 📝 Note del Corso (dalla cartella Processed)
