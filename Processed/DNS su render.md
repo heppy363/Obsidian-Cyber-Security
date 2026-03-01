@@ -1,3 +1,15 @@
+---
+tipo: nota_lezione
+corso: "Dashboard progetti personali"
+tags: [progetto, progettiPersonali, Completed]
+creato: 2026-03-01 14:35
+---
+
+# 📝 Lezione: DNS su render
+**Corso:** [[Dashboard progetti personali]]
+
+---
+## Contenuto
 ### 1. Su Render (Dashboard)
 Prima di tutto, devi comunicare a Render quale dominio intendi utilizzare.
 1. Entra nel servizio statico che hai creato su Render.
@@ -26,3 +38,7 @@ Se vuoi che il sito funzioni anche scrivendo solo `nomedominio.it` (senza www):
 - **Attesa:** Una volta salvate le modifiche su Aruba, potrebbero volerci da pochi minuti a qualche ora (propagazione DNS).
 - **SSL automatico:** Non appena Render rileva che i DNS sono corretti, genererà automaticamente un certificato **SSL gratuito (HTTPS)** tramite Let's Encrypt. Non devi fare nulla su Aruba per il certificato.
 - **Stato su Render:** Torna nella sezione "Custom Domains" di Render; vedrai una spunta verde quando tutto sarà configurato correttamente.
+
+---
+## Collegamenti
+- Torna al corso: [[Dashboard progetti personali]]

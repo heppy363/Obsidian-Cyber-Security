@@ -1168,6 +1168,13 @@ Costi
 Connected
 Cellulare
 Consentire
+Collaboratore
+Connetti
+Configure
+Custom
+CNAME
+Clienti
+Certificato
 tags
 tp
 tfile
@@ -1626,6 +1633,7 @@ telescopi
 trappola
 tocchi
 trasparente
+tui
 Modulo
 MM
 Modalit
@@ -1960,6 +1968,10 @@ Marcio
 Middleware
 Mobili
 Martina
+Members
+Member
+Mensili
+Modificalo
 Nozioni
 NaN
 Note
@@ -2210,6 +2222,7 @@ Nativo
 Navigherai
 Nomi
 Not
+New
 Link
 Lesson
 Linux
@@ -3247,6 +3260,10 @@ DuckDuckGo
 Disaccoppiamento
 Dinamica
 Disattivare
+Developer
+Debug
+Deplay
+Domains
 Riferimenti
 RegExp
 Red
@@ -3672,6 +3689,7 @@ Redirezione
 Rendere
 Real
 Ripristino
+Responsabile
 link
 let
 la
@@ -4015,6 +4033,7 @@ lavorativa
 logger
 labirinto
 lentissimo
+live
 const
 counterPath
 counter
@@ -4903,6 +4922,9 @@ compressi
 cercando
 criptograficamente
 credibile
+crealo
+corretti
+colorazione
 file
 find
 for
@@ -5361,6 +5383,9 @@ finiscano
 futura
 finirci
 falsa
+fattura
+fli
+formattazione
 md
 modify
 muoverli
@@ -5851,6 +5876,7 @@ movimento
 magica
 minuto
 modifichiamo
+mettilo
 vault
 visibile
 vietate
@@ -6239,6 +6265,7 @@ vulnerabile
 vedr
 visitatore
 verit
+volerci
 read
 rename
 renameFile
@@ -6856,6 +6883,9 @@ richiedevano
 reinstallazione
 riempirai
 riprovare
+registrati
+rapporto
+render
 parseInt
 precedenti
 path
@@ -7537,6 +7567,8 @@ pulsanti
 puntini
 pagher
 programmati
+puntare
+pyton
 date
 dasdas
 da
@@ -8086,6 +8118,7 @@ dimentica
 decomprimerli
 devastante
 decomprimerlo
+debugger
 now
 newName
 name
@@ -8981,6 +9014,11 @@ Attivazione
 Amici
 Amico
 Arsenale
+Account
+Accetta
+Aruba
+Apex
+Attesa
 elaborare
 eseguire
 esegui
@@ -10045,6 +10083,7 @@ generer
 grammaticalmente
 gravit
 generate
+gestirai
 of
 ottimo
 ottimi
@@ -10361,6 +10400,7 @@ odori
 odi
 odio
 open
+obbliga
 if
 includes
 imposta
@@ -10962,6 +11002,10 @@ introdotti
 invialo
 invito
 interrotto
+intendi
+inserendo
+iterativa
+intrattiva
 Percorso
 Per
 Processed
@@ -11729,6 +11773,7 @@ Esca
 Express
 Effettua
 Esasperante
+Environment
 Sposta
 Spostato
 Spostati
@@ -13104,6 +13149,11 @@ spazzatura
 scaricato
 sistemare
 source
+sospensione
+sleep
+sottodominio
+sintattica
+sintattico
 Imposta
 IT
 Imparare
@@ -13485,6 +13535,8 @@ Instructions
 Impedisce
 Index
 Invito
+Invite
+IDEL
 workspace
 while
 workshop
@@ -14926,6 +14978,8 @@ BeautifulSoup
 Blacklist
 Bianco
 Binary
+Billing
+Build
 Fase
 Fondamentale
 Flag
@@ -16241,6 +16295,7 @@ Green
 Giochi
 Gemini
 Gigante
+Gestisci
 Junior
 Jr
 June

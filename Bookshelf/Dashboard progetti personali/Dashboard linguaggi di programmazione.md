@@ -20,6 +20,7 @@ stato: in_corso
 
 ## Argomenti 
 1) [[Dashboaard Rust]]
+2) [[Deplay su render]]
 
 ---
 

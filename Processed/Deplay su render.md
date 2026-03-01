@@ -1,3 +1,16 @@
+---
+tipo: nota_lezione
+corso: "Dashboard progetti personali"
+tags: [progetto, progettiPersonali, Completed]
+creato: 2026-03-01 14:34
+---
+
+# 📝 Lezione: Deplay su render
+**Corso:** [[Dashboard progetti personali]]
+
+---
+## Contenuto
+
 ## Lato Cliente: Configurazione Account e Billing
 _Il cliente deve eseguire questi passaggi per attivare l'infrastruttura._
 1. **Creazione Account:** Vai su [dashboard.render.com](https://dashboard.render.com) e registrati (consigliato usare l'opzione "Sign up with GitHub" o con un'email aziendale).
@@ -29,3 +42,8 @@ _Questi sono i passaggi tecnici che gestirai tu una volta ricevuto l'invito._
 |**Proprietà Dati**|Cliente|Se il rapporto di lavoro finisce, lui mantiene il servizio.|
 |**Aggiornamenti Codice**|Developer|Basta un `git push` per aggiornare il sito live.|
 |**Debug e Log**|Developer|Hai accesso alla console per vedere eventuali errori in tempo reale.|
+
+---
+## Collegamenti
+- Torna al corso: [[Dashboard progetti personali]]
+- [[DNS su render]]
