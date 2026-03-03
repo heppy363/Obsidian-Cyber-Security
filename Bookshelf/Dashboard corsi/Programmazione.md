@@ -7,10 +7,12 @@ stato: in_corso
 
 # 📚 Corso: Programmazione
 
-
 [[Piano di studi Programmazione]]
 ## Argomenti 
-> Mettere tutti gli argomenti del corso 
+1) [[Computer e programmazione]]
+
+
+
 
 ---
 
