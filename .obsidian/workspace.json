@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "906db25a53e3aee5",
+        "id": "382f05f6a35c71ba",
         "type": "tabs",
         "children": [
           {
-            "id": "0250cb991e42153f",
+            "id": "b2cc9148a772fc5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bookshelf/Dashboard progetti personali/Dashboaard Rust.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Dashboaard Rust"
+            }
+          },
+          {
+            "id": "79c8a2f3290c1671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processed/Introduzione.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduzione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,181 +211,72 @@
     "type": "floating",
     "children": [
       {
-        "id": "a5e7a1c8df460790",
+        "id": "e51990fdfe1262be",
         "type": "window",
         "children": [
           {
-            "id": "abbb499d7648f9cd",
+            "id": "51cffd2b65acf7c7",
             "type": "tabs",
             "children": [
               {
-                "id": "e4897cd643b29078",
+                "id": "b77ae3507521a721",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Processed/25-02-2026-1.md",
+                    "file": "Bookshelf/Dashboard corsi/Programmazione.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "25-02-2026-1"
-                }
-              },
-              {
-                "id": "2a529d7d39159abd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Processed/25-02-2026-2.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "25-02-2026-2"
-                }
-              },
-              {
-                "id": "7ed5758a82cd3434",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Processed/26-02-2026-3.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "26-02-2026-3"
-                }
-              },
-              {
-                "id": "e28fe6c417ac5eef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Archive/01-03-2026-4.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "01-03-2026-4"
-                }
-              },
-              {
-                "id": "178c565df938e247",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Processed/01-03-2026-5.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "01-03-2026-5"
-                }
-              },
-              {
-                "id": "d4833b7a37810054",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Processed/Il Set di Istruzioni (ISA - Instruction Set Architecture).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Il Set di Istruzioni (ISA - Instruction Set Architecture)"
-                }
-              },
-              {
-                "id": "ced9c3d038d5304d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Processed/la gerarchia dei linguaggi di programmazione.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "la gerarchia dei linguaggi di programmazione"
-                }
-              },
-              {
-                "id": "9185c4f70a3111bb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Processed/Traduzione Compilatori vs Interpreti.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Traduzione Compilatori vs Interpreti"
-                }
-              },
-              {
-                "id": "8f2ddfdf8ed9d469",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Processed/Sistemi di ottimizzazione per il ciclo Fetch-Decode-Execute.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Sistemi di ottimizzazione per il ciclo Fetch-Decode-Execute"
+                  "title": "Programmazione"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 2555,
-        "y": 63,
-        "width": 1522,
-        "height": 1038,
+        "x": 2233,
+        "y": 0,
+        "width": 897,
+        "height": 1080,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "0250cb991e42153f",
+  "active": "79c8a2f3290c1671",
   "lastOpenFiles": [
     "Bookshelf/Dashboard corsi/Programmazione.md",
+    "Processed/Introduzione.md",
+    "Bookshelf/Dashboard progetti personali/Dashboaard Rust.md",
+    "Lesson/04-03-2026-6.md",
+    "Lesson/04-03-2026-7.md",
+    "Resources/PDF/IngegneriaSoftware_Pegaso.pdf",
+    "Resources/IMG/Immagine 2026-03-04 195845.png",
+    "Resources/IMG/Immagine 2026-03-04 195323.png",
+    "Resources/IMG/Immagine 2026-03-04 194056.png",
+    "Resources/PDF/ProgettazioneProgramma_Pegaso.pdf",
+    "Processed/Progettazione di un programma.md",
+    "Processed/Sistemi di ottimizzazione per il ciclo Fetch-Decode-Execute.md",
+    "Processed/Traduzione Compilatori vs Interpreti.md",
+    "Processed/la gerarchia dei linguaggi di programmazione.md",
+    "Processed/Il Set di Istruzioni (ISA - Instruction Set Architecture).md",
+    "Archive/01-03-2026-5.md",
+    "Archive/25-02-2026-2 1.md",
+    "Processed/25-02-2026-2.md",
+    "Archive/25-02-2026-1 1.md",
+    "Processed/25-02-2026-1.md",
+    "Archive/26-02-2026-3 1.md",
+    "Processed/26-02-2026-3.md",
+    "Processed/Configurazione router 2.md",
     "Processed/Perché studiare diversi stili (Punto di vista universitario).md",
     "Processed/Approfondimento paradigma di programmazione funzionale.md",
     "Processed/Paradigmi di Programmazione Stili di Pensiero.md",
     "Processed/La Triade Formale Lessico, Sintassi e Semantica.md",
-    "Senza nome.md",
-    "Untitled.md",
+    "Processed/Senza nome.md",
     "Processed/Il Ciclo di Macchina Fetch-Decode-Execute.md",
-    "Processed/01-03-2026-5.md",
     "Processed/Computer e programmazione.md",
-    "Archive/01-03-2026-4.md",
-    "Processed/Traduzione Compilatori vs Interpreti.md",
-    "Processed/I linker.md",
-    "Processed/26-02-2026-3.md",
-    "Processed/Approfondimento compilatore VS interprete.md",
-    "Processed/Sistemi di ottimizzazione per il ciclo Fetch-Decode-Execute.md",
-    "Processed/la gerarchia dei linguaggi di programmazione.md",
-    "Processed/Il Set di Istruzioni (ISA - Instruction Set Architecture).md",
-    "Processed/25-02-2026-2.md",
-    "Processed/hardware.md",
-    "Processed/Rappresentazione dati testuali.md",
-    "Processed/Approfondimento sulle codifiche testuali.md",
-    "Processed/Rappresentazioni di suoni.md",
-    "Processed/Rappresentazioni di immagini.md",
-    "Processed/Esempio di floating point.md",
-    "Processed/Floating Point.md",
     "Resources/IMG/licensed-image.jpg",
     "Resources/PDF/IntroPython_Pegaso.pdf",
     "Resources/PDF/LinguaggiProgrammazione_Pegaso.pdf",
@@ -380,18 +290,13 @@
     "Resources/IMG/OSI Model.jpg",
     "Resources/IMG/GiteaRunner.png",
     "Resources/IMG/datUnit.webp",
-    "Resources/IMG/Composizionelivello2 1.jpg",
-    "Resources/IMG/composizioneFibraOttica.png",
-    "Resources/IMG/algoritmodi1.jpg",
     "Resources/Mappe/Worckflow personale.canvas",
     "Resources/Mappe/Worckflow UNI.canvas",
     "Resources/Mappe/worckflow UNI.canvas",
     "Resources/PDF/background-slides.pdf",
     "Resources/PDF/docker-cheatsheet-2.pdf",
     "Senza nome.base",
-    "Templates/Progetti",
     "Resources/Mappe/Modello ISO OSI mappa.canvas",
-    "Templates/Script",
     "Work/Flusso di lavoro.canvas"
   ]
 }

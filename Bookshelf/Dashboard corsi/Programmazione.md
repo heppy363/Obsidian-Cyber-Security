@@ -10,6 +10,7 @@ stato: in_corso
 [[Piano di studi Programmazione]]
 ## Argomenti 
 1) [[Computer e programmazione]]
+2) [[Progettazione di un programma]]
 
 
 

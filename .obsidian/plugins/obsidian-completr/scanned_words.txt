@@ -702,6 +702,11 @@ assemblatore
 approciamo
 artificiale
 aiutare
+azziedna
+artiiciale
+auenta
+algorimi
+analyzer
 Completate
 Completed
 Controlla
@@ -1218,6 +1223,7 @@ Condivise
 Church
 Class
 Call
+CLAP
 tags
 tp
 tfile
@@ -1698,6 +1704,7 @@ torana
 trover
 trovate
 trattate
+trata
 Modulo
 MM
 Modalit
@@ -2049,6 +2056,7 @@ MAR
 MOV
 Mutabilit
 Map
+MINUTO
 Nozioni
 NaN
 Note
@@ -2606,6 +2614,7 @@ Lessico
 Letterali
 Lisp
 Lambda
+Leptos
 TO
 TFile
 Trovati
@@ -3385,6 +3394,8 @@ Dipendenza
 DLL
 Delimitatori
 Dichiarativo
+Dioxus
+Diagramma
 Riferimenti
 RegExp
 Red
@@ -3822,6 +3833,7 @@ Ricalcola
 Referenziale
 Ricorsione
 Reduce
+RMCP
 link
 let
 la
@@ -4180,6 +4192,12 @@ librerrie
 legami
 lessicali
 liste
+line
+libbreria
+lambito
+lontano
+latri
+laciare
 const
 counterPath
 counter
@@ -5119,6 +5137,15 @@ cambiano
 cardine
 condizione
 conditions
+causano
+chiara
+confini
+cului
+compresione
+crerea
+cene
+cargo
+comunity
 file
 find
 for
@@ -5595,6 +5622,10 @@ formali
 fusi
 focalizza
 fatture
+fraintendimenti
+farglielo
+facilita
+foramre
 md
 modify
 muoverli
@@ -6104,6 +6135,8 @@ mcchina
 manipolano
 modellazione
 mutabile
+maggiormento
+mantenibilita
 vault
 visibile
 vietate
@@ -6502,6 +6535,7 @@ vivono
 valide
 verificata
 volevamo
+vincoli
 read
 rename
 renameFile
@@ -7146,6 +7180,17 @@ ricorsione
 ripetere
 riempia
 race
+rimossi
+ricomicia
+requisit
+raintendimenti
+requisito
+risoltato
+rappresentati
+rettangoli
+rustc
+rast
+rannuere
 parseInt
 precedenti
 path
@@ -7872,6 +7917,17 @@ paradigmi
 procedure
 paradigma
 provano
+proggettare
+programa
+passggi
+proggettazioni
+prototipi
+pianificare
+progrmma
+precise
+pralleli
+pipedi
+programi
 date
 dasdas
 da
@@ -8439,6 +8495,9 @@ dipendenti
 dichiarativo
 dichiarate
 desiderato
+debugging
+decreta
+defiirne
 now
 newName
 name
@@ -8750,6 +8809,7 @@ nasce
 netta
 necesitaimo
 naturalmente
+naturale
 YYYY
 YAML
 Yk
@@ -9360,6 +9420,8 @@ Abstract
 ABS
 Assegnazione
 Alonzo
+Axum
+ARIVATO
 elaborare
 eseguire
 esegui
@@ -9806,6 +9868,8 @@ elenca
 espresse
 effetti
 espressione
+entrano
+evitano
 Vault
 VM
 Village
@@ -10090,6 +10154,7 @@ VulTech
 Virtuale
 Vedevano
 Volatilit
+Vedremo
 getMarkdownFiles
 gi
 getActiveFile
@@ -10455,6 +10520,8 @@ gap
 globali
 giganteschi
 grammatiche
+gico
+gemetriche
 of
 ottimo
 ottimi
@@ -10779,6 +10846,9 @@ operati
 occuano
 ordinata
 ottenerlo
+ordinati
+ovali
+outpu
 if
 includes
 imposta
@@ -11407,6 +11477,9 @@ intestazioni
 imperativo
 intelligenza
 intrinsecamente
+interface
+indietraggra
+incontri
 Percorso
 Per
 Processed
@@ -11864,6 +11937,8 @@ Programming
 Polimorfismo
 Prolog
 Pure
+Proggettazione
+Pseudo
 Escludi
 Esclude
 Errore
@@ -12736,6 +12811,9 @@ Stili
 Semantico
 Side
 Superiore
+Spin
+Sea
+SQLx
 stato
 spostato
 spostamento
@@ -13648,6 +13726,9 @@ stili
 spesa
 sovrascrivendo
 soddisfano
+svilippa
+scompone
+scriverlo
 Imposta
 IT
 Imparare
@@ -14274,6 +14355,7 @@ where
 wup
 worst
 webkit
+woftwer
 Output
 Object
 Obiettivi
@@ -14535,6 +14617,7 @@ Oggetti
 Ordine
 Overflow
 Optimization
+ORM
 Untitled
 Udemy
 Ubuntu
@@ -15214,6 +15297,7 @@ bianchi
 bytecode
 beneficiano
 bravo
+backtraking
 Bookshelf
 Bash
 Blue
@@ -16047,6 +16131,7 @@ quotidiani
 qualita
 quadruplo
 questione
+questaparte
 una
 utenti
 ultimi
@@ -16589,6 +16674,8 @@ WebUI
 Welcome
 Whitelist
 WireGuard
+WebAssembly
+Wasm
 Google
 GitHub
 Grazie
