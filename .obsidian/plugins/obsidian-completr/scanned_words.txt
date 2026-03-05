@@ -707,6 +707,11 @@ artiiciale
 auenta
 algorimi
 analyzer
+ambigui
+ambiguo
+attuera
+algorimo
+algrimo
 Completate
 Completed
 Controlla
@@ -1705,6 +1710,11 @@ trover
 trovate
 trattate
 trata
+toml
+trattabili
+trattabilie
+torre
+tenendo
 Modulo
 MM
 Modalit
@@ -4198,6 +4208,7 @@ lambito
 lontano
 latri
 laciare
+lencato
 const
 counterPath
 counter
@@ -5146,6 +5157,15 @@ crerea
 cene
 cargo
 comunity
+convezioni
+creatore
+compilatre
+calasse
+consnetono
+calcolabili
+calcolabilita
+calcolabile
+calcolatore
 file
 find
 for
@@ -5626,6 +5646,7 @@ fraintendimenti
 farglielo
 facilita
 foramre
+formata
 md
 modify
 muoverli
@@ -6137,6 +6158,7 @@ modellazione
 mutabile
 maggiormento
 mantenibilita
+manifest
 vault
 visibile
 vietate
@@ -6536,6 +6558,10 @@ valide
 verificata
 volevamo
 vincoli
+varibili
+vantaggiosa
+velocita
+vere
 read
 rename
 renameFile
@@ -7191,6 +7217,12 @@ rettangoli
 rustc
 rast
 rannuere
+risolvibili
+rientra
+risolutivo
+risoluzioni
+relazione
+risolva
 parseInt
 precedenti
 path
@@ -7928,6 +7960,11 @@ precise
 pralleli
 pipedi
 programi
+proggetti
+proggeto
+preceiso
+produce
+possimoa
 date
 dasdas
 da
@@ -8498,6 +8535,9 @@ desiderato
 debugging
 decreta
 defiirne
+domadna
+descrizone
+dettano
 now
 newName
 name
@@ -9870,6 +9910,10 @@ effetti
 espressione
 entrano
 evitano
+edition
+essitono
+esecutori
+effettuato
 Vault
 VM
 Village
@@ -10522,6 +10566,8 @@ giganteschi
 grammatiche
 gico
 gemetriche
+genrale
+genrare
 of
 ottimo
 ottimi
@@ -10849,6 +10895,7 @@ ottenerlo
 ordinati
 ovali
 outpu
+omogenre
 if
 includes
 imposta
@@ -11480,6 +11527,12 @@ intrinsecamente
 interface
 indietraggra
 incontri
+intermni
+informa
+imprecisi
+imprecicioni
+individuano
+interpretato
 Percorso
 Per
 Processed
@@ -11939,6 +11992,7 @@ Prolog
 Pure
 Proggettazione
 Pseudo
+Probblemi
 Escludi
 Esclude
 Errore
@@ -12276,6 +12330,7 @@ Ereditariet
 Effetti
 Effects
 Erlang
+Esecuto
 Sposta
 Spostato
 Spostati
@@ -12814,6 +12869,7 @@ Superiore
 Spin
 Sea
 SQLx
+SCR
 stato
 spostato
 spostamento
@@ -13729,6 +13785,10 @@ soddisfano
 svilippa
 scompone
 scriverlo
+sceglire
+soldi
+stabilire
+sutpido
 Imposta
 IT
 Imparare
@@ -15298,6 +15358,7 @@ bytecode
 beneficiano
 bravo
 backtraking
+bidirezzionale
 Bookshelf
 Bash
 Blue
@@ -16424,6 +16485,7 @@ umana
 unrolling
 unisce
 univoca
+usero
 Windows
 Wazuh
 Wedding
@@ -17644,6 +17706,7 @@ hqh
 hfc
 homelab
 hot
+hani
 Questi
 Qui
 Questo

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "382f05f6a35c71ba",
+        "id": "2d4ea445b6260bbc",
         "type": "tabs",
         "children": [
           {
-            "id": "b2cc9148a772fc5d",
+            "id": "6a9d00c827072696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookshelf/Dashboard progetti personali/Dashboaard Rust.md",
+                "file": "05-03-2026-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboaard Rust"
-            }
-          },
-          {
-            "id": "79c8a2f3290c1671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processed/Introduzione.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduzione"
+              "title": "05-03-2026-8"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,11 +230,13 @@
       }
     ]
   },
-  "active": "79c8a2f3290c1671",
+  "active": "6a9d00c827072696",
   "lastOpenFiles": [
+    "Resources/PDF/ProblemiAlgoritmi_Pegaso.pdf",
     "Bookshelf/Dashboard corsi/Programmazione.md",
-    "Processed/Introduzione.md",
+    "05-03-2026-8.md",
     "Bookshelf/Dashboard progetti personali/Dashboaard Rust.md",
+    "Processed/Introduzione.md",
     "Lesson/04-03-2026-6.md",
     "Lesson/04-03-2026-7.md",
     "Resources/PDF/IngegneriaSoftware_Pegaso.pdf",
@@ -276,7 +263,6 @@
     "Processed/La Triade Formale Lessico, Sintassi e Semantica.md",
     "Processed/Senza nome.md",
     "Processed/Il Ciclo di Macchina Fetch-Decode-Execute.md",
-    "Processed/Computer e programmazione.md",
     "Resources/IMG/licensed-image.jpg",
     "Resources/PDF/IntroPython_Pegaso.pdf",
     "Resources/PDF/LinguaggiProgrammazione_Pegaso.pdf",
