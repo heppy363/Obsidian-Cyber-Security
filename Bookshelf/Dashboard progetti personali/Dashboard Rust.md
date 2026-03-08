@@ -21,6 +21,7 @@ stato: in_corso
 
 ## Argomenti 
 1) [[Introduzione]] 
+2) [[Fondamenti del linguaggio]]
 
 ---
 

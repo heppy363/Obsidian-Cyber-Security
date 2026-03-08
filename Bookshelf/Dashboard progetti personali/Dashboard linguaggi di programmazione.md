@@ -19,7 +19,7 @@ stato: in_corso
 - [ ] **Fase 3**: 
 
 ## Argomenti 
-1) [[Dashboaard Rust]]
+1) [[Dashboard Rust]]
 2) [[Deplay su render]]
 
 ---

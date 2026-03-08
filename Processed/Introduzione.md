@@ -6,7 +6,7 @@ creato: 2026-02-22 21:54
 ---
 
 # 📝 Lezione: Introduzione
-**Corso:** [[Dashboaard Rust]]
+**Corso:** [[Dashboard Rust]]
 
 ---
 ## Contenuto
@@ -59,5 +59,5 @@ ci informa se il nostro codice non segue gli standard
 
 ---
 ## Collegamenti
-- Torna al corso: [[Dashboaard Rust]]
+- Torna al corso: [[Dashboard Rust]]
 - [video delle informazioni](https://www.youtube.com/watch?v=46eBpDUAt0Q&list=PLSLcKcqBWfjLG0UqA_Z4hWaouCGRvrcSR)

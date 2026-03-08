@@ -6,7 +6,7 @@ creato: 2026-02-22 22:20
 ---
 
 # 📝 Lezione: Garbadge collection
-**Corso:** [[Dashboaard Rust]]
+**Corso:** [[Dashboard Rust]]
 
 ---
 ## Contenuto
@@ -14,4 +14,4 @@ creato: 2026-02-22 22:20
 
 ---
 ## Collegamenti
-- Torna al corso: [[Dashboaard Rust]]
+- Torna al corso: [[Dashboard Rust]]
