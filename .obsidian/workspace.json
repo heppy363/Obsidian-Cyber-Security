@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "3eefb5719b75ca40",
+            "id": "87eb03ac2af43e17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processed/Fondamenti del linguaggio.md",
+                "file": "Lesson/09-03-2026-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fondamenti del linguaggio"
+              "title": "09-03-2026-12"
             }
           }
         ],
@@ -236,26 +236,31 @@
           }
         ],
         "direction": "vertical",
-        "x": 3326,
+        "x": 1920,
         "y": 0,
-        "width": 1154,
+        "width": 1280,
         "height": 1080,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "3eefb5719b75ca40",
+  "active": "c64121aa6c0fb2fd",
   "lastOpenFiles": [
+    "Resources/IMG/Immagine 2026-03-09 220213.png",
+    "Resources/IMG/Immagine 2026-03-09 220041.png",
+    "Resources/IMG/Immagine 2026-03-09 215636.png",
+    "Bookshelf/Dashboard corsi/Programmazione.md",
+    "Lesson/09-03-2026-12.md",
+    "Resources/IMG/Immagine 2026-03-09 214352.png",
+    "Bookshelf/Dashboard progetti personali/Dashboard Rust.md",
+    "Processed/Fondamenti del linguaggio.md",
     "Resources/IMG/Immagine 2026-03-08 223827.png",
     "Resources/IMG/Immagine 2026-03-08 222113.png",
     "Resources/IMG/Immagine 2026-03-08 221553.png",
-    "Bookshelf/Dashboard progetti personali/Dashboard Rust.md",
-    "Processed/Fondamenti del linguaggio.md",
     "Lesson/07-03-2026-11.md",
     "Lesson/07-03-2026-9.md",
     "Lesson/05-03-2026-8.md",
-    "Bookshelf/Dashboard corsi/Programmazione.md",
     "Resources/PDF/DiagrammaBlocchi_Pegaso.pdf",
     "Lesson/07-03-2026-10.md",
     "Resources/PDF/DiagrammiFlusso_Pegaso.pdf",
@@ -283,17 +288,12 @@
     "Processed/26-02-2026-3.md",
     "Processed/Configurazione router 2.md",
     "Processed/Perché studiare diversi stili (Punto di vista universitario).md",
-    "Processed/Approfondimento paradigma di programmazione funzionale.md",
     "Resources/IMG/licensed-image.jpg",
     "Resources/PDF/IntroPython_Pegaso.pdf",
     "Resources/PDF/LinguaggiProgrammazione_Pegaso.pdf",
     "Resources/PDF/FunzionamentoProgrammilezzione3.pdf",
     "Resources/PDF/MemorizzazioneDatiLezione2.pdf",
     "Resources/Mappe/Modello ISO OSI.canvas",
-    "Resources/IMG/treeClaud.png",
-    "Resources/IMG/tcp.png",
-    "Resources/IMG/ralphschemadifunzionamento.png",
-    "Resources/IMG/OSI Model.jpg",
     "Resources/Mappe/Worckflow personale.canvas",
     "Resources/Mappe/Worckflow UNI.canvas",
     "Resources/Mappe/worckflow UNI.canvas",

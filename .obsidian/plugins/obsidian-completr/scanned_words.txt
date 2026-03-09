@@ -714,6 +714,7 @@ algorimo
 algrimo
 ammete
 anlisi
+arry
 Completate
 Completed
 Controlla
@@ -1717,6 +1718,8 @@ trattabili
 trattabilie
 torre
 tenendo
+tipizzato
+tuple
 Modulo
 MM
 Modalit
@@ -2069,6 +2072,7 @@ MOV
 Mutabilit
 Map
 MINUTO
+Mutabilita
 Nozioni
 NaN
 Note
@@ -5177,6 +5181,11 @@ costrutti
 coinvolto
 cadere
 carcerato
+cheywor
+conente
+cheyword
+conpilatore
+characters
 file
 find
 for
@@ -6173,6 +6182,8 @@ mutabile
 maggiormento
 mantenibilita
 manifest
+mutabilita
+mut
 vault
 visibile
 vietate
@@ -7243,6 +7254,7 @@ risovere
 ripetizione
 riproducibile
 rami
+richiamato
 parseInt
 precedenti
 path
@@ -7988,6 +8000,8 @@ possimoa
 priori
 produrre
 probabilita
+proprita
+print
 date
 dasdas
 da
@@ -8566,6 +8580,9 @@ determinate
 definsicono
 descrivibili
 decisionali
+dichiarare
+differiscono
+devimanli
 now
 newName
 name
@@ -9947,6 +9964,9 @@ esguite
 elementarei
 elementare
 eseguiti
+esplicita
+elemti
+eseguete
 Vault
 VM
 Village
@@ -10601,6 +10621,8 @@ gico
 gemetriche
 genrale
 genrare
+gaffe
+generalemtne
 of
 ottimo
 ottimi
@@ -10932,6 +10954,7 @@ omogenre
 oprazioni
 oridne
 oeprazioni
+oggetti
 if
 includes
 imposta
@@ -11573,6 +11596,11 @@ inizzializzazione
 istrzioni
 ingreso
 iterativo
+immutabilita
+integar
+integesrs
+inizziale
+invocano
 Percorso
 Per
 Processed
@@ -12911,6 +12939,8 @@ Spin
 Sea
 SQLx
 SCR
+Shadowing
+Singned
 stato
 spostato
 spostamento
@@ -13838,6 +13868,8 @@ situazioni
 statiche
 sopraggiungere
 solitario
+scoop
+segno
 Imposta
 IT
 Imparare
@@ -15038,6 +15070,7 @@ Universale
 Unicode
 Unresolved
 Unisce
+Unsigne
 bArchivio
 base
 bene
@@ -15408,6 +15441,8 @@ beneficiano
 bravo
 backtraking
 bidirezzionale
+boolenans
+buleani
 Bookshelf
 Bash
 Blue
