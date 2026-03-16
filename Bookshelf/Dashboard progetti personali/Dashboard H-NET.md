@@ -19,6 +19,7 @@ stato: in_corso
 1) [[H-Net versione 1.0]]
 2) [[BOT contro BOT]]
 3) [[Risoluzione errori GUI]]
+4) [[Primo attacco a sito reale]]
 ---
 
 ## 📝 Note del Corso (dalla cartella Processed)

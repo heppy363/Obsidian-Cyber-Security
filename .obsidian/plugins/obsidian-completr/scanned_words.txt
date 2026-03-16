@@ -722,6 +722,8 @@ assistenza
 accedono
 analizzerai
 accessori
+anonimato
+anonima
 Completate
 Completed
 Controlla
@@ -1247,6 +1249,10 @@ CSE
 Coassiale
 Cellular
 Cellulari
+Configurala
+Consigliati
+Create
+Collegato
 tags
 tp
 tfile
@@ -1744,6 +1750,8 @@ trasferiti
 telefonica
 tariffario
 trasmesso
+tool
+timeout
 Modulo
 MM
 Modalit
@@ -2105,6 +2113,8 @@ Multipli
 Multilayer
 Molte
 Manuale
+Masscan
+Masquerade
 Nozioni
 NaN
 Note
@@ -2362,6 +2372,10 @@ Null
 Naur
 NetworkingBasics
 Notificare
+Nuclei
+Nmap
+Noi
+Nega
 Link
 Lesson
 Linux
@@ -2669,6 +2683,9 @@ Large
 Latenza
 Latency
 Laptop
+Lascialo
+Lascia
+Leak
 TO
 TFile
 Trovati
@@ -3030,6 +3047,9 @@ Telefoni
 Telecamere
 Telefonica
 Tethering
+Tor
+Toolset
+Tenuta
 DO
 Docente
 DD
@@ -3465,6 +3485,7 @@ Desktop
 Divisa
 Dial
 Diretta
+Dogana
 Riferimenti
 RegExp
 Red
@@ -3907,6 +3928,9 @@ RFID
 Radio
 Ruoli
 Rigenerare
+Rotazione
+RabbitMQ
+Recon
 link
 let
 la
@@ -4279,6 +4303,9 @@ lavori
 lag
 lavorerai
 lamenteranno
+limit
+larga
+leak
 const
 counterPath
 counter
@@ -5272,6 +5299,9 @@ cellulare
 continenti
 conosciuta
 copertura
+contenimento
+criptato
+curl
 file
 find
 for
@@ -5759,6 +5789,8 @@ finite
 fotocamera
 forni
 filtrando
+flotta
+fuzzing
 md
 modify
 muoverli
@@ -6283,6 +6315,7 @@ mobilit
 muoverti
 metropolitane
 minacce
+morendo
 vault
 visibile
 vietate
@@ -7368,6 +7401,10 @@ rossa
 remote
 rurali
 raccomanda
+rate
+ruota
+risolvendo
+ricevano
 parseInt
 precedenti
 path
@@ -8122,6 +8159,12 @@ partecipa
 prendano
 preferita
 proteggersi
+perdono
+polverizzare
+pesca
+parallelizzato
+pre
+ports
 date
 dasdas
 da
@@ -8715,6 +8758,8 @@ diagrammi
 disattivarli
 discoverable
 digitare
+device
+disconnette
 now
 newName
 name
@@ -9030,6 +9075,9 @@ naturale
 ndati
 negare
 networks
+node
+nftables
+neofita
 YYYY
 YAML
 Yk
@@ -9652,6 +9700,10 @@ Associati
 Altissima
 Application
 Appliance
+Anonimato
+Alpine
+Analysis
+Apply
 elaborare
 eseguire
 esegui
@@ -10114,6 +10166,8 @@ eseguete
 educativi
 etere
 esposti
+exit
+esagerare
 Vault
 VM
 Village
@@ -10399,6 +10453,7 @@ Virtuale
 Vedevano
 Volatilit
 Vedremo
+Vat
 getMarkdownFiles
 gi
 getActiveFile
@@ -10775,6 +10830,8 @@ guasti
 gerarchico
 giurisdizione
 grave
+gateway
+gestisca
 of
 ottimo
 ottimi
@@ -11772,6 +11829,9 @@ improvvisato
 iOS
 ingombranti
 impedir
+ingrediente
+impazzire
+iptables
 Percorso
 Per
 Processed
@@ -12247,6 +12307,9 @@ Pen
 Passphrase
 PAN
 Pairing
+Parallelizzazione
+Permetti
+Protection
 Escludi
 Esclude
 Errore
@@ -12590,6 +12653,10 @@ EduPass
 Elettrodomestici
 Effettiva
 End
+Execution
+Enumeration
+Estremamente
+Esegui
 Sposta
 Spostato
 Spostati
@@ -13143,6 +13210,10 @@ Segnale
 Satellite
 SSID
 SMS
+Segmentazione
+Scanning
+Swarm
+Sulla
 stato
 spostato
 spostamento
@@ -14089,6 +14160,15 @@ sottolinea
 scelgono
 scopribile
 sbagliare
+sbocco
+sottodomini
+scava
+scaling
+sensibile
+sparisce
+sapranno
+sapr
+staticamente
 Imposta
 IT
 Imparare
@@ -14490,6 +14570,8 @@ Intermedi
 Intermediate
 Intermediary
 Integrated
+InfluxDB
+Isolato
 workspace
 while
 workshop
@@ -14988,6 +15070,7 @@ ORM
 Office
 Opzioni
 Ognuno
+OpenVPN
 Untitled
 Udemy
 Ubuntu
@@ -15301,6 +15384,7 @@ Unresolved
 Unisce
 Unsigne
 Utenti
+Unbound
 bArchivio
 base
 bene
@@ -15674,6 +15758,9 @@ bidirezzionale
 boolenans
 buleani
 barriera
+bilanciatore
+bersaglio
+baracca
 Bookshelf
 Bash
 Blue
@@ -16296,6 +16383,7 @@ Fattori
 Finali
 Fornisce
 Fiber
+FFUF
 qui
 quel
 quando
@@ -16518,6 +16606,7 @@ quadruplo
 questione
 questaparte
 queli
+quanta
 una
 utenti
 ultimi
@@ -17070,6 +17159,8 @@ World
 Wide
 WAP
 WPA
+Workers
+Wireguard
 Google
 GitHub
 Grazie
@@ -17332,6 +17423,7 @@ GHz
 Grammaticale
 Glasses
 Goodput
+Gobuster
 Junior
 Jr
 June
@@ -17800,6 +17892,7 @@ Hell
 Haskell
 HUD
 Hosts
+Headless
 hardening
 honeypot
 ha
@@ -18866,6 +18959,7 @@ KAi
 Keyword
 Kbps
 Kishori
+Kill
 zero
 zO
 zfL
