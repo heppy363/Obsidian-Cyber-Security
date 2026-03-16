@@ -20,7 +20,7 @@ stato: in_corso
 - [ ] **Fase 3**: 
 
 ## Argomenti 
-1) [[Introduzione]] 
+1) [[Processed/Introduzione]] 
 2) [[Fondamenti del linguaggio]]
 
 ---
