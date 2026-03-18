@@ -4,53 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "f54d2dede1489254",
+        "id": "2b8d35187b26ecb5",
         "type": "tabs",
         "children": [
           {
-            "id": "6374ca8bfffefaa4",
+            "id": "0e98cc80a84fdb87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo attacco a sito reale.md",
+                "file": "18-03-2026-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primo attacco a sito reale"
+              "title": "18-03-2026-15"
             }
           },
           {
-            "id": "0dd51afd2c83f589",
+            "id": "fde6f0e9eb98f001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layer di anonimato.md",
+                "file": "Lesson/17-03-2026-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layer di anonimato"
-            }
-          },
-          {
-            "id": "6a359488ff673045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configurazione pratica primo attacco.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configurazione pratica primo attacco"
+              "title": "17-03-2026-14"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,61 +237,61 @@
         "direction": "vertical",
         "x": -1920,
         "y": 0,
-        "width": 960,
-        "height": 540,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "6a359488ff673045",
+  "active": "46a1ddecd046d8fc",
   "lastOpenFiles": [
-    "Configurazione pratica primo attacco.md",
-    "Layer di anonimato.md",
-    "Primo attacco a sito reale.md",
+    "Resources/PDF/UnProDue_Pegaso.pdf",
+    "Resources/IMG/Pasted image 20260318171307.png",
+    "Resources/IMG/Pasted image 20260318165439.png",
+    "Resources/IMG/Pasted image 20260318164406.png",
     "Bookshelf/Dashboard progetti personali/Dashboard H-NET.md",
-    "Grafici di utilizzo.md",
+    "18-03-2026-15.md",
+    "Lesson/17-03-2026-14.md",
+    "Resources/IMG/Pasted image 20260317215743.png",
+    "Lesson/04-03-2026-6.md",
+    "Lesson/17-03-2026-13.md",
+    "Bookshelf/Dashboard progetti personali/Dashboard CompTIA Network+.md",
     "Bookshelf/Dashboard progetti personali/Dashboard progetti personali.md",
-    "Wireless and mobile networks.md",
+    "Resources/PDF/PseFlow_Pegaso.pdf",
+    "Resources/PDF/IntAglAlg_Pegaso.pdf",
+    "Bookshelf/Dashboard corsi/Algoritmi.md",
+    "Senza Titolo.md",
+    "Bookshelf/Dashboard corsi/Programmazione.md",
+    "Processed/Configurazione pratica primo attacco.md",
+    "Processed/Layer di anonimato.md",
+    "Processed/Primo attacco a sito reale.md",
+    "Grafici di utilizzo.md",
+    "Processed/Wireless and mobile networks.md",
     "Bookshelf/Dashboard progetti personali/Dashboard Networking Basics.md",
     "Processed/Introduzione Networking Basics.md",
-    "Tipi di componenti della rete e connessioni.md",
-    "Domande e risposte networking base.md",
-    "ISP.md",
-    "Client and server.md",
-    "Componenti di una rete.md",
-    "Velocità della Rete.md",
-    "Tipi di reti.md",
-    "Trasmissione dei dati.md",
-    "Processed/Simulatori de'same.md",
-    "Bookshelf/Dashboard progetti personali/Dashboard CompTIA Network+.md",
-    "Lesson/09-03-2026-12.md",
+    "Processed/Tipi di componenti della rete e connessioni.md",
+    "Processed/Domande e risposte networking base.md",
+    "Processed/ISP.md",
+    "Processed/Client and server.md",
+    "Processed/Componenti di una rete.md",
+    "Processed/Velocità della Rete.md",
+    "Processed/Tipi di reti.md",
+    "Processed/Trasmissione dei dati.md",
     "Resources/IMG/Immagine 2026-03-09 220213.png",
     "Resources/IMG/Immagine 2026-03-09 220041.png",
     "Resources/IMG/Immagine 2026-03-09 215636.png",
-    "Bookshelf/Dashboard corsi/Programmazione.md",
     "Resources/IMG/Immagine 2026-03-09 214352.png",
-    "Bookshelf/Dashboard progetti personali/Dashboard Rust.md",
-    "Processed/Fondamenti del linguaggio.md",
     "Resources/IMG/Immagine 2026-03-08 223827.png",
     "Resources/IMG/Immagine 2026-03-08 222113.png",
-    "Resources/IMG/Immagine 2026-03-08 221553.png",
-    "Lesson/07-03-2026-11.md",
-    "Lesson/07-03-2026-9.md",
-    "Lesson/05-03-2026-8.md",
     "Resources/PDF/DiagrammaBlocchi_Pegaso.pdf",
     "Resources/PDF/DiagrammiFlusso_Pegaso.pdf",
     "Resources/PDF/DescrizioneAlgoritmi_Pegaso.pdf",
     "Resources/PDF/ProblemiAlgoritmi_Pegaso.pdf",
     "Resources/PDF/IngegneriaSoftware_Pegaso.pdf",
-    "Resources/IMG/Immagine 2026-03-04 195845.png",
-    "Resources/IMG/Immagine 2026-03-04 195323.png",
-    "Resources/IMG/Immagine 2026-03-04 194056.png",
     "Resources/PDF/ProgettazioneProgramma_Pegaso.pdf",
     "Resources/PDF/IntroPython_Pegaso.pdf",
     "Resources/PDF/LinguaggiProgrammazione_Pegaso.pdf",
-    "Resources/PDF/FunzionamentoProgrammilezzione3.pdf",
-    "Resources/PDF/MemorizzazioneDatiLezione2.pdf",
     "Resources/Mappe/Modello ISO OSI.canvas",
     "Resources/Mappe/Worckflow personale.canvas",
     "Resources/Mappe/Worckflow UNI.canvas",

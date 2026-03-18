@@ -724,6 +724,13 @@ analizzerai
 accessori
 anonimato
 anonima
+azzioni
+ambigue
+ammessi
+adare
+attori
+assegnazioni
+asegnazioni
 Completate
 Completed
 Controlla
@@ -1253,6 +1260,8 @@ Configurala
 Consigliati
 Create
 Collegato
+Comment
+Curch
 tags
 tp
 tfile
@@ -1752,6 +1761,12 @@ tariffario
 trasmesso
 tool
 timeout
+terreno
+tuto
+turign
+turing
+teorema
+tralasciato
 Modulo
 MM
 Modalit
@@ -2686,6 +2701,7 @@ Laptop
 Lascialo
 Lascia
 Leak
+Login
 TO
 TFile
 Trovati
@@ -3486,6 +3502,7 @@ Divisa
 Dial
 Diretta
 Dogana
+Determinismo
 Riferimenti
 RegExp
 Red
@@ -3931,6 +3948,8 @@ Rigenerare
 Rotazione
 RabbitMQ
 Recon
+Riavvia
+Rendilo
 link
 let
 la
@@ -4306,6 +4325,7 @@ lamenteranno
 limit
 larga
 leak
+lancialo
 const
 counterPath
 counter
@@ -5302,6 +5322,12 @@ copertura
 contenimento
 criptato
 curl
+crontab
+comprendiamo
+combacia
+contemplate
+craere
+concatenazione
 file
 find
 for
@@ -5791,6 +5817,8 @@ forni
 filtrando
 flotta
 fuzzing
+flowchart
+flowchar
 md
 modify
 muoverli
@@ -6316,6 +6344,8 @@ muoverti
 metropolitane
 minacce
 morendo
+manira
+miliore
 vault
 visibile
 vietate
@@ -6724,6 +6754,9 @@ vitali
 vigili
 viaggino
 variano
+valito
+voglio
+vedo
 read
 rename
 renameFile
@@ -7405,6 +7438,8 @@ rate
 ruota
 risolvendo
 ricevano
+risutlato
+ricorsiva
 parseInt
 precedenti
 path
@@ -8165,6 +8200,10 @@ pesca
 parallelizzato
 pre
 ports
+pragmatica
+prescindere
+presentare
+preente
 date
 dasdas
 da
@@ -8760,6 +8799,8 @@ discoverable
 digitare
 device
 disconnette
+diamo
+discute
 now
 newName
 name
@@ -9078,6 +9119,9 @@ networks
 node
 nftables
 neofita
+noramle
+nosto
+naive
 YYYY
 YAML
 Yk
@@ -9704,6 +9748,7 @@ Anonimato
 Alpine
 Analysis
 Apply
+Ambiguita
 elaborare
 eseguire
 esegui
@@ -10168,6 +10213,10 @@ etere
 esposti
 exit
 esagerare
+eseguibiltia
+esecuto
+espressivi
+elmenti
 Vault
 VM
 Village
@@ -10454,6 +10503,7 @@ Vedevano
 Volatilit
 Vedremo
 Vat
+VUOTO
 getMarkdownFiles
 gi
 getActiveFile
@@ -10832,6 +10882,8 @@ giurisdizione
 grave
 gateway
 gestisca
+grosso
+genrico
 of
 ottimo
 ottimi
@@ -11832,6 +11884,11 @@ impedir
 ingrediente
 impazzire
 iptables
+introduzioni
+istruiscono
+imprecisioni
+ineficenti
+ingenua
 Percorso
 Per
 Processed
@@ -12310,6 +12367,7 @@ Pairing
 Parallelizzazione
 Permetti
 Protection
+Proprieta
 Escludi
 Esclude
 Errore
@@ -13214,6 +13272,7 @@ Segmentazione
 Scanning
 Swarm
 Sulla
+Schemi
 stato
 spostato
 spostamento
@@ -14169,6 +14228,8 @@ sparisce
 sapranno
 sapr
 staticamente
+sitazione
+sufficentemente
 Imposta
 IT
 Imparare
@@ -16066,6 +16127,7 @@ Basics
 Bottleneck
 Backbone
 Batteria
+Bohm
 Fase
 Fondamentale
 Flag
@@ -16384,6 +16446,7 @@ Finali
 Fornisce
 Fiber
 FFUF
+Ferro
 qui
 quel
 quando
@@ -16903,6 +16966,8 @@ usero
 umidit
 univocamente
 urbani
+umanamente
+ugualemnte
 Windows
 Wazuh
 Wedding
@@ -19387,6 +19452,7 @@ jTUe
 jvY
 jeZ
 jyXX
+jacopini
 Xx
 Xk
 XGFhD
