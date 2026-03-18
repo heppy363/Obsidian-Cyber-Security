@@ -4,35 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "2b8d35187b26ecb5",
+        "id": "c9b13e45f8403fbc",
         "type": "tabs",
         "children": [
           {
-            "id": "0e98cc80a84fdb87",
+            "id": "b8cd1486cbe0c0ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-03-2026-15.md",
+                "file": "Processed/Introduzione udemy linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18-03-2026-15"
+              "title": "Introduzione udemy linux"
             }
           },
           {
-            "id": "fde6f0e9eb98f001",
+            "id": "16e185603a323514",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson/17-03-2026-14.md",
+                "file": "Processed/Macchina virtuale VirtualBox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17-03-2026-14"
+              "title": "Macchina virtuale VirtualBox"
+            }
+          },
+          {
+            "id": "93a1afd7594ad223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processed/VirtualBox Guest Additions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VirtualBox Guest Additions"
             }
           }
         ]
@@ -210,49 +224,71 @@
     "type": "floating",
     "children": [
       {
-        "id": "97f4797ca267cd3c",
+        "id": "36dd7aa90e78150f",
         "type": "window",
         "children": [
           {
-            "id": "f02394a5afc7b9c1",
+            "id": "c5eb1c2558570b26",
             "type": "tabs",
             "children": [
               {
-                "id": "46a1ddecd046d8fc",
+                "id": "4e1179e43d1b3120",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Bookshelf/Dashboard progetti personali/Dashboard H-NET.md",
+                    "file": "Bookshelf/Dashboard progetti personali/Dashboard Udemy morroLinux Linux.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Dashboard H-NET"
+                  "title": "Dashboard Udemy morroLinux Linux"
+                }
+              },
+              {
+                "id": "b93622864c77b773",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Architettura di sistema Linux.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Architettura di sistema Linux"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": -1920,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
+        "x": 665,
+        "y": 293,
+        "width": 600,
+        "height": 600,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "46a1ddecd046d8fc",
+  "active": "b93622864c77b773",
   "lastOpenFiles": [
+    "Bookshelf/Dashboard progetti personali/Dashboard Udemy morroLinux Linux.md",
+    "Architettura di sistema Linux.md",
+    "Processed/Introduzione udemy linux.md",
+    "Processed/Macchina virtuale VirtualBox.md",
+    "Processed/VirtualBox Guest Additions.md",
+    "18-03-2026-16.md",
+    "Bookshelf/Indice Archivio.md",
+    "Lesson/18-03-2026-15.md",
+    "Lesson/17-03-2026-14.md",
+    "Bookshelf/Dashboard progetti personali/Dashboard H-NET.md",
     "Resources/PDF/UnProDue_Pegaso.pdf",
     "Resources/IMG/Pasted image 20260318171307.png",
     "Resources/IMG/Pasted image 20260318165439.png",
     "Resources/IMG/Pasted image 20260318164406.png",
-    "Bookshelf/Dashboard progetti personali/Dashboard H-NET.md",
-    "18-03-2026-15.md",
-    "Lesson/17-03-2026-14.md",
     "Resources/IMG/Pasted image 20260317215743.png",
     "Lesson/04-03-2026-6.md",
     "Lesson/17-03-2026-13.md",
@@ -272,12 +308,6 @@
     "Processed/Introduzione Networking Basics.md",
     "Processed/Tipi di componenti della rete e connessioni.md",
     "Processed/Domande e risposte networking base.md",
-    "Processed/ISP.md",
-    "Processed/Client and server.md",
-    "Processed/Componenti di una rete.md",
-    "Processed/Velocità della Rete.md",
-    "Processed/Tipi di reti.md",
-    "Processed/Trasmissione dei dati.md",
     "Resources/IMG/Immagine 2026-03-09 220213.png",
     "Resources/IMG/Immagine 2026-03-09 220041.png",
     "Resources/IMG/Immagine 2026-03-09 215636.png",
@@ -291,7 +321,6 @@
     "Resources/PDF/IngegneriaSoftware_Pegaso.pdf",
     "Resources/PDF/ProgettazioneProgramma_Pegaso.pdf",
     "Resources/PDF/IntroPython_Pegaso.pdf",
-    "Resources/PDF/LinguaggiProgrammazione_Pegaso.pdf",
     "Resources/Mappe/Modello ISO OSI.canvas",
     "Resources/Mappe/Worckflow personale.canvas",
     "Resources/Mappe/Worckflow UNI.canvas",
