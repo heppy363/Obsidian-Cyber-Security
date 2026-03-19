@@ -737,6 +737,9 @@ avverte
 approdino
 adapter
 accelerazione
+attenzione
+azzerati
+avvisata
 Completate
 Completed
 Controlla
@@ -1272,6 +1275,7 @@ Correttezza
 Common
 Caso
 Clipboard
+Colonna
 tags
 tp
 tfile
@@ -1781,6 +1785,7 @@ tetto
 testati
 testate
 trascinandoli
+tastiera
 Modulo
 MM
 Modalit
@@ -3085,6 +3090,7 @@ Tenuta
 Tetto
 Trascina
 Terminale
+Tip
 DO
 Docente
 DD
@@ -3526,6 +3532,7 @@ Distribuzioni
 Derivata
 Drag
 Drop
+Dinamicit
 Riferimenti
 RegExp
 Red
@@ -4360,6 +4367,7 @@ logaritmo
 lentezza
 licenze
 liberamente
+leggerlo
 const
 counterPath
 counter
@@ -5376,6 +5384,8 @@ cloni
 configurando
 condivise
 clipboard
+contatori
+colonne
 file
 find
 for
@@ -6407,6 +6417,7 @@ membro
 mouse
 monta
 make
+massivo
 vault
 visibile
 vietate
@@ -8287,6 +8298,8 @@ preinstallati
 paritario
 pingare
 provi
+proc
+predilige
 date
 dasdas
 da
@@ -8892,6 +8905,9 @@ deriva
 dovuta
 definendo
 disconnetterti
+digiti
+dispendioso
+dirver
 now
 newName
 name
@@ -9848,6 +9864,7 @@ AlmaLinux
 Analogamente
 Additions
 Acceleration
+Attiva
 elaborare
 eseguire
 esegui
@@ -10323,6 +10340,7 @@ esistano
 esclusiva
 esposta
 esatta
+eventi
 Vault
 VM
 Village
@@ -12011,6 +12029,8 @@ installati
 installano
 installarle
 installate
+interrupts
+interrupt
 Percorso
 Per
 Processed
@@ -12496,6 +12516,8 @@ Promiscua
 Pack
 Permettono
 Permesso
+Polling
+Passiva
 Escludi
 Esclude
 Errore
@@ -13406,6 +13428,8 @@ Stupid
 Stable
 Sviluppata
 Systemd
+Segnalazione
+Softirqs
 stato
 spostato
 spostamento
@@ -14774,6 +14798,9 @@ Intermediary
 Integrated
 InfluxDB
 Isolato
+Interrupt
+IRQ
+Interrupts
 workspace
 while
 workshop

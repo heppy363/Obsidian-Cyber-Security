@@ -12,6 +12,9 @@ creato: 2026-03-18 23:16
 ## Contenuto
 
 
+
 ---
 ## Collegamenti
 - Torna al corso: [[Dashboard Udemy morroLinux Linux]]
+- [[Gli interrupts in linux]]
+- [[Dispositivi e dirver in Linux]]

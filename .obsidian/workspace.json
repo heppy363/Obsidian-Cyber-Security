@@ -8,48 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8cd1486cbe0c0ce",
+            "id": "aeb51f08f37ecdd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processed/Introduzione udemy linux.md",
+                "file": "Processed/Architettura di sistema Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduzione udemy linux"
+              "title": "Architettura di sistema Linux"
             }
           },
           {
-            "id": "16e185603a323514",
+            "id": "e0b1a630936b1fea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processed/Macchina virtuale VirtualBox.md",
+                "file": "Bookshelf/Dashboard progetti personali/Dashboard Udemy morroLinux Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Macchina virtuale VirtualBox"
+              "title": "Dashboard Udemy morroLinux Linux"
             }
           },
           {
-            "id": "93a1afd7594ad223",
+            "id": "3f764956c813a096",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processed/VirtualBox Guest Additions.md",
+                "file": "Processed/Gli interrupts in linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VirtualBox Guest Additions"
+              "title": "Gli interrupts in linux"
+            }
+          },
+          {
+            "id": "0453e2a02abbd3b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File collegati a proc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File collegati a proc"
+            }
+          },
+          {
+            "id": "f2057dddb254f6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dispositivi e dirver in Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dispositivi e dirver in Linux"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,65 +248,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "e165214cdf0547c4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "36dd7aa90e78150f",
-        "type": "window",
-        "children": [
-          {
-            "id": "c5eb1c2558570b26",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4e1179e43d1b3120",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bookshelf/Dashboard progetti personali/Dashboard Udemy morroLinux Linux.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Dashboard Udemy morroLinux Linux"
-                }
-              },
-              {
-                "id": "b93622864c77b773",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Architettura di sistema Linux.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Architettura di sistema Linux"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 665,
-        "y": 293,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b93622864c77b773",
+  "active": "f2057dddb254f6ed",
   "lastOpenFiles": [
+    "Processed/Architettura di sistema Linux.md",
+    "Dispositivi e dirver in Linux.md",
+    "Processed/Gli interrupts in linux.md",
     "Bookshelf/Dashboard progetti personali/Dashboard Udemy morroLinux Linux.md",
-    "Architettura di sistema Linux.md",
+    "File collegati a proc.md",
+    "Gli interrupts su linux.md",
     "Processed/Introduzione udemy linux.md",
+    "Senza Titolo.md",
     "Processed/Macchina virtuale VirtualBox.md",
     "Processed/VirtualBox Guest Additions.md",
     "18-03-2026-16.md",
@@ -303,11 +283,6 @@
     "Processed/Layer di anonimato.md",
     "Processed/Primo attacco a sito reale.md",
     "Grafici di utilizzo.md",
-    "Processed/Wireless and mobile networks.md",
-    "Bookshelf/Dashboard progetti personali/Dashboard Networking Basics.md",
-    "Processed/Introduzione Networking Basics.md",
-    "Processed/Tipi di componenti della rete e connessioni.md",
-    "Processed/Domande e risposte networking base.md",
     "Resources/IMG/Immagine 2026-03-09 220213.png",
     "Resources/IMG/Immagine 2026-03-09 220041.png",
     "Resources/IMG/Immagine 2026-03-09 215636.png",
