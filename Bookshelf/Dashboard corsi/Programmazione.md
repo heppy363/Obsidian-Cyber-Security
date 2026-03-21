@@ -11,6 +11,11 @@ stato: in_corso
 ## Argomenti 
 1) [[Computer e programmazione]]
 2) [[Progettazione di un programma]]
+3) [[Ciclo di vita di un softwer]]
+4) [[Definizione di un algoritmo]]
+5) 
+
+
 
 
 

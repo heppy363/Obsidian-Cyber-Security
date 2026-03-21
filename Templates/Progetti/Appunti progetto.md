@@ -30,7 +30,7 @@ let tagEreditati = [];
 
 if (datiCorso && datiCorso.file.tags) {
     // Filtriamo i tag per evitare di portarci dietro il tag "corso" 
-    // e teniamo quelli specifici (come #programmazioneUNI)
+    
     tagEreditati = datiCorso.file.tags.array().filter(t => t !== "#corso");
 }
 

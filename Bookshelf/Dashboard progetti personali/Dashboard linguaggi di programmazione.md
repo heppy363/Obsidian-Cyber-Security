@@ -20,8 +20,7 @@ stato: in_corso
 
 ## Argomenti 
 1) [[Dashboard Rust]]
-2) [[Deplay su render]]
-
+2) [[Dashboard Python]]
 ---
 
 ## 📝 Note del Corso (dalla cartella Processed)
