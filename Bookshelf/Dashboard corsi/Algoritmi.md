@@ -10,7 +10,8 @@ stato: in_corso
 
 [[Piano di studi Algoritmi]]
 ## Argomenti 
-> Mettere tutti gli argomenti del corso 
+1) [[Introduzione agli algorimi]]
+2) [[Un probblema due algortimi]]
 
 ---
 

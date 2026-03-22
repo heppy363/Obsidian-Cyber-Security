@@ -34,3 +34,5 @@ creato: 2026-02-23 21:33
 ---
 ## Collegamenti
 - Torna al corso: [[Dashboard H-NET]]
+- [[Errori di conesione e risoluzione]]
+- [[Errori di conessione a proxmox Whindows]]

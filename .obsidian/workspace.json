@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "37df029db2f0a38a",
+        "id": "5dcbcd88e9df19aa",
         "type": "tabs",
         "children": [
           {
-            "id": "1cec6c3daa2ec991",
+            "id": "e23486deaa1401d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookshelf/Dashboard progetti personali/Dashboard linguaggi di programmazione.md",
+                "file": "Bookshelf/Dashboard progetti personali/Dashboard H-NET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard linguaggi di programmazione"
+              "title": "Dashboard H-NET"
             }
           },
           {
-            "id": "50728f42bcb7a594",
+            "id": "3106aa09d3e937af",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +36,35 @@
             }
           },
           {
-            "id": "67dc20d56da86d78",
+            "id": "a72cf9e806aed6e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processed/Risoluzione errori in proxmox.md",
+                "file": "Configurazione e creazione Utenti server di calcolo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Risoluzione errori in proxmox"
+              "title": "Configurazione e creazione Utenti server di calcolo 1"
+            }
+          },
+          {
+            "id": "1da1e41ad1133eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aggiunta di utenti per server di calcolo 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aggiunta di utenti per server di calcolo 1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,116 +234,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "4ac9b4c9d4b2f4b8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cbb71f409125869f",
-        "type": "window",
-        "children": [
-          {
-            "id": "1ed2737e70cb750b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "af1b9cfe59e27018",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bookshelf/Dashboard corsi/Programmazione.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Programmazione"
-                }
-              },
-              {
-                "id": "415c16328abb282d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Processed/Ciclo di vita di un softwer.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ciclo di vita di un softwer"
-                }
-              },
-              {
-                "id": "8c14991adb1c7dcc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Processed/Dal cosa al come.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Dal cosa al come"
-                }
-              },
-              {
-                "id": "ab0f1f99793c013b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dalla teoria al implentazione.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Dalla teoria al implentazione"
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "vertical",
-        "x": 3200,
-        "y": 0,
-        "width": 1280,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ab0f1f99793c013b",
+  "active": "a72cf9e806aed6e1",
   "lastOpenFiles": [
+    "Aggiunta di utenti per server di calcolo 1.md",
+    "Configurazione e creazione Utenti server di calcolo 1.md",
     "Processed/H-Net versione 1.0.md",
-    "Processed/Risoluzione errori in proxmox.md",
     "Bookshelf/Dashboard progetti personali/Dashboard H-NET.md",
-    "Lesson/17-03-2026-14.md",
-    "Lesson/17-03-2026-13.md",
-    "Lesson/18-03-2026-15.md",
-    "Bookshelf/Dashboard progetti personali/Dashboard linguaggi di programmazione.md",
-    "Dashboard Python.md",
-    "Introduzione a Python.md",
-    "Aspetti architetturali di pyhon.md",
-    "Passaggio di parametri python.md",
-    "Virtual machine di Python PVM.md",
-    "Lesson/07-03-2026-11.md",
-    "Dalla teoria al implentazione.md",
+    "Processed/Risoluzione errori in proxmox.md",
+    "Errori di conessione a proxmox Whindows.md",
+    "Errori di conesione e risoluzione.md",
+    "Processed/Creazione visiva di un algoritmo.md",
+    "Archive/17-03-2026-14.md",
+    "Processed/Che cosa e un algoritmo.md",
+    "Processed/Introduzione agli algorimi.md",
+    "Bookshelf/Dashboard corsi/Algoritmi.md",
     "Bookshelf/Dashboard corsi/Programmazione.md",
-    "Processed/Ciclo di vita di un softwer.md",
-    "Processed/Dal cosa al come.md",
-    "Lesson/09-03-2026-12.md",
-    "Processed/requisiti del software.md",
-    "Templates/Template UNI/Appunti uni.md",
-    "Templates/Progetti/Appunti progetto.md",
-    "Processed/01-03-2026-5.md",
-    "Bookshelf/Dashboard progetti personali/Dashboard Rust.md",
-    "Bookshelf/Dashboard progetti personali/Dashboard progetti personali.md",
-    "Processed/25-02-2026-2 1.md",
-    "Processed/25-02-2026-1 1.md",
+    "Processed/Definizione di un algoritmo.md",
+    "Processed/Probblema e Algoritmo.md",
+    "Processed/Complessita computazionale.md",
+    "Processed/Un probblema due algortimi.md",
+    "Archive/18-03-2026-15.md",
+    "Processed/Teoria della computabilità.md",
+    "Processed/Ricerca Linerare.md",
+    "Processed/Ricerca binaria.md",
+    "Processed/Esempio di applicazione del teorema di Böhm-Jacopini.md",
+    "Processed/Teorema di Böhm-Jacopini.md",
+    "Archive/17-03-2026-13.md",
+    "Processed/Dalla teoria al implentazione.md",
+    "Bookshelf/Dashboard progetti personali/Dashboard linguaggi di programmazione.md",
     "Resources/PDF/UnProDue_Pegaso.pdf",
     "Resources/IMG/Pasted image 20260318171307.png",
     "Resources/IMG/Pasted image 20260318165439.png",

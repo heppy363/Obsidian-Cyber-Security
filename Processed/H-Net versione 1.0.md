@@ -27,6 +27,7 @@ Si tratta di tutto l'HW necessario per completare la prima versione del mio hom 
 	- [[Installare proxmox su HW reale]]
 	- [[Risoluzione errori in proxmox]]
 	-  [[Crezione del primo container CT]]
+	- [[Configurazione e creazione Utenti server di calcolo 1]]
 5) Server NAS
 
 

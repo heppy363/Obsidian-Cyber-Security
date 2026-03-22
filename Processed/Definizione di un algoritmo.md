@@ -41,3 +41,4 @@ Quadro completo:
 ---
 ## Collegamenti
 - Torna al corso: [[Programmazione]]
+- [[Che cosa e un algoritmo]]
