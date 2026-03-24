@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5dcbcd88e9df19aa",
+        "id": "d46df51f2adccd2b",
         "type": "tabs",
         "children": [
           {
-            "id": "e23486deaa1401d4",
+            "id": "106575f0ce7d839b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookshelf/Dashboard progetti personali/Dashboard H-NET.md",
+                "file": "23-03-2026-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard H-NET"
-            }
-          },
-          {
-            "id": "3106aa09d3e937af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processed/H-Net versione 1.0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "H-Net versione 1.0"
-            }
-          },
-          {
-            "id": "a72cf9e806aed6e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configurazione e creazione Utenti server di calcolo 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configurazione e creazione Utenti server di calcolo 1"
-            }
-          },
-          {
-            "id": "1da1e41ad1133eeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aggiunta di utenti per server di calcolo 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aggiunta di utenti per server di calcolo 1"
+              "title": "23-03-2026-17"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,15 +191,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a72cf9e806aed6e1",
+  "active": "106575f0ce7d839b",
   "lastOpenFiles": [
-    "Aggiunta di utenti per server di calcolo 1.md",
-    "Configurazione e creazione Utenti server di calcolo 1.md",
+    "Resources/IMG/Pasted image 20260323190735.png",
+    "23-03-2026-17.md",
+    "Resources/PDF/DivEtImp_Pegaso.pdf",
+    "Processed/Aggiunta di utenti per server di calcolo 1.md",
+    "Processed/Configurazione e creazione Utenti server di calcolo 1.md",
     "Processed/H-Net versione 1.0.md",
     "Bookshelf/Dashboard progetti personali/Dashboard H-NET.md",
     "Processed/Risoluzione errori in proxmox.md",
-    "Errori di conessione a proxmox Whindows.md",
-    "Errori di conesione e risoluzione.md",
+    "Processed/Errori di conessione a proxmox Whindows.md",
+    "Processed/Errori di conesione e risoluzione.md",
     "Processed/Creazione visiva di un algoritmo.md",
     "Archive/17-03-2026-14.md",
     "Processed/Che cosa e un algoritmo.md",
@@ -260,8 +220,6 @@
     "Processed/Esempio di applicazione del teorema di Böhm-Jacopini.md",
     "Processed/Teorema di Böhm-Jacopini.md",
     "Archive/17-03-2026-13.md",
-    "Processed/Dalla teoria al implentazione.md",
-    "Bookshelf/Dashboard progetti personali/Dashboard linguaggi di programmazione.md",
     "Resources/PDF/UnProDue_Pegaso.pdf",
     "Resources/IMG/Pasted image 20260318171307.png",
     "Resources/IMG/Pasted image 20260318165439.png",
@@ -274,14 +232,12 @@
     "Resources/IMG/Immagine 2026-03-09 215636.png",
     "Resources/IMG/Immagine 2026-03-09 214352.png",
     "Resources/IMG/Immagine 2026-03-08 223827.png",
-    "Resources/IMG/Immagine 2026-03-08 222113.png",
     "Resources/PDF/DiagrammaBlocchi_Pegaso.pdf",
     "Resources/PDF/DiagrammiFlusso_Pegaso.pdf",
     "Resources/PDF/DescrizioneAlgoritmi_Pegaso.pdf",
     "Resources/PDF/ProblemiAlgoritmi_Pegaso.pdf",
     "Resources/PDF/IngegneriaSoftware_Pegaso.pdf",
     "Resources/PDF/ProgettazioneProgramma_Pegaso.pdf",
-    "Resources/PDF/IntroPython_Pegaso.pdf",
     "Resources/Mappe/Modello ISO OSI.canvas",
     "Resources/Mappe/Worckflow personale.canvas",
     "Resources/Mappe/Worckflow UNI.canvas",
