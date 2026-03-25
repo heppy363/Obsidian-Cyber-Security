@@ -791,6 +791,9 @@ aDPJ
 aLS
 aPx
 adR
+ammissibili
+ammissibile
+aggiungendo
 Completate
 Completed
 Controlla
@@ -1368,6 +1371,8 @@ CCgoF
 CAi
 Cjq
 CWw
+Combinazione
+Capirla
 tags
 tp
 tfile
@@ -1897,6 +1902,8 @@ tLf
 twu
 tuU
 tvwc
+trasformato
+taglia
 Modulo
 MM
 Modalit
@@ -2283,6 +2290,9 @@ MCDK
 Mpt
 MMtvt
 MPI
+Massimizzare
+Minimizzare
+Merge
 Nozioni
 NaN
 Note
@@ -3280,6 +3290,8 @@ TVVRUU
 TUg
 TGII
 Texx
+Tra
+Trovane
 DO
 Docente
 DD
@@ -3757,6 +3769,9 @@ DjY
 DcHa
 DQL
 DqD
+Domanda
+DFS
+Depth
 Riferimenti
 RegExp
 Red
@@ -4240,6 +4255,8 @@ RrPE
 RAPQ
 Rjjjhh
 RLLL
+Riassuntiva
+Randomizzati
 link
 let
 la
@@ -5723,6 +5740,9 @@ cln
 cXJi
 cfH
 cQVR
+constraints
+conquista
+complicarsi
 file
 find
 for
@@ -6245,6 +6265,7 @@ flas
 frt
 fjr
 fnx
+famosa
 md
 modify
 muoverli
@@ -6811,6 +6832,8 @@ mUuB
 mAkK
 mav
 mbyyHi
+minimizza
+militare
 vault
 visibile
 vietate
@@ -7973,6 +7996,10 @@ rEß
 rzG
 rIQ
 rjLL
+rispettano
+rendimento
+rimangono
+ricorsive
 parseInt
 precedenti
 path
@@ -8805,6 +8832,8 @@ pEH
 pFe
 phe
 ptO
+pesati
+profondit
 date
 dasdas
 da
@@ -9462,6 +9491,9 @@ dqS
 dDQ
 dLg
 ddx
+divid
+determinata
+dimezzando
 now
 newName
 name
@@ -9795,6 +9827,7 @@ nBv
 ncrj
 ngA
 nTM
+nlogn
 YYYY
 YAML
 Yk
@@ -10456,6 +10489,7 @@ AUE
 ANZ
 An
 Agg
+Aggregazione
 elaborare
 eseguire
 esegui
@@ -11262,6 +11296,7 @@ Vjz
 VRUQD
 VRZ
 VSHZ
+Visita
 getMarkdownFiles
 gi
 getActiveFile
@@ -11661,6 +11696,8 @@ gsn
 gtv
 glI
 gMX
+guadagno
+grafi
 of
 ottimo
 ottimi
@@ -12016,6 +12053,8 @@ obbligatoriamente
 ocj
 ofjj
 oDJ
+originario
+ognuna
 if
 includes
 imposta
@@ -13269,6 +13308,7 @@ PXv
 PTPd
 PMh
 PFsC
+Probabilistici
 Escludi
 Esclude
 Errore
@@ -14231,6 +14271,8 @@ SYU
 SWU
 SNYOAa
 SKj
+Sort
+Search
 stato
 spostato
 spostamento
@@ -15267,6 +15309,11 @@ swt
 sMAv
 sIN
 sIg
+suddividono
+soddisfi
+soglia
+suddividere
+svantaggi
 Imposta
 IT
 Imparare
@@ -15692,6 +15739,7 @@ IIi
 IHh
 ItPv
 ILBSc
+Imperia
 workspace
 while
 workshop
@@ -17281,6 +17329,9 @@ BAU
 BjR
 Bue
 BkMIQ
+Big
+BFS
+Breadth
 Fase
 Fondamentale
 Flag
@@ -17633,6 +17684,7 @@ Ffc
 FEq
 Ftvw
 FcS
+Formalmente
 qui
 quel
 quando
@@ -18723,6 +18775,8 @@ GbT
 GAA
 GON
 GIl
+Greedy
+Golosi
 Junior
 Jr
 June
@@ -19715,6 +19769,8 @@ QQQAQQ
 QVn
 Qlyx
 QJq
+Qual
+Quick
 yaml
 yF
 ysss

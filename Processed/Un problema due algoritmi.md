@@ -5,7 +5,7 @@ tags: [AlgoritmiUNI, uni, appunti, Completed]
 creato: 2026-03-21 23:10
 ---
 
-# 📝 Lezione: Un probblema due algortimi
+# 📝 Lezione: Un problema due algoritmi
 **Corso:** [[Algoritmi]]
 
 ---
@@ -19,11 +19,10 @@ Ora supponiamo che il nostro array sia ordinato in ordine crescente:
 Questi due algoritmi fano la stessa cosa ma con una differenza sostanziale ovvero il tempo di esecuzione: 
  Supponiamo n=108 (100 milioni di elementi) e una velocità di 105 operazioni/secondo:
 
-|Algoritmo|Formula Operazioni|Tempo Stimato|
-|---|---|---|
-|**Lineare**|108/105=1000 secondi|**~16,6 minuti**|
-|**Binaria**|log2​(108)/105≈27/105|**0,00027 secondi**|
-
+| Algoritmo   | Formula Operazioni    | Tempo Stimato       |
+| ----------- | --------------------- | ------------------- |
+| **Lineare** | 108/105=1000 secondi  | **~16,6 minuti**    |
+| **Binaria** | log2​(108)/105≈27/105 | **0,00027 secondi** |
 
 > **Nota:** log2​(108) è circa 27. La differenza è abissale: passiamo da un quarto d'ora a un istante impercettibile.
 

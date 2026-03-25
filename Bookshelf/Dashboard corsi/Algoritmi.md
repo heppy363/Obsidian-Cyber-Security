@@ -7,11 +7,12 @@ stato: in_corso
 
 # 📚 Corso: Algoritmi
 
-
 [[Piano di studi Algoritmi]]
 ## Argomenti 
 1) [[Introduzione agli algorimi]]
-2) [[Un probblema due algortimi]]
+2) [[Un problema due algoritmi]]
+3) [[dividi et impera]]
+4) [[Tecniche di progetto di un problema]]
 
 ---
 

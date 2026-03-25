@@ -18,3 +18,4 @@ creato: 2026-03-18 23:16
 - Torna al corso: [[Dashboard Udemy morroLinux Linux]]
 - [[Gli interrupts in linux]]
 - [[Dispositivi e dirver in Linux]]
+- [[D-bus]]
