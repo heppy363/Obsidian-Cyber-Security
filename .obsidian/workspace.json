@@ -4,59 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "83525d366d4c02b4",
+        "id": "83a4df07ee540407",
         "type": "tabs",
         "children": [
           {
-            "id": "54b694f2568639a5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
-            }
-          },
-          {
-            "id": "00844df258a0cf68",
+            "id": "58c42e0386b1717d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookshelf/Dashboard progetti personali/Dashboard Udemy morroLinux Linux.md",
+                "file": "26-03-2026-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard Udemy morroLinux Linux"
+              "title": "26-03-2026-19"
             }
           },
           {
-            "id": "fc62f1b3ba4747ab",
+            "id": "1bc57909aeb3b489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processed/Architettura di sistema Linux.md",
+                "file": "Bookshelf/Dashboard progetti personali/Dashboard linguaggi di programmazione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architettura di sistema Linux"
+              "title": "Dashboard linguaggi di programmazione"
             }
           },
           {
-            "id": "b9980a83c48ef986",
+            "id": "ad46b7ebb28f9b7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D-bus.md",
+                "file": "Micro python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D-bus"
+              "title": "Micro python"
             }
           }
         ],
@@ -230,13 +220,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc62f1b3ba4747ab",
+  "active": "ad46b7ebb28f9b7b",
   "lastOpenFiles": [
-    "D-bus.md",
+    "Bookshelf/Dashboard progetti personali/Dashboard linguaggi di programmazione.md",
+    "Micro python.md",
+    "26-03-2026-19.md",
+    "Resources/PDF/VariabiliTipiDati_Pegaso.pdf",
+    "Processed/Passaggio di parametri python.md",
+    "Bookshelf/Dashboard progetti personali/Dashboard Python.md",
+    "Resources/IMG/Pasted image 20260326192541.png",
+    "Resources/IMG/Pasted image 20260326191516.png",
+    "Grafici di utilizzo.md",
+    "Bookshelf/Dashboard progetti personali/Dashboard Udemy morroLinux Linux.md",
+    "Processed/Architettura di sistema Linux.md",
+    "Processed/La Sequenza di Boot BIOS vs UEFI.md",
+    "Processed/approfondimento runlevel.md",
+    "Processed/D-bus.md",
+    "Processed/FAT 32.md",
+    "Resources/IMG/Pasted image 20260325232156.png",
+    "Senza Titolo.md",
     "Resources/IMG/Pasted image 20260325225651.png",
     "Resources/IMG/Pasted image 20260325225307.png",
-    "Processed/Architettura di sistema Linux.md",
-    "Bookshelf/Dashboard progetti personali/Dashboard Udemy morroLinux Linux.md",
     "Lesson/24-03-2026-18.md",
     "Resources/IMG/Pasted image 20260324212045.png",
     "Resources/IMG/Pasted image 20260324211058.png",
@@ -253,22 +257,10 @@
     "Processed/Backtracking.md",
     "Processed/Tecnica Greedy (Algoritmi Golosi).md",
     "Processed/Programmazione Dinamica (DP).md",
-    "Processed/Esempio di utilizzo di dividi et impera.md",
-    "Processed/Problemi di Ottimizzazione.md",
-    "Processed/Problemi di Ricerca (o di Funzione).md",
-    "Processed/Problemi di Decisione.md",
-    "Processed/Che cosa e un algoritmo.md",
     "Resources/IMG/Pasted image 20260324184222.png",
-    "Processed/Complessita computazionale.md",
-    "Processed/Probblema e Algoritmo.md",
     "Resources/IMG/Pasted image 20260323190735.png",
     "Resources/PDF/DivEtImp_Pegaso.pdf",
-    "Processed/Aggiunta di utenti per server di calcolo 1.md",
-    "Processed/Configurazione e creazione Utenti server di calcolo 1.md",
     "Resources/PDF/UnProDue_Pegaso.pdf",
-    "Resources/IMG/Pasted image 20260318171307.png",
-    "Resources/IMG/Pasted image 20260318165439.png",
-    "Resources/IMG/Pasted image 20260318164406.png",
     "Resources/PDF/PseFlow_Pegaso.pdf",
     "Resources/PDF/IntAglAlg_Pegaso.pdf",
     "Resources/PDF/DiagrammaBlocchi_Pegaso.pdf",
@@ -276,7 +268,6 @@
     "Resources/PDF/DescrizioneAlgoritmi_Pegaso.pdf",
     "Resources/PDF/ProblemiAlgoritmi_Pegaso.pdf",
     "Resources/PDF/IngegneriaSoftware_Pegaso.pdf",
-    "Resources/PDF/ProgettazioneProgramma_Pegaso.pdf",
     "Resources/Mappe/Modello ISO OSI.canvas",
     "Resources/Mappe/Worckflow personale.canvas",
     "Resources/Mappe/Worckflow UNI.canvas",

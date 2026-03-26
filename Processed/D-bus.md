@@ -1,12 +1,12 @@
 ---
 tipo: nota_lezione
-corso: "Dashboard progetti personali"
-tags: [progetto, progettiPersonali, Completed]
-creato: 2026-03-25 22:52
+corso: "Dashboard Udemy morroLinux Linux"
+tags: [progetto, Linux, Udemy, morroLinux, certificazioni, Completed]
+creato: 2026-03-25 23:09
 ---
 
 # 📝 Lezione: D-bus
-**Corso:** [[Dashboard progetti personali]]
+**Corso:** [[Dashboard Udemy morroLinux Linux]]
 
 ---
 ## Contenuto
@@ -52,8 +52,6 @@ Si tratta di un messag bus sistem
 ![[Pasted image 20260325225651.png]]
 
 
-
-
 ---
 ## Collegamenti
-- Torna al corso: [[Dashboard progetti personali]]
+- Torna al corso: [[Dashboard Udemy morroLinux Linux]]

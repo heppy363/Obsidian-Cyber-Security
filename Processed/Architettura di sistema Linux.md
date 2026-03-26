@@ -19,3 +19,4 @@ creato: 2026-03-18 23:16
 - [[Gli interrupts in linux]]
 - [[Dispositivi e dirver in Linux]]
 - [[D-bus]]
+- [[La Sequenza di Boot BIOS vs UEFI]]

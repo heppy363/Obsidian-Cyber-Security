@@ -21,6 +21,9 @@ stato: in_corso
 ## Argomenti 
 1) [[Dashboard Rust]]
 2) [[Dashboard Python]]
+3) [[Micro python]]
+
+
 ---
 
 ## 📝 Note del Corso (dalla cartella Processed)
