@@ -4290,6 +4290,7 @@ Runlevel
 Reboot
 Riavvio
 Riparazione
+Runleavel
 link
 let
 la
@@ -5783,6 +5784,7 @@ chkdsk
 confusi
 chiude
 corrispondenze
+consolidamento
 file
 find
 for
@@ -6312,6 +6314,7 @@ formattata
 fallir
 finestre
 fermarli
+faresti
 md
 modify
 muoverli
@@ -7319,6 +7322,7 @@ varible
 varibale
 valroe
 vorore
+visualizzati
 read
 rename
 renameFile
@@ -8068,6 +8072,8 @@ recenti
 riparare
 ranlevel
 riasegno
+riasegnare
+riconosciuto
 parseInt
 precedenti
 path
@@ -8904,6 +8910,8 @@ pesati
 profondit
 personalizzazioni
 programmazioni
+parlato
+pipe
 date
 dasdas
 da
@@ -9566,6 +9574,7 @@ determinata
 dimezzando
 deprecato
 digitalmente
+dimenticata
 now
 newName
 name
@@ -9902,6 +9911,7 @@ nTM
 nlogn
 notizia
 nascosti
+notato
 YYYY
 YAML
 Yk
@@ -10566,6 +10576,7 @@ Agg
 Aggregazione
 Abstraction
 Arresto
+Apache
 elaborare
 eseguire
 esegui
@@ -11075,6 +11086,7 @@ eYs
 event
 entravi
 elmina
+edit
 Vault
 VM
 Village
@@ -13772,6 +13784,7 @@ EMM
 EqD
 ESP
 Equivalente
+Emergenza
 Sposta
 Spostato
 Spostati
@@ -14371,6 +14384,8 @@ Session
 Stage
 SysVinit
 Spegnimento
+Segue
+Suggerimento
 stato
 spostato
 spostamento
@@ -15854,6 +15869,7 @@ Initramfs
 Initial
 Init
 Inesistenti
+Intervenire
 workspace
 while
 workshop
@@ -16094,6 +16110,7 @@ wXi
 wzL
 wQBCI
 wRQV
+webcam
 Output
 Object
 Obiettivi

@@ -20,3 +20,4 @@ creato: 2026-03-18 23:16
 - [[Dispositivi e dirver in Linux]]
 - [[D-bus]]
 - [[La Sequenza di Boot BIOS vs UEFI]]
+- [[Runleavel e diagnostica al boot]]
