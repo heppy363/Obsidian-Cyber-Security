@@ -21,3 +21,4 @@ creato: 2026-03-18 23:16
 - [[D-bus]]
 - [[La Sequenza di Boot BIOS vs UEFI]]
 - [[Runleavel e diagnostica al boot]]
+- [[Cambio di runlevel System V init]]
