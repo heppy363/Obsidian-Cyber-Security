@@ -5,7 +5,7 @@ tags: [progetto, Linux, Udemy, morroLinux, certificazioni, Completed]
 creato: 2026-03-30 22:01
 ---
 
-# 📝 Lezione: Cambio di run;eve; System V init
+# 📝 Lezione: Cambio di runlevel System V init
 **Corso:** [[Dashboard Udemy morroLinux Linux]]
 
 ---
@@ -51,11 +51,11 @@ Per non creare i link a mano (rischioso!), si usano questi strumenti:
 - **`systemctl`** (Il presente):
     - `systemctl enable/disable [servizio]`: Per decidere se deve partire al boot.
 
+
 ---
-
 ### Analisi dei Log e Parametri (Extra)
-
 Hai citato un file fondamentale: **`/proc/cmdline`**. È una "miniera d'oro" per l'esame: leggendolo puoi vedere esattamente quali parametri sono stati passati dal Bootloader (GRUB) al Kernel al momento dell'avvio (inclusi i parametri di rete o il runlevel forzato).
+
 ---
 ## Collegamenti
 - Torna al corso: [[Dashboard Udemy morroLinux Linux]]

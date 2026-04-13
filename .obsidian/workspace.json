@@ -4,53 +4,102 @@
     "type": "split",
     "children": [
       {
-        "id": "f9674edad2b757c4",
+        "id": "aaffdda0bcb095cf",
         "type": "tabs",
         "children": [
           {
-            "id": "01471445ef3afb3d",
+            "id": "91d131e6b252d86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookshelf/Dashboard progetti personali/Dashboard Udemy morroLinux Linux.md",
+                "file": "Bookshelf/Dashboard progetti personali/Concorso pubblici.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard Udemy morroLinux Linux"
+              "title": "Concorso pubblici"
             }
           },
           {
-            "id": "5b0580200a2c89fe",
+            "id": "5bc0d642cead8354",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processed/Architettura di sistema Linux.md",
+                "file": "Concorso pianoro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architettura di sistema Linux"
+              "title": "Concorso pianoro"
             }
           },
           {
-            "id": "6c27518bdf0fafa8",
+            "id": "7bb1fd3406c461ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cambio di runlevel System V init.md",
+                "file": "Approfondimento Consiglio Comunale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cambio di runlevel System V init"
+              "title": "Approfondimento Consiglio Comunale"
+            }
+          },
+          {
+            "id": "42de1df3e35c4f27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La giunta comunale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La giunta comunale"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "fe6de8255bdf8428",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c65fb3c2285c0ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gli organi di governo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gli organi di governo"
+            }
+          },
+          {
+            "id": "a25b9c800babcc09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preseidente del consiglio VS Sindaco.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preseidente del consiglio VS Sindaco"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "555e91e6c56c459b",
@@ -220,43 +270,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c27518bdf0fafa8",
+  "active": "a25b9c800babcc09",
   "lastOpenFiles": [
-    "Processed/Architettura di sistema Linux.md",
-    "Cambio di runlevel System V init.md",
+    "La giunta comunale.md",
+    "Gli organi di governo.md",
+    "Preseidente del consiglio VS Sindaco.md",
+    "Concorso pianoro.md",
+    "Approfondimento Consiglio Comunale.md",
+    "Bookshelf/Dashboard progetti personali/Concorso pubblici.md",
+    "Processed/H-Net versione 1.0.md",
+    "Processed/Specifiche softwaremini PC.md",
+    "Processed/Che cosa e una VLAN.md",
+    "Processed/Specifiche Switch Zyxel 24.md",
+    "Bookshelf/Dashboard progetti personali/Dashboard H-NET.md",
+    "Bookshelf/Dashboard progetti personali/Dashboard progetti personali.md",
+    "Resources/Mappe/Modello ISO OSI.canvas",
+    "Processed/Modello ISO-OSI.md",
+    "Processed/Runleavel e diagnostica al boot.md",
+    "Processed/Cambio di runlevel System V init.md",
     "Bookshelf/Dashboard progetti personali/Dashboard Udemy morroLinux Linux.md",
-    "Runleavel e diagnostica al boot.md",
-    "26-03-2026-19.md",
+    "Processed/Architettura di sistema Linux.md",
+    "Bookshelf/Dashboard progetti personali/Dashboard CompTIA Network+.md",
+    "Grafici di utilizzo.md",
+    "Lesson/26-03-2026-19.md",
     "Bookshelf/Dashboard progetti personali/Dashboard linguaggi di programmazione.md",
-    "Micro python.md",
+    "Processed/Micro python.md",
     "Resources/PDF/VariabiliTipiDati_Pegaso.pdf",
     "Processed/Passaggio di parametri python.md",
     "Bookshelf/Dashboard progetti personali/Dashboard Python.md",
     "Resources/IMG/Pasted image 20260326192541.png",
     "Resources/IMG/Pasted image 20260326191516.png",
-    "Grafici di utilizzo.md",
     "Processed/La Sequenza di Boot BIOS vs UEFI.md",
     "Processed/approfondimento runlevel.md",
-    "Processed/D-bus.md",
-    "Processed/FAT 32.md",
     "Resources/IMG/Pasted image 20260325232156.png",
-    "Senza Titolo.md",
     "Resources/IMG/Pasted image 20260325225651.png",
     "Resources/IMG/Pasted image 20260325225307.png",
-    "Lesson/24-03-2026-18.md",
     "Resources/IMG/Pasted image 20260324212045.png",
     "Resources/IMG/Pasted image 20260324211058.png",
     "Resources/IMG/Pasted image 20260324210551.png",
-    "Bookshelf/Dashboard corsi/Algoritmi.md",
-    "Processed/Tecniche di progetto di un problema.md",
-    "Processed/dividi et impera.md",
-    "Processed/Introduzione agli algorimi.md",
-    "Processed/Che cosa e un problema.md",
-    "Processed/Un problema due algoritmi.md",
-    "Archive/23-03-2026-17.md",
-    "Processed/Visita di Strutture Dati.md",
-    "Processed/Algoritmi Probabilistici (Randomizzati).md",
-    "Processed/Backtracking.md",
     "Resources/IMG/Pasted image 20260324184222.png",
     "Resources/IMG/Pasted image 20260323190735.png",
     "Resources/PDF/DivEtImp_Pegaso.pdf",
@@ -268,7 +319,6 @@
     "Resources/PDF/DescrizioneAlgoritmi_Pegaso.pdf",
     "Resources/PDF/ProblemiAlgoritmi_Pegaso.pdf",
     "Resources/PDF/IngegneriaSoftware_Pegaso.pdf",
-    "Resources/Mappe/Modello ISO OSI.canvas",
     "Resources/Mappe/Worckflow personale.canvas",
     "Resources/Mappe/Worckflow UNI.canvas",
     "Resources/Mappe/worckflow UNI.canvas",

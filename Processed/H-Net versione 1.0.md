@@ -20,8 +20,8 @@ Si tratta di tutto l'HW necessario per completare la prima versione del mio hom 
 	- [[Specifiche hardware  router]]
 	- [[Specifiche software router]]
 	- [[Configurazione router 2]]
-3) Netgear GS116E
-	- [[Specifiche Netgear GS116E]]
+3) Switch Zyxel 24
+	- [[Specifiche Switch Zyxel 24]]
 4) Server di calcolo 1
 	- [[Specifiche HW server di calcolo 1]]
 	- [[Installare proxmox su HW reale]]
