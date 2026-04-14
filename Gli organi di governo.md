@@ -51,3 +51,4 @@ Per l'orale è fondamentale capire la differenza tra gli "output" di questi orga
 ---
 ## Collegamenti
 - Torna al corso: [[Concorso pubblici]]
+- [[Come gli organi di governo interagiscono]]
