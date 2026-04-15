@@ -1,0 +1,61 @@
+1. La Sezione "Amministrazione Trasparente" (Il Portale Dati)
+
+Ogni Comune deve avere sul proprio sito un'area specifica chiamata "Amministrazione Trasparente". È un'alberatura di cartelle standard definita dalla legge. Se un dato non è lì, è un bug di sistema.
+
+Cosa deve essere "pubblicato" (Endpoint principali):
+
+    Personale: Nomi dei dirigenti, i loro CV e quanto guadagnano.
+
+    Organizzazione: Chi sono i politici (Giunta e Consiglio) e che incarichi hanno.
+
+    Bilanci: Il bilancio preventivo e quello consuntivo (i flussi di cassa in entrata e uscita).
+
+    Bandi di gara e contratti: Chi ha vinto gli appalti e quanti soldi ha preso la ditta.
+
+    Provvedimenti: Le delibere e le determine che abbiamo visto nella Settimana 1.
+
+2. L'Accesso Civico: Due livelli di Query
+
+Qui la legge ti permette di interrogare il database comunale in due modi diversi. Per un sistemista, è come avere due diversi livelli di autorizzazione:
+A. Accesso Civico Semplice (Protocollo di segnalazione bug)
+
+    Quando si usa: Quando il Comune ha l'obbligo di pubblicare un dato (es. il CV di un dirigente) ma la cartella è vuota (404 Not Found).
+
+    Chi può farlo: Chiunque. Non serve essere residenti a Pianoro.
+
+    Cosa succede: Fai una segnalazione al Responsabile della Prevenzione della Corruzione e della Trasparenza (RPCT). Il Comune ha 30 giorni per caricare il file.
+
+B. Accesso Civico Generalizzato - FOIA (Freedom of Information Act)
+
+    Quando si usa: Quando vuoi vedere documenti che il Comune non ha l'obbligo di pubblicare sul sito, ma che riguardano l'interesse pubblico (es. "Voglio vedere i report sull'inquinamento acustico di quella strada").
+
+    Limiti: Qui entra in gioco la Privacy. Non puoi usare il FOIA per vedere dati sensibili o segreti di stato.
+
+3. La figura del RPCT (Il System Auditor)
+
+Ogni ente deve nominare un Responsabile della Prevenzione della Corruzione e della Trasparenza.
+
+    È il "controllore interno" che verifica che tutti gli uffici carichino i dati correttamente.
+
+    Redige ogni anno il PTPCT (Piano Triennale di Prevenzione della Corruzione e della Trasparenza), che è il manuale di sicurezza dell'ente contro i rischi di corruzione.
+
+Sintesi per l'Orale: Perché esiste il D.Lgs. 33?
+
+Se ti chiedono: "A cosa serve la trasparenza?", la tua risposta da tecnico deve essere:
+
+    Prevenzione della corruzione: Se tutto è visibile, è più difficile "truccare" i processi.
+
+    Accountability: I cittadini possono verificare se i politici stanno mantenendo le promesse.
+
+    Fiducia: Un sistema "open" è percepito come più affidabile di una scatola nera (black box).
+
+Risposta alla tua domanda precedente (Mensa Scolastica)
+
+Per la graduatoria del nido, avevi proposto:
+
+    Nome, Cognome e ISEE (Dati in chiaro).
+
+    Iniziali e numero di protocollo (Dati pseudonimizzati).
+
+La configurazione corretta è la 2.
+Per il D.Lgs. 33/2013 e il GDPR, pubblicare l'ISEE (dato economico/sociale) di una famiglia online sarebbe una violazione della privacy massiva. Basta il numero di protocollo: chi ha fatto la domanda può riconoscersi, ma il vicino di casa non può sapere quanto guadagna quella famiglia.
