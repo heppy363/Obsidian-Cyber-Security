@@ -1,0 +1,62 @@
+ domani passiamo a vedere chi sono i Dirigenti e come tu lavorerai per loro.
+
+1. La Classificazione dei Dati (Data Types)
+
+Proprio come in un database definisci i tipi di variabili (int, string, boolean), qui classifichiamo i dati dei cittadini:
+
+    Dati Comuni: Nome, cognome, codice fiscale, residenza. Sono necessari per identificare l'utente.
+
+    Categorie Particolari (Ex Dati Sensibili): Dati che rivelano l'origine razziale, le opinioni politiche, le convinzioni religiose, l'appartenenza sindacale, e soprattutto i dati relativi alla salute e alla vita sessuale.
+
+    Dati Giudiziari: Relativi a condanne penali o reati.
+
+Regola tecnica: Per processare i dati "particolari", il Comune deve avere una base giuridica fortissima (una legge o un motivo di interesse pubblico rilevante).
+2. Gli Attori della Privacy (User Hierarchy)
+
+Il Comune di Pianoro è una struttura gerarchica. Ecco i ruoli definiti dal GDPR:
+
+    Titolare del trattamento (Controller): È il Comune stesso (rappresentato dal Sindaco). È l'ente che decide "perché" e "come" trattare i dati.
+
+    Responsabile del Trattamento (Processor): Spesso è una ditta esterna (es. la software house che gestisce il database dei tributi o delle mense).
+
+    Soggetto Autorizzato: Sarai TU. Il dipendente che materialmente accede ai dati per fare il suo lavoro. Avrai permessi limitati solo a ciò che serve per la tua Area (V o VIII).
+
+    DPO (Data Protection Officer): Il "Security Admin". È un esperto che controlla che il Comune rispetti le regole e fa da ponte con il Garante della Privacy.
+
+3. I Principi Fondamentali (System Requirements)
+
+Quando tratti una pratica, devi sempre rispettare questi tre principi:
+
+    Minimizzazione: Devi chiedere solo i dati strettamente necessari. Se per un parcheggio non mi serve sapere se sei sposato, non te lo devo chiedere.
+
+    Limitazione della conservazione: Non puoi tenere i dati per sempre. Una volta finito il procedimento e passati i tempi di legge per i controlli, i dati vanno archiviati o cancellati.
+
+    Integrità e Riservatezza: Devi garantire che i dati non vengano hackerati o letti da colleghi che non c'entrano nulla (es. un tuo amico dell'Ufficio Tecnico non deve poter sbirciare i dati sanitari di una famiglia dell'Ufficio Scuola).
+
+4. Il "Data Breach" (Incidente di Sicurezza)
+
+Se per errore invii una mail con i nomi dei bambini disabili del nido (Area V) a tutti i genitori della scuola, hai fatto un Data Breach.
+
+    Cosa fare: Il Comune deve comunicarlo al Garante della Privacy entro 72 ore. Se il rischio per i cittadini è alto, deve avvisare anche loro.
+
+Caso Pratico per l'Orale:
+
+La commissione potrebbe chiederti:
+
+    "Un consigliere comunale (opposizione) le chiede l'elenco nominativo di tutti i cittadini che ricevono il 'bonus affitto' con l'indicazione del loro reddito ISEE. Cosa fa?"
+
+Logica da sistemista:
+
+    Il Consigliere ha il diritto di accesso per la sua funzione di controllo (è un utente con privilegi alti).
+
+    TUTTAVIA, il dato ISEE è molto sensibile.
+
+    Risposta: Gli dai i dati necessari per il controllo (es. "30 persone hanno ricevuto il bonus"), ma se vuole i nomi e i redditi singoli, deve dimostrare che gli servono proprio quei nomi per il suo mandato, altrimenti gli dai i dati anonimizzati.
+
+Riepilogo Privacy:
+
+    GDPR: Regolamento Europeo (le regole generali).
+
+    Codice Privacy (196/2003): La legge italiana che adatta il GDPR al nostro sistema.
+
+    Accountability: Il Comune deve saper dimostrare di aver protetto bene i dati.
