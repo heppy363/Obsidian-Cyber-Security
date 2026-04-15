@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concorso pianoro.md",
+                "file": "Processed/Concorso pianoro.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,105 +22,20 @@
             }
           },
           {
-            "id": "68953ebd0db2c7d7",
+            "id": "2395595cab98629c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organi di Governo e il Doppio Ruolo del Sindaco Artt. 36 54.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Organi di Governo e il Doppio Ruolo del Sindaco Artt. 36 54"
-            }
-          },
-          {
-            "id": "b5bf43626554c1a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lo Status degli Amministratori Artt. 77 86.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lo Status degli Amministratori Artt. 77 86"
-            }
-          },
-          {
-            "id": "172f87ec8d186922",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funzioni e Responsabilità dei Dirigenti Artt. 107 109.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Funzioni e Responsabilità dei Dirigenti Artt. 107 109"
-            }
-          },
-          {
-            "id": "fba3a21e3b5bacb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Delibera di Giunta e Determina Dirigenziale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Delibera di Giunta e Determina Dirigenziale"
-            }
-          },
-          {
-            "id": "ad72d72f5dffd1e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Specifiche delle legi D.Lgs. n.241 1990, D.Lgs. n. 33 2013, D.Lgs. n. 196 2003, DPR n. 445 2000.md",
+                "file": "Processed/Specifiche delle legi D.Lgs. n.241 1990, D.Lgs. n. 33 2013, D.Lgs. n. 196 2003, DPR n. 445 2000.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Specifiche delle legi D.Lgs. n.241 1990, D.Lgs. n. 33 2013, D.Lgs. n. 196 2003, DPR n. 445 2000"
             }
-          },
-          {
-            "id": "b8d3c0cfa05dd56e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D.Lgs. 196 2003 e GDPR La Protezione dei Dati.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "D.Lgs. 196 2003 e GDPR La Protezione dei Dati"
-            }
-          },
-          {
-            "id": "d884e1678cc73d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DPR 445 2000 Testo Unico sulla Documentazione.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DPR 445 2000 Testo Unico sulla Documentazione"
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,35 +205,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d884e1678cc73d49",
+  "active": "9340e675bdb63c19",
   "lastOpenFiles": [
-    "Specifiche delle legi D.Lgs. n.241 1990, D.Lgs. n. 33 2013, D.Lgs. n. 196 2003, DPR n. 445 2000.md",
-    "Delibera di Giunta e Determina Dirigenziale.md",
-    "Funzioni e Responsabilità dei Dirigenti Artt. 107 109.md",
-    "DPR 445 2000 Testo Unico sulla Documentazione.md",
-    "D.Lgs. 196 2003 e GDPR La Protezione dei Dati.md",
-    "D.Lgs. 33 2013 Trasparenza e Accesso Civico.md",
-    "Concorso pianoro.md",
-    "Organi di Governo e il Doppio Ruolo del Sindaco Artt. 36 54.md",
-    "Lo Status degli Amministratori Artt. 77 86.md",
-    "Legge 241 1990.md",
-    "Domande e risposte.md",
-    "La pratica si ferma.md",
-    "Focus sulla legge 241 90.md",
-    "Bookshelf/Dashboard progetti personali/Concorso pubblici.md",
-    "Gli organi di governo la TUEL.md",
-    "La giunta comunale.md",
-    "Come gli organi di governo interagiscono.md",
+    "Processed/Specifiche delle legi D.Lgs. n.241 1990, D.Lgs. n. 33 2013, D.Lgs. n. 196 2003, DPR n. 445 2000.md",
+    "Processed/Concorso pianoro.md",
+    "Processed/Organi di Governo e il Doppio Ruolo del Sindaco Artt. 36 54.md",
+    "Processed/Lo Status degli Amministratori Artt. 77 86.md",
+    "Processed/Funzioni e Responsabilità dei Dirigenti Artt. 107 109.md",
+    "Processed/DPR 445 2000 Testo Unico sulla Documentazione.md",
+    "Processed/D.Lgs. 196 2003 e GDPR La Protezione dei Dati.md",
     "RICEVUTA PER PRESTAZIONE OCCASIONALE N. 001 2026.md",
-    "Diritto di accesso.md",
-    "Gestione delle tempistiche.md",
-    "Preseidente del consiglio VS Sindaco.md",
+    "Untitled.md",
+    "Processed/Delibera di Giunta e Determina Dirigenziale.md",
+    "TO-DO",
+    "D.leg 33-2013",
+    "Processed/D.Lgs. 33 2013 Trasparenza e Accesso Civico.md",
+    "Processed/Legge 241 1990.md",
+    "Processed/Domande e risposte.md",
+    "Processed/La pratica si ferma.md",
+    "Processed/Focus sulla legge 241 90.md",
+    "Bookshelf/Dashboard progetti personali/Concorso pubblici.md",
+    "Processed/Gli organi di governo la TUEL.md",
+    "Processed/La giunta comunale.md",
+    "Processed/Come gli organi di governo interagiscono.md",
+    "Processed/Diritto di accesso.md",
+    "Processed/Gestione delle tempistiche.md",
+    "Processed/Preseidente del consiglio VS Sindaco.md",
     "Processed/H-Net versione 1.0.md",
     "Bookshelf/Dashboard progetti personali/Dashboard H-NET.md",
     "Processed/Configurazione SW.md",
-    "Approfondimento Consiglio Comunale.md",
+    "Processed/Approfondimento Consiglio Comunale.md",
     "Senza nome.base",
-    "Processed/Specifiche softwaremini PC.md",
     "Resources/Mappe/Modello ISO OSI.canvas",
     "Resources/PDF/VariabiliTipiDati_Pegaso.pdf",
     "Resources/IMG/Pasted image 20260326192541.png",
@@ -337,8 +254,6 @@
     "Resources/PDF/IntAglAlg_Pegaso.pdf",
     "Resources/PDF/DiagrammaBlocchi_Pegaso.pdf",
     "Resources/PDF/DiagrammiFlusso_Pegaso.pdf",
-    "Resources/PDF/DescrizioneAlgoritmi_Pegaso.pdf",
-    "Resources/PDF/ProblemiAlgoritmi_Pegaso.pdf",
     "Resources/Mappe/Worckflow personale.canvas",
     "Resources/Mappe/Worckflow UNI.canvas",
     "Resources/Mappe/worckflow UNI.canvas",

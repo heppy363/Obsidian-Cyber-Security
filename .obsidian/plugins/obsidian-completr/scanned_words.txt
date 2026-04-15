@@ -847,6 +847,13 @@ agire
 astenersi
 accessibilit
 assunto
+autocertificazione
+autenticata
+allegare
+attestare
+attestano
+acquisire
+amministrazioni
 Completate
 Completed
 Controlla
@@ -1467,6 +1474,7 @@ Contributo
 Cittadino
 Cancellazione
 Chiedere
+Conforme
 tags
 tp
 tfile
@@ -2014,6 +2022,8 @@ terzi
 targa
 trattare
 tenerli
+tessera
+togli
 Modulo
 MM
 Modalit
@@ -2697,6 +2707,7 @@ Neutralit
 NETTO
 Normativi
 Normativa
+Notoriet
 Link
 Lesson
 Linux
@@ -3039,6 +3050,7 @@ Legale
 Legittimato
 Liceit
 Limitazione
+Legalizzazione
 TO
 TFile
 Trovati
@@ -3444,6 +3456,7 @@ Termine
 Titolare
 Trattamento
 Testo
+Tizio
 DO
 Docente
 DD
@@ -3956,6 +3969,11 @@ Decisionale
 Dovere
 DPO
 Diritti
+Decertificazione
+Dichiarazioni
+Dichiarazione
+Decadenza
+Dichiarare
 Riferimenti
 RegExp
 Red
@@ -4878,6 +4896,8 @@ legali
 legi
 lode
 lede
+legalizzare
+leggi
 const
 counterPath
 counter
@@ -6035,6 +6055,13 @@ condanne
 comandamenti
 concilia
 criptare
+certificabili
+campione
+colloquio
+calce
+cambiate
+chiederlo
+consultando
 file
 find
 for
@@ -6581,6 +6608,8 @@ finanziaria
 firmata
 focalizzati
 fiscale
+fotocopia
+fida
 md
 modify
 muoverli
@@ -7174,6 +7203,7 @@ monocratico
 mensile
 metter
 medica
+mentito
 vault
 visibile
 vietate
@@ -7621,6 +7651,7 @@ voti
 votazione
 vigila
 volantini
+veridicit
 read
 rename
 renameFile
@@ -8418,6 +8449,9 @@ raccogli
 raccogliere
 rubati
 riservatezza
+reddito
+reato
+rifiutarsi
 parseInt
 precedenti
 path
@@ -9298,6 +9332,8 @@ pubblichino
 paga
 politiche
 pubblichi
+penale
+portarmi
 date
 dasdas
 da
@@ -9993,6 +10029,9 @@ ditte
 disabile
 diagnosi
 danneggiare
+dirgli
+dichiarazioni
+dichiari
 now
 newName
 name
@@ -11036,6 +11075,8 @@ Autonomia
 Aspettative
 Accessi
 Appunto
+Autocertificazione
+Autentica
 elaborare
 eseguire
 esegui
@@ -11571,6 +11612,8 @@ esercita
 elettive
 eccezioni
 elettorali
+erede
+effettuare
 Vault
 VM
 Village
@@ -11881,6 +11924,7 @@ Vogliamo
 Valuta
 Vigilanza
 Vetro
+Verso
 getMarkdownFiles
 gi
 getActiveFile
@@ -12670,6 +12714,7 @@ orientamento
 omissis
 oscuramento
 oscurare
+organizza
 if
 includes
 imposta
@@ -13426,6 +13471,8 @@ imparzialit
 indennit
 immobili
 interessati
+incaricato
+identica
 Percorso
 Per
 Processed
@@ -13988,6 +14035,9 @@ Prevenire
 Pubblicazione
 Protagonisti
 Prevale
+Portami
+PRIVATI
+Procura
 Escludi
 Esclude
 Errore
@@ -15003,6 +15053,9 @@ Soggetto
 Sensibili
 Situazione
 Sistemistico
+Sui
+Sostitutive
+Sostitutiva
 stato
 spostato
 spostamento
@@ -16097,6 +16150,11 @@ svelati
 sessuale
 spiare
 specchietto
+smarrito
+scopri
+scadono
+solide
+snellire
 Imposta
 IT
 Imparare
@@ -17840,6 +17898,8 @@ bando
 bilanci
 beni
 buste
+bugia
+banche
 Bookshelf
 Bash
 Blue
