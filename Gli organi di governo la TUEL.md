@@ -42,11 +42,27 @@ In un Comune, il potere non è concentrato in un unico punto, ma diviso per bila
 ## Workflow degli Atti: Delibere vs Determine
 Per l'orale è fondamentale capire la differenza tra gli "output" di questi organi:
 
-|Atto|Chi lo firma?|Cosa contiene?|
-|---|---|---|
-|**Delibera di Consiglio**|Il Presidente del Consiglio|Scelte strategiche e regolamenti (es. "Cambiamo il regolamento asili").|
-|**Delibera di Giunta**|Il Sindaco (o vice)|Scelte esecutive (es. "Approviamo il progetto tecnico per l'asilo").|
-|**Determina (o Det.)**|Il Dirigente/Responsabile|Gestione pura (es. "Compro 10 sedie per l'asilo con questi soldi").|
+| Atto                      | Chi lo firma?               | Cosa contiene?                                                          |
+| ------------------------- | --------------------------- | ----------------------------------------------------------------------- |
+| **Delibera di Consiglio** | Il Presidente del Consiglio | Scelte strategiche e regolamenti (es. "Cambiamo il regolamento asili"). |
+| **Delibera di Giunta**    | Il Sindaco (o vice)         | Scelte esecutive (es. "Approviamo il progetto tecnico per l'asilo").    |
+| **Determina (o Det.)**    | Il Dirigente/Responsabile   | Gestione pura (es. "Compro 10 sedie per l'asilo con questi soldi").     |
+
+## 2. La Distinzione tra Politica e Gestione
+Questo è un concetto che i commissari d'esame amano molto.
+- **Organi di Governo (Sindaco, Giunta, Consiglio):** Spettano le funzioni di indirizzo politico e la verifica del raggiungimento dei risultati.
+- **Dirigenti (o Responsabili di Servizio):** Spetta la **gestione amministrativa, finanziaria e tecnica**. Sono loro che adottano i provvedimenti che impegnano l'amministrazione verso l'esterno (es. determine, contratti).
+
+## 3. Atti Normativi del Comune
+Per l'esame a Pianoro, ricorda la gerarchia delle fonti interne:
+1. **Statuto:** L'atto fondamentale che stabilisce le norme di organizzazione dell'ente, le forme di collaborazione tra comuni, e i diritti delle minoranze.
+2. **Regolamenti:** Adottati nel rispetto della legge e dello statuto per l'organizzazione e il funzionamento delle istituzioni e per l'esercizio delle funzioni.
+
+### Focus per lo Studio (Articoli Chiave)
+- [[Organi di Governo e il Doppio Ruolo del Sindaco Artt. 36 54]]
+- [[Lo Status degli Amministratori Artt. 77 86]]
+- [[Funzioni e Responsabilità dei Dirigenti Artt. 107 109]]
+- [[Delibera di Giunta e Determina Dirigenziale]]
 
 ---
 ## Collegamenti

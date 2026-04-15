@@ -14,7 +14,7 @@ creato: 2026-04-13 21:06
 ### Settimana 1: Il Sistema Operativo (Il Comune)
 _Obiettivo: Capire chi comanda e come è strutturato l'Ente (D.Lgs. 267/2000)._
 - **Lunedì - Mercoledì:** Gli Organi di Governo. Chi fa cosa? Sindaco, Giunta (esecutivo) e Consiglio (legislativo locale).
-	- [[Gli organi di governo]]
+	- [[Gli organi di governo la TUEL]]
 - **Giovedì - Venerdì:** Distinzione tra Politica e Gestione. I Dirigenti/Responsabili di Area (quelli che firmano gli atti che tu preparerai).
 - **Sabato - Domenica:** Ripasso e lettura dello Statuto del Comune di Pianoro (lo trovi sul loro sito: è il loro "readme.txt").
 
@@ -23,6 +23,7 @@ _Obiettivo: Studiare come si scrive un programma (procedimento amministrativo)._
 - **Lunedì - Mercoledì:** Le fasi del procedimento (Iniziativa, Istruttoria, Decisoria, Integrativa dell'efficacia).
 - **Giovedì - Venerdì:** Il Responsabile del Procedimento (il "project manager" della pratica) e il diritto di accesso (chi può leggere i log/dati?).
 - **Sabato - Domenica:** Il Silenzio Assenso (quando il sistema non risponde, è un OK o un Errore?) e la SCIA.
+	- [[Specifiche delle legi D.Lgs. n.241 1990, D.Lgs. n. 33 2013, D.Lgs. n. 196 2003, DPR n. 445 2000]]
 
 ### Settimana 3: Permessi e Sicurezza (Privacy, Trasparenza e Anticorruzione)
 _Obiettivo: Capire i vincoli di sicurezza e i dati (GDPR e D.Lgs. 33/2013)._
